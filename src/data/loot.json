@@ -37,6 +37,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Other Quest"
     ],
     "uses": [
@@ -95,7 +97,8 @@
       "Vend"
     ],
     "categories": [
-      "Repeatable Quest"
+      "Repeatable Quest",
+      "uaRO"
     ],
     "uses": [],
     "notes": "",
@@ -116,7 +119,7 @@
       "Vend"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -138,6 +141,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -165,11 +170,12 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting",
+      "Skills",
       "Cooking",
       "Brewing",
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -204,6 +210,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -232,6 +240,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Server Hat Quest"
     ],
@@ -276,6 +286,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -303,6 +315,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -330,6 +344,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -403,7 +419,9 @@
     ],
     "categories": [
       "Cooking",
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -474,7 +492,8 @@
       "Cooking",
       "Official Hat Quest",
       "Other Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -509,6 +528,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -564,7 +585,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -595,7 +617,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -623,7 +646,7 @@
     ],
     "categories": [
       "Cooking",
-      "Pet Taming Item Ingredient"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -644,7 +667,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -695,6 +720,7 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -741,6 +767,7 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Dungeon Quest"
     ],
     "uses": [
@@ -768,7 +795,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -812,9 +839,10 @@
       "Keep"
     ],
     "categories": [
-      "Pet Food",
+      "Pet",
       "Cooking",
-      "Pet Evolution"
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -840,7 +868,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -866,7 +895,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -888,7 +917,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -914,7 +944,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [
       {
@@ -959,7 +989,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1007,6 +1038,7 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Cooking"
     ],
     "uses": [],
@@ -1028,7 +1060,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -1091,7 +1123,7 @@
     "itemType": "Consumable",
     "actions": [],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "Yoyo Pet food",
@@ -1169,7 +1201,9 @@
     ],
     "categories": [
       "Card",
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1199,7 +1233,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -1221,7 +1255,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1266,7 +1302,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -1309,7 +1345,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -1331,7 +1367,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "Create Deadly Poison",
@@ -1378,7 +1414,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -1426,7 +1462,8 @@
       "Vend"
     ],
     "categories": [
-      "Repeatable Quest"
+      "Repeatable Quest",
+      "uaRO"
     ],
     "uses": [],
     "notes": "",
@@ -1447,7 +1484,7 @@
       "Vend"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -1468,7 +1505,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
+      "Pet",
       "Cooking"
     ],
     "uses": [],
@@ -1517,7 +1554,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "Sucubus Pet accessory",
@@ -1541,6 +1578,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -1549,7 +1588,7 @@
         "qty": 200
       },
       {
-        "for": "Wikibine's Black Cat Ears",
+        "for": "Wickebine's Black Cat Ears",
         "qty": 500
       }
     ],
@@ -1573,7 +1612,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1607,7 +1647,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1637,7 +1679,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "Create Elemental Converter",
@@ -1660,7 +1702,9 @@
     ],
     "categories": [
       "Pet Evolution",
-      "Skill Crafting"
+      "Pet",
+      "uaRO",
+      "Skills"
     ],
     "uses": [
       {
@@ -1687,7 +1731,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1767,7 +1813,8 @@
     "categories": [
       "Dungeon Quest",
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1801,7 +1848,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Use",
+      "Skills",
       "Job Quest"
     ],
     "uses": [],
@@ -1844,6 +1891,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Brewing"
     ],
     "uses": [
@@ -1895,7 +1944,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -1917,7 +1966,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1973,7 +2023,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -1999,7 +2050,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Baphomet Jr. Taming Item",
@@ -2022,7 +2073,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -2078,7 +2130,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Succubus Taming Item",
@@ -2121,7 +2173,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -2223,7 +2277,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -2330,7 +2384,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -2357,7 +2413,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting",
+      "Skills",
       "Official Hat Quest"
     ],
     "uses": [
@@ -2414,7 +2470,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food",
+      "Pet",
       "Official Hat Quest"
     ],
     "uses": [
@@ -2553,7 +2609,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "Lunatic Pet food",
@@ -2596,7 +2652,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -2639,7 +2696,7 @@
     "itemType": "Consumable",
     "actions": [],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Evil Nymph Taming Item",
@@ -2690,7 +2747,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item Ingredient"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -2733,7 +2790,8 @@
       "NPC"
     ],
     "categories": [
-      "Repeatable Quest"
+      "Repeatable Quest",
+      "uaRO"
     ],
     "uses": [],
     "notes": "",
@@ -2755,7 +2813,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -2811,7 +2871,7 @@
       "Vend"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -2855,11 +2915,13 @@
     ],
     "categories": [
       "Dungeon Quest",
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
-        "for": "Rigid Nightmare Terror Pet evolution",
+        "for": "Rigid Nightmare Terror Pet Evolution",
         "qty": 100
       }
     ],
@@ -2882,7 +2944,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -2910,6 +2973,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -2967,7 +3032,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -3060,7 +3127,7 @@
       "Vend"
     ],
     "categories": [
-      "Skill Use"
+      "Skills"
     ],
     "uses": [],
     "notes": "Professor skill",
@@ -3124,12 +3191,13 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
-        "for": "Diabloic Pet Evolution",
+        "for": "Diabolic Pet Evolution",
         "qty": 3
       }
     ],
@@ -3151,7 +3219,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -3226,7 +3296,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -3252,7 +3323,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -3343,7 +3414,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -3371,7 +3443,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Use"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -3392,7 +3464,7 @@
       "NPC"
     ],
     "categories": [
-      "Skill Use"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -3441,7 +3513,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -3505,7 +3578,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -3532,6 +3606,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -3564,6 +3640,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Server Hat Quest"
     ],
     "uses": [
@@ -3614,7 +3692,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item Ingredient"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -3682,7 +3760,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Poison Spore Taming Item",
@@ -3701,8 +3779,9 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Food",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -3728,7 +3807,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Marionette Taming Item",
@@ -3750,6 +3829,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -3848,11 +3929,13 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
       {
-        "for": "Diabloic Pet Evolution",
+        "for": "Diabolic Pet Evolution",
         "qty": 1
       }
     ],
@@ -3874,7 +3957,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Spore Taming Item",
@@ -3916,7 +3999,9 @@
     ],
     "categories": [
       "Repeatable Quest",
-      "Pet Evolution"
+      "uaRO",
+      "Pet Evolution",
+      "Pet"
     ],
     "uses": [
       {
@@ -4061,7 +4146,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -4084,11 +4170,12 @@
     "itemId": 4004,
     "itemType": "Misc",
     "actions": [
-      "Card Recycler",
       "Vend"
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -4136,7 +4223,9 @@
     ],
     "categories": [
       "Card",
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -4163,7 +4252,8 @@
       "Vend"
     ],
     "categories": [
-      "Repeatable Quest"
+      "Repeatable Quest",
+      "uaRO"
     ],
     "uses": [],
     "notes": "",
@@ -4234,7 +4324,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -4261,11 +4352,12 @@
     "itemId": 4659,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Card Recycler"
+      "Vend"
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -4372,7 +4464,9 @@
       "Keep"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -4426,7 +4520,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -4452,7 +4547,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting",
+      "Skills",
       "Official Hat Quest"
     ],
     "uses": [
@@ -4487,8 +4582,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting",
-      "Skill Use",
+      "Skills",
       "Brewing"
     ],
     "uses": [],
@@ -4511,6 +4605,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -4524,7 +4620,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -4538,11 +4634,13 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
       {
-        "for": "Baophomet Jr Pet Evolution",
+        "for": "Baphomet Jr Pet Evolution",
         "qty": 300
       },
       {
@@ -4573,7 +4671,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -4624,6 +4723,8 @@
     "categories": [
       "Official Hat Quest",
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Brewing"
     ],
     "uses": [
@@ -4662,7 +4763,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Civil Servant Taming Item",
@@ -4750,8 +4851,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
+      "Pet",
       "Pet Evolution",
+      "uaRO",
       "Cooking"
     ],
     "uses": [
@@ -4779,6 +4881,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Server Hat Quest"
     ],
@@ -4956,7 +5060,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -4982,7 +5088,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -5003,7 +5109,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Flail Goblin Taming Item",
@@ -5024,7 +5130,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -5046,8 +5152,9 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting",
-      "Server Hat Quest"
+      "Skills",
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -5073,7 +5180,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -5126,6 +5233,7 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -5171,7 +5279,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Zealotus Taming Item",
@@ -5194,6 +5302,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Server Hat Quest"
     ],
@@ -5328,8 +5438,9 @@
       "Keep"
     ],
     "categories": [
-      "Pet Food",
-      "Server Hat Quest"
+      "Pet",
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -5355,7 +5466,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -5378,6 +5489,7 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Brewing"
     ],
     "uses": [],
@@ -5420,7 +5532,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -5451,7 +5564,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -5568,7 +5682,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Whisper Taming Item",
@@ -5590,6 +5704,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -5607,7 +5723,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -5696,7 +5812,7 @@
     "itemType": "Consumable",
     "actions": [],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Miyabi Doll Taming Item",
@@ -5717,7 +5833,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -5742,7 +5858,8 @@
     "categories": [
       "Other Quest",
       "Dungeon Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -5801,6 +5918,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Other Quest",
       "Server Hat Quest"
@@ -5881,7 +6000,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Accessory",
+      "Pet",
       "Official Hat Quest"
     ],
     "uses": [
@@ -5906,7 +6025,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -5947,6 +6066,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -5960,7 +6081,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -6044,7 +6165,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -6068,7 +6191,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -6090,7 +6213,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -6111,7 +6234,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -6183,15 +6306,17 @@
       "Vend"
     ],
     "categories": [
-      "Pet Food",
+      "Pet",
       "Pet Evolution",
+      "uaRO",
       "Cooking",
       "Dungeon Quest"
     ],
     "uses": [
       {
-        "for": "Veins Sibling Quest (each try)",
-        "qty": 10
+        "for": "Veins Siblings Quest",
+        "qty": 10,
+        "note": "each try"
       },
       {
         "for": "Aliza Pet Evolution",
@@ -6214,7 +6339,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -6235,7 +6360,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Accessory",
+      "Pet",
       "Official Hat Quest"
     ],
     "uses": [
@@ -6263,7 +6388,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Use"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -6303,7 +6428,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -6368,7 +6493,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -6390,7 +6515,9 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -6416,7 +6543,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Hammer Gobling Taming Item",
@@ -6459,11 +6586,13 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
-        "for": "Diabolic Pet evolution",
+        "for": "Diabolic Pet Evolution",
         "qty": 50
       },
       {
@@ -6490,7 +6619,8 @@
       "Keep"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -6649,7 +6779,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Nightmare Terror Taming Item",
@@ -6696,7 +6826,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Bongun Taming Item",
@@ -6719,6 +6849,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Server Hat Quest"
     ],
@@ -6799,6 +6931,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -6829,7 +6963,7 @@
       "Vend"
     ],
     "categories": [
-      "Skill Use",
+      "Skills",
       "Dungeon Quest",
       "Other Quest"
     ],
@@ -6882,8 +7016,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Food",
+      "Pet",
       "Pet Evolution",
+      "uaRO",
       "Cooking"
     ],
     "uses": [
@@ -6933,7 +7068,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "Create Elemental Converter",
@@ -6952,7 +7087,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -6971,7 +7106,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -7043,7 +7178,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item Ingredient"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -7084,7 +7219,9 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Pet Evolution",
+      "Pet",
       "Cooking"
     ],
     "uses": [
@@ -7117,6 +7254,7 @@
     ],
     "categories": [
       "Server Hat Quest",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -7130,7 +7268,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -7144,7 +7282,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -7210,7 +7350,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Imp Taming Item",
@@ -7232,7 +7372,8 @@
       "NPC"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -7259,7 +7400,8 @@
     ],
     "categories": [
       "Cooking",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -7291,7 +7433,7 @@
     ],
     "categories": [
       "Cooking",
-      "Pet Food",
+      "Pet",
       "Brewing"
     ],
     "uses": [],
@@ -7398,7 +7540,7 @@
     "itemType": "Consumable",
     "actions": [],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -7439,6 +7581,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -7543,6 +7687,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Dungeon Quest"
     ],
@@ -7552,8 +7698,9 @@
         "qty": 10000
       },
       {
-        "for": "Veins Sibling Quest (each try)",
-        "qty": 10
+        "for": "Veins Siblings Quest",
+        "qty": 10,
+        "note": "each try"
       },
       {
         "for": "Angeling Pet Evolution",
@@ -7579,7 +7726,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -7606,6 +7754,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -7619,7 +7769,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -7636,7 +7786,7 @@
     ],
     "uses": [
       {
-        "for": "Finding the Moving Island (Moscovia Dungeon)",
+        "for": "Finding the Moving Island Quest (Moscovia Dungeon Access)",
         "qty": 10
       }
     ],
@@ -7659,7 +7809,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting",
+      "Skills",
       "Other Quest"
     ],
     "uses": [],
@@ -7701,7 +7851,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -7717,7 +7868,7 @@
         "qty": 1
       },
       {
-        "for": "Wikibine's Black Cat Ears",
+        "for": "Wickebine's Black Cat Ears",
         "qty": 1
       }
     ],
@@ -7739,7 +7890,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -7760,7 +7911,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Shinobi Taming Item",
@@ -7802,7 +7953,8 @@
     ],
     "categories": [
       "Brewing",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -7829,6 +7981,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -7947,7 +8101,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8013,7 +8169,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8040,6 +8198,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [],
@@ -8062,7 +8222,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8088,7 +8250,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -8109,7 +8271,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Dullahan Taming Item",
@@ -8130,8 +8292,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8158,7 +8321,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8190,7 +8354,9 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "Pet Evolution"
+      "uaRO",
+      "Pet Evolution",
+      "Pet"
     ],
     "uses": [
       {
@@ -8217,7 +8383,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8339,6 +8506,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -8352,7 +8521,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -8366,7 +8535,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8398,7 +8568,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -8420,6 +8590,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Cooking"
     ],
     "uses": [
@@ -8448,7 +8620,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8479,6 +8652,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Cooking"
     ],
     "uses": [
@@ -8549,6 +8724,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -8562,7 +8739,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -8579,8 +8756,9 @@
     ],
     "uses": [
       {
-        "for": "Veins Sibling Quest (each try)",
-        "qty": 2
+        "for": "Veins Siblings Quest",
+        "qty": 2,
+        "note": "each try"
       },
       {
         "for": "Crunch Toast",
@@ -8604,7 +8782,7 @@
     "actions": [],
     "categories": [
       "Dungeon Quest",
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -8666,7 +8844,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Hunter Fly Taming Item",
@@ -8687,7 +8865,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -8729,7 +8907,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Food",
+      "Pet",
       "Brewing"
     ],
     "uses": [],
@@ -8847,6 +9025,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -8860,7 +9040,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -8874,7 +9054,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8898,7 +9080,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -8947,8 +9129,9 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting",
-      "Server Hat Quest"
+      "Skills",
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -8993,7 +9176,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -9071,6 +9254,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -9088,7 +9273,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -9102,6 +9287,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Cooking",
       "Server Hat Quest"
@@ -9139,7 +9326,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Munak Taming Item",
@@ -9265,7 +9452,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Stone Shooter Taming Item",
@@ -9306,8 +9493,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -9334,6 +9522,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Cooking"
     ],
@@ -9367,7 +9557,8 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "Pet Taming Item Ingredient"
+      "uaRO",
+      "Pet"
     ],
     "uses": [
       {
@@ -9413,7 +9604,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -9459,7 +9652,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Willow Pet Taming Item",
@@ -9481,7 +9674,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -9602,7 +9797,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Drops Taming Item",
@@ -9625,6 +9820,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -9638,7 +9835,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -9671,8 +9868,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -9700,6 +9898,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -9717,7 +9917,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -9750,7 +9950,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -9778,6 +9980,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -9861,7 +10065,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Accessory",
+      "Pet",
       "Official Hat Quest"
     ],
     "uses": [
@@ -9972,7 +10176,9 @@
     ],
     "categories": [
       "Card",
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -9985,7 +10191,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -9999,6 +10205,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Server Hat Quest"
     ],
@@ -10027,7 +10235,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10051,7 +10260,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -10072,8 +10281,9 @@
       "Keep"
     ],
     "categories": [
-      "Pet Food",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10104,7 +10314,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10128,7 +10340,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -10226,7 +10438,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10272,7 +10486,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10298,7 +10513,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -10320,7 +10535,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10367,7 +10583,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting",
+      "Skills",
       "Official Hat Quest",
       "Brewing"
     ],
@@ -10396,7 +10612,8 @@
       "Vend"
     ],
     "categories": [
-      "Repeatable Quest"
+      "Repeatable Quest",
+      "uaRO"
     ],
     "uses": [],
     "notes": "",
@@ -10481,7 +10698,8 @@
       "Vend"
     ],
     "categories": [
-      "Repeatable Quest"
+      "Repeatable Quest",
+      "uaRO"
     ],
     "uses": [],
     "notes": "",
@@ -10504,7 +10722,8 @@
     ],
     "categories": [
       "Cooking",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10572,7 +10791,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10598,7 +10818,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -10620,7 +10840,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "Keep 1",
@@ -10660,7 +10880,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10684,7 +10905,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -10703,7 +10924,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -10724,8 +10945,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Accessory",
+      "Pet",
       "Pet Evolution",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -10778,7 +11000,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Taming Item",
+      "Pet",
       "Cooking"
     ],
     "uses": [],
@@ -10800,7 +11022,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "Create Elemental Converter",
@@ -10902,7 +11124,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -10936,8 +11159,8 @@
       "Keep"
     ],
     "categories": [
-      "Pet Food",
-      "Skill Use",
+      "Pet",
+      "Skills",
       "Job Quest"
     ],
     "uses": [],
@@ -10959,7 +11182,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Food",
+      "Pet",
       "Brewing"
     ],
     "uses": [],
@@ -11008,7 +11231,8 @@
       "NPC"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11032,7 +11256,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "Smokie Pet accessory",
@@ -11093,7 +11317,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11145,7 +11371,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11222,7 +11449,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -11262,7 +11489,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -11364,8 +11591,9 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting",
-      "Server Hat Quest"
+      "Skills",
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11416,7 +11644,7 @@
     "itemType": "Consumable",
     "actions": [],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Chonchon Taming Item",
@@ -11457,7 +11685,8 @@
       "Keep"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11483,7 +11712,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -11504,7 +11733,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -11526,8 +11755,9 @@
       "Whobuy"
     ],
     "categories": [
-      "Skill Crafting",
-      "Server Hat Quest"
+      "Skills",
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11609,6 +11839,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest",
       "Other Quest"
     ],
@@ -11641,7 +11873,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Steel Chonchon Taming Item",
@@ -11663,6 +11895,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Other Quest",
       "Dungeon Quest"
     ],
@@ -11798,7 +12032,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [
       {
@@ -11845,7 +12079,7 @@
     "categories": [],
     "uses": [
       {
-        "for": "new world quest",
+        "for": "New World Quest",
         "qty": 1
       }
     ],
@@ -11890,7 +12124,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11924,7 +12159,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -11950,7 +12187,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -11993,7 +12230,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting",
+      "Skills",
       "Cooking"
     ],
     "uses": [],
@@ -12024,7 +12261,7 @@
         "qty": 300
       },
       {
-        "for": "Finding the Moving Island Quest (Moscovia Dungeon)",
+        "for": "Finding the Moving Island Quest (Moscovia Dungeon Access)",
         "qty": 10
       }
     ],
@@ -12048,6 +12285,7 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Cooking"
     ],
     "uses": [],
@@ -12089,7 +12327,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -12117,12 +12357,14 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Cooking",
       "Official Hat Quest"
     ],
     "uses": [
       {
-        "for": "for Little Isis Pet Evolution",
+        "for": "Little Isis Pet Evolution",
         "qty": 300
       },
       {
@@ -12152,8 +12394,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -12180,7 +12423,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Pet Food",
+      "Pet",
       "Cooking",
       "Brewing"
     ],
@@ -12262,6 +12505,7 @@
     ],
     "categories": [
       "Server Hat Quest",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -12275,7 +12519,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -12289,7 +12533,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Accessory",
+      "Pet",
       "Official Hat Quest"
     ],
     "uses": [
@@ -12339,7 +12583,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Sohee Taming Item",
@@ -12360,7 +12604,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Rocker Taming Item",
@@ -12382,6 +12626,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -12479,6 +12725,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Server Hat Quest"
     ],
     "uses": [
@@ -12511,7 +12759,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -12563,7 +12811,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [
       {
@@ -12589,7 +12837,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -12631,7 +12879,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting"
+      "Skills"
     ],
     "uses": [],
     "notes": "Create Elemental Converter",
@@ -12671,8 +12919,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
-      "Server Hat Quest"
+      "Pet",
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -12735,7 +12984,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -12775,7 +13025,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -12802,6 +13053,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -12815,7 +13068,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -12990,7 +13243,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [
       {
@@ -13017,7 +13270,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Medusa Taming Item",
@@ -13066,7 +13319,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -13089,6 +13342,7 @@
     ],
     "categories": [
       "Server Hat Quest",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -13102,7 +13356,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -13148,7 +13402,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Goblin Leader Taming Item",
@@ -13169,7 +13423,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -13215,7 +13470,7 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Skill Crafting",
+      "Skills",
       "Brewing"
     ],
     "uses": [
@@ -13298,7 +13553,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Accessory",
+      "Pet",
       "Official Hat Quest"
     ],
     "uses": [],
@@ -13455,6 +13710,7 @@
     ],
     "categories": [
       "Repeatable Quest",
+      "uaRO",
       "Dungeon Quest"
     ],
     "uses": [],
@@ -13480,7 +13736,7 @@
     ],
     "uses": [
       {
-        "for": "Finding the Moving Island Quest (Moscovia Dungeon)",
+        "for": "Finding the Moving Island Quest (Moscovia Dungeon Access)",
         "qty": 10
       }
     ],
@@ -13567,7 +13823,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -13634,7 +13890,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -13676,7 +13932,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -13698,8 +13954,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Taming Item",
-      "Pet Evolution"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
     "uses": [
       {
@@ -13725,7 +13982,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Smokie Taming Item",
@@ -13859,7 +14116,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Green Maiden Taming Item",
@@ -13905,7 +14162,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -13927,6 +14184,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -13948,7 +14207,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -14004,6 +14263,7 @@
     ],
     "categories": [
       "Server Hat Quest",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -14021,7 +14281,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -14076,6 +14336,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -14106,7 +14368,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -14174,7 +14436,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -14302,7 +14565,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -14363,8 +14626,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
+      "Pet",
       "Pet Evolution",
+      "uaRO",
       "Cooking"
     ],
     "uses": [
@@ -14419,8 +14683,9 @@
       "Vend"
     ],
     "categories": [
-      "Skill Crafting",
-      "Server Hat Quest"
+      "Skills",
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -14466,8 +14731,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
+      "Pet",
       "Pet Evolution",
+      "uaRO",
       "Cooking",
       "Dungeon Quest"
     ],
@@ -14525,7 +14791,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Wanderer Taming Item",
@@ -14547,7 +14813,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -14573,7 +14840,7 @@
       "Keep"
     ],
     "categories": [
-      "Skill Crafting",
+      "Skills",
       "Official Hat Quest"
     ],
     "uses": [],
@@ -14595,7 +14862,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Loli Ruri Taming Item",
@@ -14616,7 +14883,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item"
+      "Pet"
     ],
     "uses": [],
     "notes": "Leaf Cat Taming Item",
@@ -14639,6 +14906,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Official Hat Quest"
     ],
     "uses": [
@@ -14667,6 +14936,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -14680,7 +14951,7 @@
     "avgVend": null,
     "avgWhobuy": null,
     "npcSellPrice": null,
-    "npcBuyable": null,
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -14715,7 +14986,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -14764,8 +15035,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Taming Item",
+      "Pet",
       "Pet Evolution",
+      "uaRO",
       "Server Hat Quest"
     ],
     "uses": [
@@ -14862,6 +15134,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Brewing"
     ],
     "uses": [
@@ -14907,7 +15181,7 @@
       "Keep"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -14928,7 +15202,7 @@
       "Junk"
     ],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "Dokebi Pet accessory",
@@ -14947,7 +15221,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Pet Accessory"
+      "Pet"
     ],
     "uses": [],
     "notes": "Orc Warror pet accessory",
@@ -14968,7 +15242,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -15011,7 +15287,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -15037,7 +15315,7 @@
       "Vend"
     ],
     "categories": [
-      "Skill Use"
+      "Skills"
     ],
     "uses": [],
     "notes": "",
@@ -15060,7 +15338,8 @@
     ],
     "categories": [
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -15213,7 +15492,8 @@
       "Vend"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -15240,7 +15520,8 @@
       "Whobuy"
     ],
     "categories": [
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "uaRO"
     ],
     "uses": [
       {
@@ -15397,6 +15678,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -15450,7 +15733,9 @@
       "Vend"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -15535,7 +15820,7 @@
       "Vend"
     ],
     "categories": [
-      "Skill Use",
+      "Skills",
       "Job Quest"
     ],
     "uses": [],
@@ -15559,7 +15844,8 @@
     ],
     "categories": [
       "Pet Evolution",
-      "Pet Food",
+      "Pet",
+      "uaRO",
       "Brewing"
     ],
     "uses": [
@@ -15590,7 +15876,9 @@
       "NPC"
     ],
     "categories": [
-      "Pet Evolution"
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [],
     "notes": "",
@@ -15633,7 +15921,7 @@
       "NPC"
     ],
     "categories": [
-      "Pet Food"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -15678,6 +15966,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Cooking"
     ],
     "uses": [
@@ -15727,6 +16017,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -15755,6 +16047,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Dungeon Quest"
     ],
     "uses": [
@@ -15801,7 +16095,6 @@
     "itemId": 4096,
     "itemType": "Misc",
     "actions": [
-      "Card Recycler",
       "Vend"
     ],
     "categories": [
@@ -15849,6 +16142,8 @@
     ],
     "categories": [
       "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
