@@ -115,6 +115,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "afro",
+    "name": "Afro",
+    "itemId": 10033,
+    "itemType": "Misc",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "Pet"
+    ],
+    "uses": [],
+    "notes": "Stone Shooter Pet accessory",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "agate",
     "name": "Agate",
     "itemId": 7291,
@@ -162,6 +184,36 @@
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "airship-part",
+    "name": "Airship Part",
+    "itemId": 23188,
+    "itemType": "Consumable",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
+    ],
+    "uses": [
+      {
+        "for": "Hodremlin Pet Evolution",
+        "qty": 3
+      }
+    ],
+    "notes": "Gremlin Taming Item",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -332,7 +384,7 @@
     "uses": [
       {
         "for": "Kiel D-01 Pet Evolution",
-        "qty": 10
+        "qty": 5
       }
     ],
     "notes": "",
@@ -3011,17 +3063,9 @@
       "NPC"
     ],
     "categories": [
-      "Dungeon Quest",
-      "Pet Evolution",
-      "Pet",
-      "uaRO"
+      "Dungeon Quest"
     ],
-    "uses": [
-      {
-        "for": "Rigid Nightmare Terror Pet Evolution",
-        "qty": 100
-      }
-    ],
+    "uses": [],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -3117,7 +3161,7 @@
     "uses": [
       {
         "for": "Leaf Lunatic Pet Evolution",
-        "qty": 25
+        "qty": 250
       }
     ],
     "notes": "",
@@ -3860,6 +3904,35 @@
     "verificationNotes": ""
   },
   {
+    "id": "damp-darkness",
+    "name": "Damp Darkness",
+    "itemId": 6100,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
+    ],
+    "uses": [
+      {
+        "for": "Hodremlin Pet Evolution",
+        "qty": 50
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
+    "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "dark-crystal-fragment",
     "name": "Dark Crystal Fragment",
     "itemId": 7315,
@@ -4338,6 +4411,37 @@
     "verificationNotes": ""
   },
   {
+    "id": "driller-card",
+    "name": "Driller Card",
+    "itemId": 4180,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Card",
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
+    ],
+    "uses": [
+      {
+        "for": "Misteress Pet Evolution",
+        "qty": 10
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "drooping-cat-0",
     "name": "Drooping Cat [0]",
     "itemId": 5058,
@@ -4468,6 +4572,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 98,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "earthworm-the-dude",
+    "name": "Earthworm the Dude",
+    "itemId": 623,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Pet"
+    ],
+    "uses": [],
+    "notes": "Picky Taming Item",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 2000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -4893,7 +5019,7 @@
     ],
     "uses": [
       {
-        "for": "Baphomet Jr Pet Evolution",
+        "for": "Chaotic Baphomet Jr Pet Evolution",
         "qty": 300
       },
       {
@@ -5100,6 +5226,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "fashionable-glasses",
+    "name": "Fashionable Glasses",
+    "itemId": 10024,
+    "itemType": "Misc",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "Pet"
+    ],
+    "uses": [],
+    "notes": "Loli Ruri Pet accessory",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -6924,7 +7072,7 @@
     "uses": [
       {
         "for": "Diabolic Pet Evolution",
-        "qty": 50
+        "qty": 30
       },
       {
         "for": "Contaminated Wanderer Pet Evolution",
@@ -7524,6 +7672,37 @@
     "verificationNotes": ""
   },
   {
+    "id": "hornet-card",
+    "name": "Hornet Card",
+    "itemId": 4019,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Card",
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
+    ],
+    "uses": [
+      {
+        "for": "Giant Hornet Pet Evolution",
+        "qty": 5
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "horrendous-hair",
     "name": "Horrendous Hair",
     "itemId": 1048,
@@ -7619,10 +7798,6 @@
       {
         "for": "Wild Rose Pet Evolution",
         "qty": 500
-      },
-      {
-        "for": "Leaf Lunatic Pet Evolution",
-        "qty": 100
       }
     ],
     "notes": "",
@@ -7974,10 +8149,10 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Steel Chonchon Pet Food",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -8098,6 +8273,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "jade-trinket",
+    "name": "Jade Trinket",
+    "itemId": 10029,
+    "itemType": "Misc",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "Pet"
+    ],
+    "uses": [],
+    "notes": "Evil Nymph Pet accessory",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "jellopy",
     "name": "Jellopy",
     "itemId": 909,
@@ -8183,6 +8380,10 @@
     "uses": [
       {
         "for": "Bascojin Pet Evolution",
+        "qty": 10
+      },
+      {
+        "for": "Bacsojin Pet Evolution",
         "qty": 10
       }
     ],
@@ -8671,7 +8872,12 @@
       "uaRO",
       "Card"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blue Moon Loli Ruri Pet Evolution",
+        "qty": 3
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -8772,7 +8978,7 @@
     "uses": [
       {
         "for": "Fire Golem Pet Evolution",
-        "qty": 1
+        "qty": 3
       }
     ],
     "notes": "Golem Taming Item",
@@ -8958,6 +9164,37 @@
     "verificationNotes": ""
   },
   {
+    "id": "mantis-card",
+    "name": "Mantis Card",
+    "itemId": 4079,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Card",
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
+    ],
+    "uses": [
+      {
+        "for": "Misteress Pet Evolution",
+        "qty": 10
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "mantis-scythe",
     "name": "Mantis Scythe",
     "itemId": 1031,
@@ -8996,6 +9233,10 @@
     "uses": [
       {
         "for": "Bascojin Pet Evolution",
+        "qty": 10
+      },
+      {
+        "for": "Bacsojin Pet Evolution",
         "qty": 10
       }
     ],
@@ -9199,10 +9440,11 @@
       "NPC"
     ],
     "categories": [
-      "Cooking"
+      "Cooking",
+      "Pet"
     ],
     "uses": [],
-    "notes": "+10 VIT Food",
+    "notes": "+10 VIT Food, Mummy Pet Food",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -9382,6 +9624,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 53,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "monkey-circlet",
+    "name": "Monkey Circlet",
+    "itemId": 10018,
+    "itemType": "Misc",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "Pet"
+    ],
+    "uses": [],
+    "notes": "Yoyo Pet accessory",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -9812,6 +10076,37 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 416,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "nightmare-terror-card",
+    "name": "Nightmare Terror Card",
+    "itemId": 4166,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Card",
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
+    ],
+    "uses": [
+      {
+        "for": "Rigid Nightmare Terror Pet Evolution",
+        "qty": 10
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -10841,6 +11136,10 @@
       {
         "for": "Pecopeco Wing Ears",
         "qty": 500
+      },
+      {
+        "for": "Grand Peco Pet Evolution",
+        "qty": 300
       }
     ],
     "notes": "",
@@ -11287,7 +11586,9 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Pet Evolution",
+      "Pet"
     ],
     "uses": [
       {
@@ -11453,6 +11754,62 @@
       {
         "for": "Fish Head Hat",
         "qty": 700
+      },
+      {
+        "for": "Orc Hero Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Bacsojin Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Moonlight Flower Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Gloom Under Night Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Kiel D-01 Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Baphomet Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "White Knight Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Abysmal Knight Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Eddga Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Dark Illusion Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Dark Lord Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Fire Golem Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Giant Hornet Pet Evolution",
+        "qty": 1000
+      },
+      {
+        "for": "Misteress Pet Evolution",
+        "qty": 2000
       }
     ],
     "notes": "Used for Server Hats, Pet Evolutions, and more! Check the uaRO wiki for more details.",
@@ -11669,9 +12026,16 @@
       "Keep"
     ],
     "categories": [
-      "Pet"
+      "Pet",
+      "Pet Evolution",
+      "uaRO"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Cat o' Nine Tails Pet Evolution",
+        "qty": 1
+      }
+    ],
     "notes": "Keep 1",
     "links": [],
     "avgVend": null,
@@ -12737,7 +13101,10 @@
     ],
     "categories": [
       "Cooking",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
     ],
     "uses": [
       {
@@ -12747,6 +13114,10 @@
       {
         "for": "Baby Pacifier",
         "qty": 2
+      },
+      {
+        "for": "Giant Hornet Pet Evolution",
+        "qty": 200
       }
     ],
     "notes": "+10 DEX Food",
@@ -12782,7 +13153,7 @@
       },
       {
         "for": "Ancient Mummy Pet Evolution",
-        "qty": 30
+        "qty": 200
       }
     ],
     "notes": "",
@@ -12844,6 +13215,10 @@
       },
       {
         "for": "Alicel Pet Evolution",
+        "qty": 500
+      },
+      {
+        "for": "Aliot Pet Evolution",
         "qty": 500
       }
     ],
@@ -13505,12 +13880,18 @@
     "categories": [
       "Server Hat Quest",
       "uaRO",
-      "Card"
+      "Card",
+      "Pet Evolution",
+      "Pet"
     ],
     "uses": [
       {
         "for": "Chick Hat",
         "qty": 1
+      },
+      {
+        "for": "Misteress Pet Evolution",
+        "qty": 10
       }
     ],
     "notes": "",
@@ -17041,7 +17422,12 @@
       "Pet",
       "uaRO"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Angeling Pet Evolution",
+        "qty": 20
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -17138,7 +17524,7 @@
     "uses": [
       {
         "for": "Mastering Pet Evolution",
-        "qty": 3
+        "qty": 10
       }
     ],
     "notes": "",
@@ -17169,6 +17555,36 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 2500,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "young-twig",
+    "name": "Young Twig",
+    "itemId": 7018,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Pet Evolution",
+      "Pet",
+      "uaRO"
+    ],
+    "uses": [
+      {
+        "for": "Misteress Pet Evolution",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 25,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -17323,6 +17739,10 @@
     "uses": [
       {
         "for": "Bascojin Pet Evolution",
+        "qty": 10
+      },
+      {
+        "for": "Bacsojin Pet Evolution",
         "qty": 10
       }
     ],
