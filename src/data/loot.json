@@ -148,13 +148,49 @@
     "itemId": 7291,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
-    "notes": "Used to make God items, which uaRO does not have.",
+    "uses": [
+      {
+        "for": "Quadrille",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Great Axe",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Guillotine",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tjungkuletti",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brocca",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Byeollungum",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Combat Knife",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -1739,13 +1775,39 @@
     "itemId": 7297,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
-    "notes": "Used to make God items, which uaRO does not have.",
+    "uses": [
+      {
+        "for": "Swordbreaker",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tjungkuletti",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brocca",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Edge",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Excalibur",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -3330,13 +3392,49 @@
     "itemId": 7295,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
-    "notes": "Used to make God items, which uaRO does not have.",
+    "uses": [
+      {
+        "for": "Immaterial Sword",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tjungkuletti",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brocca",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Dragon Slayer",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Schweizersabel",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Byeollungum",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Combat Knife",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -5556,7 +5654,8 @@
       "Keep"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Other Quest"
     ],
     "uses": [
       {
@@ -5570,6 +5669,51 @@
       {
         "for": "Crown of Mistress",
         "qty": 1
+      },
+      {
+        "for": "Immaterial Sword",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Slash",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Quadrille",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Mailbreaker",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Swordbreaker",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Slaughter",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Caesar's Sword",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tirfing",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Sabbath",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
       }
     ],
     "notes": "",
@@ -5577,6 +5721,110 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 1,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "emperium-anvil",
+    "name": "Emperium Anvil",
+    "itemId": 989,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Other Quest"
+    ],
+    "uses": [
+      {
+        "for": "Great Axe",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Guillotine",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Longinus's Spear",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brionac",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Berserk",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Rudra Bow",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tjungkuletti",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brocca",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Edge",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Excalibur",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Dragon Slayer",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Schweizersabel",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Byeollungum",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Combat Knife",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Exorciser",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Grand Cross",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 300000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -7237,6 +7485,131 @@
       {
         "for": "Am Mut Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Immaterial Sword",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Slash",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Quadrille",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Mailbreaker",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Swordbreaker",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Slaughter",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Caesar's Sword",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tirfing",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Sabbath",
+        "qty": 10,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Great Axe",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Guillotine",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Longinus's Spear",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brionac",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Berserk",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Rudra Bow",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tjungkuletti",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brocca",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Edge",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Excalibur",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Dragon Slayer",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Schweizersabel",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Byeollungum",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Combat Knife",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Exorciser",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Grand Cross",
+        "qty": 20,
+        "note": "Level 4 weapon quest"
       }
     ],
     "notes": "",
@@ -7873,7 +8246,88 @@
     "categories": [
       "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Great Axe",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Guillotine",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Longinus's Spear",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brionac",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Berserk",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Rudra Bow",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tjungkuletti",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brocca",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Edge",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Excalibur",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Dragon Slayer",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Schweizersabel",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Byeollungum",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Combat Knife",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Exorciser",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Grand Cross",
+        "qty": 2,
+        "note": "Level 4 weapon quest"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -8874,7 +9328,8 @@
       "Cooking",
       "Server Hat Quest",
       "uaRO",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Other Quest"
     ],
     "uses": [
       {
@@ -8888,6 +9343,86 @@
       {
         "for": "Ph.D Hat",
         "qty": 1
+      },
+      {
+        "for": "Great Axe",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Guillotine",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Longinus's Spear",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brionac",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Berserk",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Rudra Bow",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tjungkuletti",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brocca",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Edge",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Excalibur",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Dragon Slayer",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Schweizersabel",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Byeollungum",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Combat Knife",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Exorciser",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Grand Cross",
+        "qty": 1,
+        "note": "Level 4 weapon quest"
       }
     ],
     "notes": "+10 DEX Food",
@@ -11082,15 +11617,41 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Other Quest"
     ],
     "uses": [
       {
         "for": "Statue Of Baby Angel",
         "qty": 10
+      },
+      {
+        "for": "Mailbreaker",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Berserk",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Rudra Bow",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Byeollungum",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Combat Knife",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
       }
     ],
-    "notes": "Also used to make God items, which uaRO does not have.",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12528,13 +13089,39 @@
     "itemId": 7289,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
-    "notes": "Used to make God items, which uaRO does not have.",
+    "uses": [
+      {
+        "for": "Tirfing",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Great Axe",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Guillotine",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Berserk",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Rudra Bow",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12616,10 +13203,46 @@
       "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
-    "notes": "Used to make God items, which uaRO does not have.",
+    "uses": [
+      {
+        "for": "Caesar's Sword",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Longinus's Spear",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brionac",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Dragon Slayer",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Schweizersabel",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Exorciser",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Grand Cross",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": 80000,
     "avgWhobuy": null,
@@ -13461,13 +14084,49 @@
     "itemId": 7296,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
-    "notes": "Used to make God items, which uaRO does not have.",
+    "uses": [
+      {
+        "for": "Slaughter",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Longinus's Spear",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brionac",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Dragon Slayer",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Schweizersabel",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Exorciser",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Grand Cross",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -14327,15 +14986,51 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Other Quest"
     ],
     "uses": [
       {
         "for": "Crimson Rose",
         "qty": 10
+      },
+      {
+        "for": "Sabbath",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Longinus's Spear",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Brionac",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Berserk",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Rudra Bow",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Edge",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Excalibur",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
       }
     ],
-    "notes": "Also used to make God items, which uaRO does not have.",
+    "notes": "",
     "links": [],
     "avgVend": 380000,
     "avgWhobuy": null,
@@ -16456,7 +17151,8 @@
     "categories": [
       "Official Hat Quest",
       "Skills",
-      "Brewing"
+      "Brewing",
+      "Other Quest"
     ],
     "uses": [
       {
@@ -16654,6 +17350,51 @@
         "for": "Halberd",
         "qty": 10,
         "note": "Smith Spear"
+      },
+      {
+        "for": "Immaterial Sword",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Slash",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Quadrille",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Mailbreaker",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Swordbreaker",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Slaughter",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Caesar's Sword",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Tirfing",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Sabbath",
+        "qty": 50,
+        "note": "Level 4 weapon quest"
       }
     ],
     "notes": "",
@@ -18043,15 +18784,51 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Other Quest"
     ],
     "uses": [
       {
         "for": "Santa Poring Hat",
         "qty": 20
+      },
+      {
+        "for": "Slash",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Great Axe",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Guillotine",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Edge",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Excalibur",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Exorciser",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Grand Cross",
+        "qty": 30,
+        "note": "Level 4 weapon quest"
       }
     ],
-    "notes": "Also used to make God items, which uaRO does not have.",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
