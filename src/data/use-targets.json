@@ -1,0 +1,4 @@
+{
+  "about": "What each \"Used For\" target is worth, for targets that aren't loot in the sheet (hats, pet evolutions, quests). The site uses these to suggest Keep: an item is worth keeping when the finished thing is worth more than all its parts sold. Targets that are items in the sheet use that item's own prices instead. A target with no value here counts as worth keeping, since it can't be bought, only made.",
+  "items": []
+}
