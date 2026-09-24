@@ -3515,7 +3515,7 @@
     ],
     "uses": [
       {
-        "for": "Aid Potion",
+        "for": "Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       },
@@ -5946,12 +5946,12 @@
     ],
     "uses": [
       {
-        "for": "Aid Condensed Potion",
+        "for": "Slim Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Healing Touch",
+        "for": "Healing Hands",
         "qty": 1,
         "note": "each cast"
       }
@@ -5980,7 +5980,7 @@
     ],
     "uses": [
       {
-        "for": "Aid Condensed Potion",
+        "for": "Slim Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       }
@@ -6009,7 +6009,7 @@
     ],
     "uses": [
       {
-        "for": "Aid Condensed Potion",
+        "for": "Slim Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       }
@@ -9938,12 +9938,12 @@
     ],
     "uses": [
       {
-        "for": "Crimson Fire Formation",
+        "for": "Blaze Shield",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Raging Fire Dragon",
+        "for": "Exploding Dragon",
         "qty": 1,
         "note": "each cast"
       }
@@ -11516,27 +11516,27 @@
     ],
     "uses": [
       {
-        "for": "Alchemical Weapon",
+        "for": "Chemical Protection Weapon",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Synthesized Shield",
+        "for": "Chemical Protection Shield",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Synthetic Armor",
+        "for": "Chemical Protection Armor",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Biochemical Helm",
+        "for": "Chemical Protection Helm",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Full Protection",
+        "for": "Full Chemical Protection",
         "qty": 1,
         "note": "each cast"
       }
@@ -14237,12 +14237,12 @@
     ],
     "uses": [
       {
-        "for": "Hidden Water",
+        "for": "Watery Evasion",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Ice Meteor",
+        "for": "Snow Flake Draft",
         "qty": 1,
         "note": "each cast"
       }
@@ -17358,7 +17358,7 @@
     ],
     "uses": [
       {
-        "for": "Summon Marine Sphere",
+        "for": "Sphere Mine",
         "qty": 1,
         "note": "each cast"
       }
@@ -17646,7 +17646,7 @@
     ],
     "uses": [
       {
-        "for": "Prepare Potion",
+        "for": "Pharmacy",
         "qty": 1,
         "note": "each cast"
       },
@@ -19753,7 +19753,7 @@
     ],
     "uses": [
       {
-        "for": "Aid Potion",
+        "for": "Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       }
@@ -21031,7 +21031,7 @@
     ],
     "uses": [
       {
-        "for": "Summon Flora",
+        "for": "Bio Cannibalize",
         "qty": 1,
         "note": "each cast"
       }
@@ -22493,7 +22493,7 @@
         "note": "each cast"
       },
       {
-        "for": "Scribble",
+        "for": "Graffiti",
         "qty": 1,
         "note": "each cast"
       },
@@ -22634,7 +22634,7 @@
     ],
     "uses": [
       {
-        "for": "Aid Potion",
+        "for": "Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       },
@@ -27459,7 +27459,7 @@
     ],
     "uses": [
       {
-        "for": "Stone Fling",
+        "for": "Throw Stone",
         "qty": 1,
         "note": "each cast"
       }
@@ -30157,7 +30157,7 @@
     ],
     "uses": [
       {
-        "for": "Aid Potion",
+        "for": "Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       },
@@ -30429,12 +30429,12 @@
     ],
     "uses": [
       {
-        "for": "Lightning Strike of Destruction",
+        "for": "Lightning Jolt",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Kamaitachi",
+        "for": "First Wind",
         "qty": 1,
         "note": "each cast"
       }
@@ -31121,12 +31121,12 @@
         "note": "each cast"
       },
       {
-        "for": "Dispell",
+        "for": "Dispel",
         "qty": 1,
         "note": "each cast"
       },
       {
-        "for": "Hocus-pocus",
+        "for": "Abracadabra",
         "qty": 2,
         "note": "each cast"
       },
@@ -31259,7 +31259,7 @@
         "qty": 20
       },
       {
-        "for": "Aid Potion",
+        "for": "Potion Pitcher",
         "qty": 1,
         "note": "each cast"
       },
