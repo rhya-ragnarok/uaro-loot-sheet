@@ -9095,7 +9095,7 @@
     "uses": [],
     "notes": "+10 VIT Food",
     "links": [],
-    "avgVend": 500,
+    "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 300,
     "sellSource": "hercules",
