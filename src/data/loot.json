@@ -101,9 +101,15 @@
     ],
     "categories": [
       "Repeatable Quest",
-      "uaRO"
+      "uaRO",
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lazy Smokie",
+        "qty": 1000
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -438,9 +444,15 @@
     ],
     "categories": [
       "Cooking",
-      "Brewing"
+      "Brewing",
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ph.D Hat",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -669,6 +681,10 @@
       },
       {
         "for": "Santa Poring Hat",
+        "qty": 1
+      },
+      {
+        "for": "Angel Wing Ears",
         "qty": 1
       }
     ],
@@ -956,11 +972,16 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Official Hat Quest"
     ],
     "uses": [
       {
         "for": "Well-Chewed Pencil",
+        "qty": 1
+      },
+      {
+        "for": "Model Training Hat",
         "qty": 1
       }
     ],
@@ -1075,6 +1096,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "arrow",
+    "name": "Arrow",
+    "itemId": 1750,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "NPC"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Apple of Archer",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 0,
+    "sellSource": "hercules",
+    "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "assassin-mask",
     "name": "Assassin Mask",
     "itemId": 5054,
@@ -1120,6 +1169,34 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 725,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "axe-4",
+    "name": "Axe [4]",
+    "itemId": 1302,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Hair Brush",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 250,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -1256,6 +1333,10 @@
       },
       {
         "for": "Blue Hairband",
+        "qty": 1
+      },
+      {
+        "for": "Fairy Flower",
         "qty": 1
       }
     ],
@@ -1734,6 +1815,10 @@
       {
         "for": "Wickebine's Black Cat Ears",
         "qty": 500
+      },
+      {
+        "for": "Drooping Cat",
+        "qty": 300
       }
     ],
     "notes": "",
@@ -1771,6 +1856,22 @@
       },
       {
         "for": "Censor Bar",
+        "qty": 1
+      },
+      {
+        "for": "Drooping Cat",
+        "qty": 1
+      },
+      {
+        "for": "Magistrate Hat [1]",
+        "qty": 1
+      },
+      {
+        "for": "Stop Post",
+        "qty": 1
+      },
+      {
+        "for": "Winter Hat",
         "qty": 1
       }
     ],
@@ -1878,7 +1979,7 @@
       "Keep"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -1933,7 +2034,6 @@
     ],
     "categories": [
       "Dungeon Quest",
-      "Official Hat Quest",
       "Server Hat Quest",
       "uaRO"
     ],
@@ -2120,7 +2220,7 @@
       "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Official Hat Quest"
     ],
     "uses": [
       {
@@ -2162,6 +2262,34 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "book-3",
+    "name": "Book [3]",
+    "itemId": 1550,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Model Training Hat",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 15000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -2407,6 +2535,34 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 280,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "bucket-hat-1",
+    "name": "Bucket Hat [1]",
+    "itemId": 5120,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Renown Detective's Cap [1]",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 3000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -2788,7 +2944,7 @@
       "NPC"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -3019,6 +3175,10 @@
       {
         "for": "Grief for Greed",
         "qty": 1
+      },
+      {
+        "for": "Drooping Cat",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -3154,6 +3314,22 @@
       {
         "for": "Desert Wolf Pet Evolution",
         "qty": 300
+      },
+      {
+        "for": "Blue Fish",
+        "qty": 1
+      },
+      {
+        "for": "Drooping Cat",
+        "qty": 1
+      },
+      {
+        "for": "Lazy Smokie",
+        "qty": 1
+      },
+      {
+        "for": "Smokie Leaf",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -3178,12 +3354,17 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Official Hat Quest"
     ],
     "uses": [
       {
         "for": "Leaf Lunatic Pet Evolution",
         "qty": 250
+      },
+      {
+        "for": "Mr. Smile",
+        "qty": 10
       }
     ],
     "notes": "",
@@ -3274,6 +3455,10 @@
       },
       {
         "for": "Parcel Hat",
+        "qty": 1
+      },
+      {
+        "for": "Necktie",
         "qty": 1
       }
     ],
@@ -3485,6 +3670,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "coronet-0",
+    "name": "Coronet [0]",
+    "itemId": 2249,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Crown of Mistress",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "corsair",
     "name": "Corsair",
     "itemId": 5019,
@@ -3572,6 +3785,14 @@
       {
         "for": "Doctor Band",
         "qty": 1
+      },
+      {
+        "for": "A-Yam Hat [1]",
+        "qty": 5
+      },
+      {
+        "for": "Magistrate Hat [1]",
+        "qty": 5
       }
     ],
     "notes": "",
@@ -4831,12 +5052,17 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Official Hat Quest"
     ],
     "uses": [
       {
         "for": "Aliza Pet Evolution",
         "qty": 30
+      },
+      {
+        "for": "Hair Brush",
+        "qty": 5
       }
     ],
     "notes": "",
@@ -4844,6 +5070,38 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 550,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "elven-ears-0",
+    "name": "Elven Ears [0]",
+    "itemId": 2286,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Angel Wing Ears",
+        "qty": 1
+      },
+      {
+        "for": "Evil Wing Ears",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -5064,6 +5322,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "evil-wing-0",
+    "name": "Evil Wing [0]",
+    "itemId": 2255,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Evil Wing Ears",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "evil-wing-ears-0",
     "name": "Evil Wing Ears [0]",
     "itemId": 5068,
@@ -5146,6 +5432,10 @@
       },
       {
         "for": "Contaminated Wanderer Pet Evolution",
+        "qty": 100
+      },
+      {
+        "for": "Necktie",
         "qty": 100
       }
     ],
@@ -5376,6 +5666,10 @@
       {
         "for": "Chick Hat",
         "qty": 500
+      },
+      {
+        "for": "Statue Of Baby Angel",
+        "qty": 500
       }
     ],
     "notes": "",
@@ -5510,12 +5804,17 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Official Hat Quest"
     ],
     "uses": [
       {
         "for": "Wild Rose Pet Evolution",
         "qty": 200
+      },
+      {
+        "for": "Blue Fish",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -5695,6 +5994,10 @@
       {
         "for": "Black Cat Ears",
         "qty": 200
+      },
+      {
+        "for": "Mr. Smile",
+        "qty": 10
       }
     ],
     "notes": "",
@@ -5992,7 +6295,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Winter Hat",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7043,6 +7351,10 @@
       {
         "for": "Angeling Pet Evolution",
         "qty": 1
+      },
+      {
+        "for": "Statue Of Baby Angel",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -7222,6 +7534,10 @@
       {
         "for": "Sunday Hat",
         "qty": 1
+      },
+      {
+        "for": "Magistrate Hat [1]",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -7268,7 +7584,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ear Muffs",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7451,7 +7772,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ph.D Hat",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7531,7 +7857,8 @@
     "categories": [
       "Skills",
       "Dungeon Quest",
-      "Other Quest"
+      "Other Quest",
+      "Official Hat Quest"
     ],
     "uses": [
       {
@@ -7541,6 +7868,10 @@
       {
         "for": "Ayothaya Dungeon Entrance Quest",
         "qty": 3
+      },
+      {
+        "for": "Statue Of Baby Angel",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -8020,7 +8351,8 @@
     "categories": [
       "Cooking",
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Official Hat Quest"
     ],
     "uses": [
       {
@@ -8030,6 +8362,10 @@
       {
         "for": "Pecopeco Wing Ears",
         "qty": 10
+      },
+      {
+        "for": "Ph.D Hat",
+        "qty": 1
       }
     ],
     "notes": "+10 DEX Food",
@@ -8062,6 +8398,34 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 187,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "indian-fillet-0",
+    "name": "Indian Fillet [0]",
+    "itemId": 5010,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Indian Headband",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -8366,6 +8730,10 @@
       {
         "for": "Angeling Pet Evolution",
         "qty": 200
+      },
+      {
+        "for": "Mr. Smile",
+        "qty": 10
       }
     ],
     "notes": "",
@@ -9069,6 +9437,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "magnifier",
+    "name": "Magnifier",
+    "itemId": 611,
+    "itemType": "Consumable",
+    "actions": [
+      "Keep",
+      "NPC"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Renown Detective's Cap [1]",
+        "qty": 10
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 20,
+    "sellSource": "hercules",
+    "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "majestic-goat-0",
     "name": "Majestic Goat [0]",
     "itemId": 2256,
@@ -9173,7 +9569,12 @@
       "Official Hat Quest",
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Bride's Corolla",
+        "qty": 1000
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9508,9 +9909,15 @@
       "Whobuy"
     ],
     "categories": [
-      "Brewing"
+      "Brewing",
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ph.D Hat",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9560,7 +9967,8 @@
       "Keep"
     ],
     "categories": [
-      "Cooking"
+      "Cooking",
+      "Official Hat Quest"
     ],
     "uses": [
       {
@@ -9642,12 +10050,45 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Hair Brush",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 400,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "model-training-hat-0",
+    "name": "Model Training Hat [0]",
+    "itemId": 5073,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Apple of Archer",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -9844,7 +10285,7 @@
     "uses": [
       {
         "for": "Mage Hat",
-        "qty": 40
+        "qty": 50
       }
     ],
     "notes": "",
@@ -9880,6 +10321,34 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "mr-smile-0",
+    "name": "Mr. Smile [0]",
+    "itemId": 2278,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Tulip Hairpin",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 30,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -9953,9 +10422,15 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skills"
+      "Skills",
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Statue Of Baby Angel",
+        "qty": 10
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10113,6 +10588,10 @@
       {
         "for": "Ayothaya Dungeon Entrance Quest",
         "qty": 1
+      },
+      {
+        "for": "Teddy Bear Hat",
+        "qty": 100
       }
     ],
     "notes": "",
@@ -10219,6 +10698,10 @@
       {
         "for": "Kitsune Mask",
         "qty": 999
+      },
+      {
+        "for": "Shafka",
+        "qty": 20
       }
     ],
     "notes": "",
@@ -10351,6 +10834,10 @@
       {
         "for": "Party Hat",
         "qty": 100
+      },
+      {
+        "for": "Necktie",
+        "qty": 30
       }
     ],
     "notes": "",
@@ -10667,7 +11154,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Oxygen Mask",
+        "qty": 5
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -11039,6 +11531,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "panda-hat-0",
+    "name": "Panda Hat [0]",
+    "itemId": 5030,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Teddy Bear Hat",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "pantie-0",
     "name": "Pantie [0]",
     "itemId": 2339,
@@ -11184,6 +11704,10 @@
       {
         "for": "Grand Peco Pet Evolution",
         "qty": 300
+      },
+      {
+        "for": "Indian Headband",
+        "qty": 10
       }
     ],
     "notes": "",
@@ -11398,6 +11922,10 @@
       {
         "for": "Crunch Toast",
         "qty": 50
+      },
+      {
+        "for": "Cake Hat",
+        "qty": 20
       }
     ],
     "notes": "",
@@ -12237,6 +12765,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "raccoon-hat-0",
+    "name": "Raccoon Hat [0]",
+    "itemId": 5033,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Sea-Otter Hat",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "raccoon-leaf",
     "name": "Raccoon Leaf",
     "itemId": 945,
@@ -12248,7 +12804,16 @@
       "Official Hat Quest",
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lazy Smokie",
+        "qty": 10
+      },
+      {
+        "for": "Smokie Leaf",
+        "qty": 600
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -12973,9 +13538,15 @@
     "itemType": "Consumable",
     "actions": [],
     "categories": [
-      "Pet"
+      "Pet",
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blue Fish",
+        "qty": 1
+      }
+    ],
     "notes": "Chonchon Taming Item",
     "links": [],
     "avgVend": null,
@@ -13157,7 +13728,7 @@
       },
       {
         "for": "Baby Pacifier",
-        "qty": 2
+        "qty": 1
       },
       {
         "for": "Giant Hornet Pet Evolution",
@@ -13187,7 +13758,6 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Official Hat Quest",
       "Other Quest"
     ],
     "uses": [
@@ -13534,6 +14104,18 @@
       {
         "for": "Red Bonnet",
         "qty": 1
+      },
+      {
+        "for": "A-Yam Hat [1]",
+        "qty": 1
+      },
+      {
+        "for": "Hair Brush",
+        "qty": 1
+      },
+      {
+        "for": "Tulip Hairpin",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -13663,6 +14245,14 @@
       {
         "for": "Finding the Moving Island Quest (Moscovia Dungeon Access)",
         "qty": 10
+      },
+      {
+        "for": "Lazy Smokie",
+        "qty": 100
+      },
+      {
+        "for": "Shafka",
+        "qty": 20
       }
     ],
     "notes": "",
@@ -13803,12 +14393,17 @@
     "categories": [
       "Pet",
       "Pet Evolution",
-      "uaRO"
+      "uaRO",
+      "Official Hat Quest"
     ],
     "uses": [
       {
         "for": "Earth Deleter Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Statue Of Baby Angel",
+        "qty": 1
       }
     ],
     "notes": "Petite Taming Item",
@@ -13968,6 +14563,14 @@
       },
       {
         "for": "Red Ribbon",
+        "qty": 1
+      },
+      {
+        "for": "Bride's Corolla",
+        "qty": 1
+      },
+      {
+        "for": "Red Bonnet",
         "qty": 1
       }
     ],
@@ -14141,6 +14744,10 @@
       {
         "for": "Bride Mask",
         "qty": 20
+      },
+      {
+        "for": "Pretend Murdered",
+        "qty": 4
       }
     ],
     "notes": "",
@@ -14294,6 +14901,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "smokie-leaf-0",
+    "name": "Smokie Leaf [0]",
+    "itemId": 5064,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Sea-Otter Hat",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "snails-shell",
     "name": "Snail's Shell",
     "itemId": 946,
@@ -14432,6 +15067,10 @@
       {
         "for": "Purple Cowboy Hat",
         "qty": 300
+      },
+      {
+        "for": "Sunday Hat",
+        "qty": 600
       }
     ],
     "notes": "",
@@ -14462,6 +15101,18 @@
       {
         "for": "Rainbow Scarf",
         "qty": 500
+      },
+      {
+        "for": "A-Yam Hat [1]",
+        "qty": 50
+      },
+      {
+        "for": "Fairy Flower",
+        "qty": 100
+      },
+      {
+        "for": "Shafka",
+        "qty": 10
       }
     ],
     "notes": "",
@@ -14594,6 +15245,10 @@
       {
         "for": "Magician Hat",
         "qty": 1200
+      },
+      {
+        "for": "Hair Brush",
+        "qty": 50
       }
     ],
     "notes": "",
@@ -14638,8 +15293,7 @@
       "NPC"
     ],
     "categories": [
-      "Cooking",
-      "Official Hat Quest"
+      "Cooking"
     ],
     "uses": [],
     "notes": "",
@@ -14715,6 +15369,18 @@
       {
         "for": "Ayothaya Dungeon Entrance Quest",
         "qty": 1
+      },
+      {
+        "for": "Necktie",
+        "qty": 20
+      },
+      {
+        "for": "Shafka",
+        "qty": 1
+      },
+      {
+        "for": "Teddy Bear Hat",
+        "qty": 100
       }
     ],
     "notes": "",
@@ -14930,6 +15596,10 @@
       {
         "for": "Headset",
         "qty": 40
+      },
+      {
+        "for": "Welding Mask",
+        "qty": 50
       }
     ],
     "notes": "",
@@ -14980,8 +15650,7 @@
       "Vend"
     ],
     "categories": [
-      "Pet",
-      "Official Hat Quest"
+      "Pet"
     ],
     "uses": [],
     "notes": "",
@@ -15037,6 +15706,10 @@
       {
         "for": "Censor Bar",
         "qty": 99
+      },
+      {
+        "for": "Blue Fish",
+        "qty": 100
       }
     ],
     "notes": "",
@@ -15126,7 +15799,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blue Fish",
+        "qty": 300
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15262,6 +15940,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "striped-hairband-0",
+    "name": "Striped Hairband [0]",
+    "itemId": 5049,
+    "itemType": "Equipment",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Indian Headband",
+        "qty": 1
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "summer-fan",
     "name": "Summer Fan",
     "itemId": 10030,
@@ -15364,7 +16070,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blue Fish",
+        "qty": 50
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15813,7 +16524,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Winter Hat",
+        "qty": 999
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15891,7 +16607,8 @@
       "Vend"
     ],
     "categories": [
-      "Cooking"
+      "Cooking",
+      "Official Hat Quest"
     ],
     "uses": [
       {
@@ -16049,6 +16766,34 @@
     "verificationNotes": ""
   },
   {
+    "id": "transparent-celestial-robe",
+    "name": "Transparent Celestial Robe",
+    "itemId": 7165,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Official Hat Quest"
+    ],
+    "uses": [
+      {
+        "for": "Fairy Flower",
+        "qty": 100
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 325,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "transparent-head-protector",
     "name": "Transparent Head Protector",
     "itemId": 10003,
@@ -16182,6 +16927,10 @@
       {
         "for": "Sakkat",
         "qty": 120
+      },
+      {
+        "for": "Stop Post",
+        "qty": 50
       }
     ],
     "notes": "",
@@ -16369,8 +17118,7 @@
       "Keep"
     ],
     "categories": [
-      "Skills",
-      "Official Hat Quest"
+      "Skills"
     ],
     "uses": [],
     "notes": "Create Deadly Poison",
@@ -16446,6 +17194,10 @@
       {
         "for": "Am Mut Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Fairy Flower",
+        "qty": 1
       }
     ],
     "notes": "",
@@ -16501,7 +17253,12 @@
     "categories": [
       "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Fairy Flower",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -17207,7 +17964,7 @@
       "Vend"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -17350,6 +18107,10 @@
       {
         "for": "Beanie",
         "qty": 500
+      },
+      {
+        "for": "Shafka",
+        "qty": 10
       }
     ],
     "notes": "",
