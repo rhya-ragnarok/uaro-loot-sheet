@@ -148,13 +148,13 @@
     "itemId": 7291,
     "itemType": "Misc",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -1739,13 +1739,13 @@
     "itemId": 7297,
     "itemType": "Misc",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -3330,13 +3330,13 @@
     "itemId": 7295,
     "itemType": "Misc",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -11090,7 +11090,7 @@
         "qty": 10
       }
     ],
-    "notes": "",
+    "notes": "Also used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12527,12 +12527,14 @@
     "name": "Peridot",
     "itemId": 7289,
     "itemType": "Misc",
-    "actions": [],
+    "actions": [
+      "NPC"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12610,12 +12612,14 @@
     "name": "Phlogopite",
     "itemId": 7290,
     "itemType": "Misc",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": 80000,
     "avgWhobuy": null,
@@ -13456,12 +13460,14 @@
     "name": "Pyroxene",
     "itemId": 7296,
     "itemType": "Misc",
-    "actions": [],
+    "actions": [
+      "NPC"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -14329,7 +14335,7 @@
         "qty": 10
       }
     ],
-    "notes": "",
+    "notes": "Also used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": 380000,
     "avgWhobuy": null,
@@ -14455,7 +14461,13 @@
     "categories": [
       "Uncategorized"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Elunium",
+        "qty": 5,
+        "note": "refiner NPC"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -14477,7 +14489,13 @@
     "categories": [
       "Uncategorized"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Oridecon",
+        "qty": 5,
+        "note": "refiner NPC"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 800,
@@ -18033,7 +18051,7 @@
         "qty": 20
       }
     ],
-    "notes": "",
+    "notes": "Also used to make God items, which uaRO does not have.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
