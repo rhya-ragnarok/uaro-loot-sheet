@@ -3139,6 +3139,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "coagulated-spell",
+    "name": "Coagulated Spell",
+    "itemId": 6608,
+    "itemType": "Misc",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "uaRO"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 5077,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "rathena-renewal",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
+  },
+  {
     "id": "coal",
     "name": "Coal",
     "itemId": 1003,
@@ -3273,6 +3295,28 @@
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
+  },
+  {
+    "id": "contaminated-magic",
+    "name": "Contaminated Magic",
+    "itemId": 6755,
+    "itemType": "Misc",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "uaRO"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 12890,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "rathena-renewal",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "contract-in-shadow",
@@ -6391,7 +6435,7 @@
     "avgWhobuy": null,
     "sellValue": 100,
     "sellSource": "hercules",
-    "npcBuyable": "no",
+    "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -6975,6 +7019,28 @@
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
+  },
+  {
+    "id": "hatii-claw-1",
+    "name": "Hatii Claw [1]",
+    "itemId": 1815,
+    "itemType": "Equipment",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Uncategorized"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 400000,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "headset-0",
@@ -8418,6 +8484,28 @@
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
+  },
+  {
+    "id": "lever-action-rifle-2",
+    "name": "Lever Action Rifle [2]",
+    "itemId": 13170,
+    "itemType": "Equipment",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Uncategorized"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 14880,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "little-evil-horn",
@@ -12657,6 +12745,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "santas-bag",
+    "name": "Santa's Bag",
+    "itemId": 12132,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Uncategorized"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 500000,
+    "avgWhobuy": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
+  },
+  {
     "id": "sap-jelly",
     "name": "Sap Jelly",
     "itemId": 23187,
@@ -14919,6 +15029,28 @@
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
+  },
+  {
+    "id": "temporal-crystal",
+    "name": "Temporal Crystal",
+    "itemId": 6607,
+    "itemType": "Misc",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "uaRO"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 99998,
+    "avgWhobuy": null,
+    "sellValue": 10,
+    "sellSource": "rathena-renewal",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "tendon",
