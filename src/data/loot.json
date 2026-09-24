@@ -28385,7 +28385,9 @@
     "name": "Unripe Acorn",
     "itemId": 12346,
     "itemType": "Consumable",
-    "actions": [],
+    "actions": [
+      "Junk"
+    ],
     "categories": [
       "Uncategorized"
     ],
