@@ -21,7 +21,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 15500,
+    "sellValue": 12500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -51,7 +52,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 34100,
+    "sellValue": 27500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -82,7 +84,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -105,7 +108,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 60,
+    "sellValue": 49,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -126,7 +130,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 1860,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -155,7 +160,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -195,7 +201,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 248,
+    "sellValue": 200,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -224,7 +231,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -271,7 +279,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 1502,
+    "sellValue": 1212,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -300,7 +309,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -329,7 +339,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -358,7 +369,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -381,7 +393,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 310,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -403,7 +416,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 223,
+    "sellValue": 180,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -433,7 +447,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 930,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -454,7 +469,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 3720,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -476,7 +492,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 62,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -515,7 +532,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 620,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -544,7 +562,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -572,7 +591,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 339,
+    "sellValue": 274,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -604,7 +624,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -632,7 +653,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -655,7 +677,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 279,
+    "sellValue": 225,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -683,7 +706,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 22,
+    "sellValue": 18,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -705,7 +729,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 1240,
+    "sellValue": 1000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -735,7 +760,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 600,
+    "sellValue": 484,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -756,7 +782,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 143,
+    "sellValue": 116,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -784,7 +811,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 416,
+    "sellValue": 336,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -806,7 +834,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 18600,
+    "sellValue": 15000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -828,7 +857,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 8,
+    "sellValue": 7,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -858,7 +888,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -885,7 +916,8 @@
     "links": [],
     "avgVend": 1000000,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -906,7 +938,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 620,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -934,7 +967,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 3720,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -960,7 +994,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 11160,
+    "sellValue": 9000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -981,7 +1016,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 489,
+    "sellValue": 395,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1008,7 +1044,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1030,7 +1067,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 899,
+    "sellValue": 725,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1054,7 +1092,8 @@
     "links": [],
     "avgVend": 780,
     "avgWhobuy": 580,
-    "npcSellPrice": 634,
+    "sellValue": 512,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1075,7 +1114,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 930,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1097,7 +1137,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 124,
+    "sellValue": 100,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1119,7 +1160,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 8,
+    "sellValue": 7,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1138,7 +1180,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1168,7 +1211,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 248,
+    "sellValue": 200,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1194,7 +1238,8 @@
     "links": [],
     "avgVend": 16000,
     "avgWhobuy": null,
-    "npcSellPrice": 11160,
+    "sellValue": 9000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1227,7 +1272,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1248,7 +1294,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1277,7 +1324,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 545,
+    "sellValue": 440,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1298,7 +1346,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 158,
+    "sellValue": 128,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1319,7 +1368,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1341,7 +1391,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 107,
+    "sellValue": 87,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1362,7 +1413,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -1384,7 +1436,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 19,
+    "sellValue": 16,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1410,7 +1463,8 @@
     "links": [],
     "avgVend": 50000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 15000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1431,7 +1485,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -1457,7 +1512,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 9300,
+    "sellValue": 7500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1479,7 +1535,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 39,
+    "sellValue": 32,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1500,7 +1557,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 1860,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1522,7 +1580,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1549,7 +1608,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 238,
+    "sellValue": 192,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1570,7 +1630,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 0,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1605,7 +1666,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 892,
+    "sellValue": 720,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1642,7 +1704,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 4960,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1674,7 +1737,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 7440,
+    "sellValue": 6000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1695,7 +1759,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 2480,
+    "sellValue": 2000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1725,7 +1790,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 620,
+    "sellValue": 500,
+    "sellSource": "manual",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1754,7 +1820,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 421,
+    "sellValue": 340,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1775,7 +1842,8 @@
     "links": [],
     "avgVend": 1500,
     "avgWhobuy": 1000,
-    "npcSellPrice": 1249,
+    "sellValue": 1008,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1805,7 +1873,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 549,
+    "sellValue": 443,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1843,7 +1912,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 704,
+    "sellValue": 704,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1865,7 +1935,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 279,
+    "sellValue": 300,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1886,7 +1957,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 212,
+    "sellValue": 171,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1920,7 +1992,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 37,
+    "sellValue": 30,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1941,7 +2014,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 3100,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1962,7 +2036,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 620,
+    "sellValue": 500,
+    "sellSource": "manual",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -1994,7 +2069,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2021,7 +2097,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2049,7 +2126,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2070,7 +2148,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 1116,
+    "sellValue": 900,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2103,7 +2182,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 1860,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2129,7 +2209,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 1240,
+    "sellValue": 1000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2150,7 +2231,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2171,7 +2253,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 75,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2200,7 +2283,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 373,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2221,7 +2305,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 204,
+    "sellValue": 165,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2242,7 +2327,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 15000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2263,7 +2349,8 @@
     "links": [],
     "avgVend": 1500000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 15000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2284,7 +2371,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 347,
+    "sellValue": 280,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2305,7 +2393,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2332,7 +2421,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 462,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2363,7 +2453,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 411,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2390,7 +2481,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 361,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2419,7 +2511,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 100,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2451,7 +2544,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 41,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2477,7 +2571,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2508,7 +2603,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2539,7 +2635,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2566,7 +2663,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 6000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2593,7 +2691,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 6000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2615,7 +2714,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 7,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2637,7 +2737,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2659,7 +2760,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 477,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2686,7 +2788,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2707,7 +2810,8 @@
     "links": [],
     "avgVend": 60000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 11500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2726,7 +2830,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2755,7 +2860,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1400,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2777,7 +2883,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2798,7 +2905,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2821,7 +2929,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2850,7 +2959,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2880,7 +2990,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3750,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2901,7 +3012,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2923,7 +3035,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 79,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -2952,7 +3065,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 28,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -2980,7 +3094,8 @@
     "links": [],
     "avgVend": 800,
     "avgWhobuy": null,
-    "npcSellPrice": 520,
+    "sellValue": 420,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3018,29 +3133,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "clock-hands",
-    "name": "Clock Hands",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Keep",
-      "NPC"
-    ],
-    "categories": [
-      "Official Hat Quest"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 104,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3069,7 +3163,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3101,7 +3196,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3136,7 +3232,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3157,7 +3254,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 92,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3178,7 +3276,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 400,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3200,7 +3299,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 79,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3228,7 +3328,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3256,7 +3357,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3277,7 +3379,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3304,7 +3407,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 386,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3332,7 +3436,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3353,7 +3458,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3374,7 +3480,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 45,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3400,7 +3507,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3422,7 +3530,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3450,7 +3559,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3473,7 +3583,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3494,7 +3605,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 276,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3521,7 +3633,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 6500,
+    "sellValue": 7500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3549,7 +3662,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3570,7 +3684,8 @@
     "links": [],
     "avgVend": 100000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3591,7 +3706,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 403,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3618,7 +3734,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 206,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3651,7 +3768,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 300,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3685,7 +3803,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 666,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3706,7 +3825,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 386,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3728,7 +3848,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 130,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3755,8 +3876,31 @@
     "links": [],
     "avgVend": 5000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 211,
+    "sellSource": "hercules",
     "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "darkgreen-dyestuffs",
+    "name": "Darkgreen Dyestuffs",
+    "itemId": 979,
+    "itemType": "Misc",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "Uncategorized"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
+    "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -3777,7 +3921,8 @@
     "links": [],
     "avgVend": 6000,
     "avgWhobuy": 6000,
-    "npcSellPrice": 31,
+    "sellValue": 25,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -3798,7 +3943,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3806,8 +3952,8 @@
   {
     "id": "delicious-meat",
     "name": "Delicious Meat",
-    "itemId": null,
-    "itemType": "Misc",
+    "itemId": 11616,
+    "itemType": "Consumable",
     "actions": [],
     "categories": [
       "Pet",
@@ -3824,7 +3970,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 700,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3845,7 +3992,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3874,7 +4022,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3901,7 +4050,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 521,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3923,7 +4073,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 225,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3945,7 +4096,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 200,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3974,7 +4126,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -3995,7 +4148,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4016,7 +4170,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12500,
+    "sellValue": 22500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4046,7 +4201,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 146,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4069,7 +4225,8 @@
     "links": [],
     "avgVend": 300,
     "avgWhobuy": null,
-    "npcSellPrice": 300,
+    "sellValue": 242,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4106,7 +4263,8 @@
     "links": [],
     "avgVend": 300,
     "avgWhobuy": null,
-    "npcSellPrice": 310,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4125,7 +4283,8 @@
     "links": [],
     "avgVend": 890,
     "avgWhobuy": null,
-    "npcSellPrice": 634,
+    "sellValue": 512,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4145,7 +4304,8 @@
     "links": [],
     "avgVend": 1300,
     "avgWhobuy": null,
-    "npcSellPrice": 744,
+    "sellValue": 600,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4166,7 +4326,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 279,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4194,7 +4355,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 125000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4223,7 +4385,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4244,7 +4407,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 128,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4274,7 +4438,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4297,7 +4462,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 98,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4324,7 +4490,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 161,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4345,7 +4512,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 20,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4378,7 +4546,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4407,7 +4576,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4441,7 +4611,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 190,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4462,7 +4633,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 116,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4489,7 +4661,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4517,7 +4690,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 550,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4544,7 +4718,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4572,7 +4747,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4607,7 +4783,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4629,7 +4806,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4658,7 +4836,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4695,7 +4874,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 600,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4723,7 +4903,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4745,7 +4926,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": 7500,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "manual",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -4788,7 +4970,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 153,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4809,7 +4992,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4830,7 +5014,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 340,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4856,7 +5041,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4878,7 +5064,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4907,7 +5094,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4957,7 +5145,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -4988,7 +5177,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5010,7 +5200,8 @@
     "links": [],
     "avgVend": 380,
     "avgWhobuy": 205,
-    "npcSellPrice": 333,
+    "sellValue": 269,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5031,7 +5222,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 206,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5052,7 +5244,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 60,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5073,7 +5266,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5094,7 +5288,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5122,7 +5317,8 @@
     "links": [],
     "avgVend": 300,
     "avgWhobuy": null,
-    "npcSellPrice": 121,
+    "sellValue": 98,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5143,7 +5339,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5164,7 +5361,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5185,7 +5383,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5214,7 +5413,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5235,7 +5435,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5266,7 +5467,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 51,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5294,7 +5496,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5315,7 +5518,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 356,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5336,7 +5540,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5387,7 +5592,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 40000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5408,7 +5614,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 672,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5427,7 +5634,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 753,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5446,7 +5654,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 753,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5465,7 +5674,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 753,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5484,7 +5694,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 753,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5512,7 +5723,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 125,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5533,7 +5745,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5557,7 +5770,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 125,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5578,7 +5792,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 14500,
+    "sellValue": 17500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5609,7 +5824,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 352,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5637,7 +5853,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5658,7 +5875,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 20,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5679,7 +5897,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5711,7 +5930,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5732,29 +5952,9 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 710,
+    "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "ghost-coffin",
-    "name": "Ghost Coffin",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Vend"
-    ],
-    "categories": [
-      "Pet"
-    ],
-    "uses": [],
-    "notes": "Whisper Taming Item",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "npcSellPrice": null,
-    "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -5786,7 +5986,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5807,7 +6008,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 307,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5829,7 +6031,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": 7200,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5850,7 +6053,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 171,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5872,7 +6076,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5891,7 +6096,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5912,7 +6118,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5947,7 +6154,8 @@
     "links": [],
     "avgVend": 500,
     "avgWhobuy": null,
-    "npcSellPrice": 375,
+    "sellValue": 303,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -5974,7 +6182,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 700,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6038,7 +6247,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 100000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6059,7 +6269,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 7500,
+    "sellValue": 15000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6087,7 +6298,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6106,7 +6318,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6127,7 +6340,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 215,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6156,7 +6370,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6183,7 +6398,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6204,7 +6420,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 100,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6226,7 +6443,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 125,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6255,7 +6473,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 18,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6274,7 +6493,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6296,7 +6516,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6317,7 +6538,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6348,28 +6570,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 549,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "green-dyestuffs",
-    "name": "Green Dyestuffs",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "NPC"
-    ],
-    "categories": [
-      "Uncategorized"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 443,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6405,7 +6607,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6424,7 +6627,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6451,7 +6655,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6473,7 +6678,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6494,7 +6700,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 2000,
+    "sellValue": 5000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6515,7 +6722,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6536,7 +6744,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 153,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6563,7 +6772,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 23500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6582,7 +6792,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6611,7 +6822,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6632,7 +6844,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6654,7 +6867,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6686,7 +6900,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6714,7 +6929,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 362,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6735,7 +6951,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 285,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6756,7 +6973,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 708,
+    "sellValue": 571,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6783,7 +7001,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6805,7 +7024,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6831,7 +7051,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6853,7 +7074,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 132,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6874,7 +7096,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6900,7 +7123,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 22000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -6921,7 +7145,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6960,7 +7185,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -6981,7 +7207,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7004,7 +7231,8 @@
     "links": [],
     "avgVend": 900,
     "avgWhobuy": 350,
-    "npcSellPrice": 93,
+    "sellValue": 75,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7037,7 +7265,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7069,7 +7298,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7090,7 +7320,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7123,7 +7354,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": 450,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7144,7 +7376,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 311,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7165,7 +7398,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 58,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7184,7 +7418,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7203,7 +7438,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7224,7 +7460,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7255,7 +7492,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 400,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7277,7 +7515,8 @@
     "links": [],
     "avgVend": 390,
     "avgWhobuy": null,
-    "npcSellPrice": 241,
+    "sellValue": 195,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7298,7 +7537,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 294,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7332,7 +7572,8 @@
     "links": [],
     "avgVend": 650,
     "avgWhobuy": 300,
-    "npcSellPrice": 378,
+    "sellValue": 305,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7361,7 +7602,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7390,7 +7632,8 @@
     "links": [],
     "avgVend": 5000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7411,7 +7654,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 75,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7432,7 +7676,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 330,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7453,7 +7698,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7481,7 +7727,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1510,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7513,7 +7760,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7537,7 +7785,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 187,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7558,7 +7807,8 @@
     "links": [],
     "avgVend": 500000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 28500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7579,7 +7829,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 57,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7600,7 +7851,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 329,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7630,7 +7882,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7649,7 +7902,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7670,7 +7924,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 25,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7699,7 +7954,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7727,7 +7983,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7754,7 +8011,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 22500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7776,7 +8034,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 187,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7815,7 +8074,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7843,7 +8103,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7872,7 +8133,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7898,7 +8160,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 16,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7921,7 +8184,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 200,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -7942,7 +8206,8 @@
     "links": [],
     "avgVend": 60000,
     "avgWhobuy": null,
-    "npcSellPrice": 25000,
+    "sellValue": 120000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -7982,7 +8247,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8003,7 +8269,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8024,7 +8291,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8045,7 +8313,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 125,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8074,7 +8343,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 420,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8107,7 +8377,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8129,7 +8400,8 @@
     "links": [],
     "avgVend": 700,
     "avgWhobuy": 160,
-    "npcSellPrice": 37,
+    "sellValue": 30,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8150,7 +8422,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8171,7 +8444,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8198,7 +8472,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 264,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8227,7 +8502,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8267,7 +8543,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 125,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8295,7 +8572,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8319,7 +8597,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8348,7 +8627,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8369,7 +8649,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5000,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8390,7 +8671,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8418,7 +8700,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8450,7 +8733,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8480,7 +8764,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8512,7 +8797,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8540,7 +8826,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 98,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8562,7 +8849,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 98,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8584,7 +8872,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 104,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8605,7 +8894,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 98,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8634,7 +8924,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8670,7 +8961,8 @@
     "links": [],
     "avgVend": 800000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8689,7 +8981,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8718,7 +9011,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4250,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8751,7 +9045,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8780,7 +9075,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 25,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8799,9 +9095,10 @@
     "uses": [],
     "notes": "+10 VIT Food",
     "links": [],
-    "avgVend": 500,
+    "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 372,
+    "sellValue": 300,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8823,7 +9120,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8852,7 +9150,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8883,7 +9182,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 12,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -8903,7 +9203,35 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 75,
+    "sellSource": "hercules",
+    "npcBuyable": null,
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "miracle-bandage",
+    "name": "Miracle Bandage",
+    "itemId": 23256,
+    "itemType": "Misc",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Pet"
+    ],
+    "uses": [
+      {
+        "for": "Ancient Mummy Pet Evolution",
+        "qty": 3
+      }
+    ],
+    "notes": "Mummy Taming Item",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8924,7 +9252,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 400,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8943,7 +9272,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 53,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8965,7 +9295,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -8986,7 +9317,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9007,7 +9339,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 30,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9029,7 +9362,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9050,7 +9384,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 69,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9071,7 +9406,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 100,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9098,7 +9434,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 233,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9125,7 +9462,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9155,7 +9493,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9184,7 +9523,8 @@
     "links": [],
     "avgVend": 7000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4450,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9203,7 +9543,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9230,7 +9571,8 @@
     "links": [],
     "avgVend": 400,
     "avgWhobuy": 80,
-    "npcSellPrice": 22,
+    "sellValue": 18,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9259,7 +9601,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9280,7 +9623,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9301,7 +9645,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9328,7 +9673,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 273,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9356,7 +9702,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 416,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9390,7 +9737,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9429,7 +9777,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 325,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9451,7 +9800,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9477,7 +9827,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 284,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9503,7 +9854,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 550,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9530,7 +9882,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9556,7 +9909,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 105,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9577,7 +9931,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9599,7 +9954,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9627,7 +9983,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 175,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9661,7 +10018,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 98,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9690,7 +10048,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9711,7 +10070,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 256,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9740,7 +10100,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9762,7 +10123,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9770,7 +10132,7 @@
   {
     "id": "old-trees-dew",
     "name": "Old Tree's Dew",
-    "itemId": null,
+    "itemId": 23257,
     "itemType": "Misc",
     "actions": [
       "Vend"
@@ -9783,7 +10145,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1250,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9812,7 +10175,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9838,7 +10202,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9859,7 +10224,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 27500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9881,7 +10247,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 150,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9907,7 +10274,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9928,7 +10296,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9958,7 +10327,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -9979,7 +10349,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 84,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10008,7 +10379,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 150,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10042,7 +10414,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10063,7 +10436,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 110,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10092,7 +10466,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10126,7 +10501,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 71,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10157,7 +10533,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 550,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10178,7 +10555,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10206,7 +10584,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10227,7 +10606,8 @@
     "links": [],
     "avgVend": 5000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10248,7 +10628,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 13500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10269,7 +10650,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 216,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10295,7 +10677,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10324,7 +10707,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10354,7 +10738,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 227,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10382,7 +10767,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 200,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10401,7 +10787,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10433,7 +10820,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10462,7 +10850,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10481,7 +10870,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10507,7 +10897,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 155,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10528,7 +10919,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 263,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10560,7 +10952,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10588,7 +10981,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 84,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10609,7 +11003,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 179,
+    "sellValue": 145,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10637,7 +11032,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10658,7 +11054,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10686,7 +11083,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10707,7 +11105,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 42,
+    "sellValue": 34,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10737,7 +11136,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 57,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10760,7 +11160,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 79,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10783,7 +11184,8 @@
     "links": [],
     "avgVend": 15000,
     "avgWhobuy": 12700,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10804,7 +11206,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 100,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10825,7 +11228,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 7,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10848,7 +11252,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 45,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10877,7 +11282,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 270,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10899,7 +11305,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10920,7 +11327,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 7,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -10948,7 +11356,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 243,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10969,7 +11378,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -10991,7 +11401,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11012,7 +11423,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11039,7 +11451,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11058,7 +11471,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11077,7 +11491,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11110,7 +11525,30 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": null,
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "raccoon-doll",
+    "name": "Raccoon Doll",
+    "itemId": 754,
+    "itemType": "Misc",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Dungeon Quest"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11132,7 +11570,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 53,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11154,7 +11593,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11175,7 +11615,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 45,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11202,7 +11643,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11233,7 +11675,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 549,
+    "sellValue": 443,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11255,7 +11698,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -11291,7 +11735,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 667,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11314,7 +11759,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 300,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11336,7 +11782,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 9,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11362,7 +11809,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 330,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11390,7 +11838,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 440,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11409,7 +11858,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11430,7 +11880,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -11451,7 +11902,8 @@
     "links": [],
     "avgVend": 1200,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 550,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11483,7 +11935,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 401,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11505,7 +11958,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 70,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11532,7 +11986,8 @@
     "links": [],
     "avgVend": 2000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 420,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11558,7 +12013,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 60,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11585,7 +12041,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 400,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -11604,7 +12061,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11625,7 +12083,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 2000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11646,7 +12105,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11673,7 +12133,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11700,7 +12161,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 7500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11726,7 +12188,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 7500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -11755,7 +12218,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11782,7 +12246,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 175,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11801,7 +12266,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11822,7 +12288,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 51,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11850,7 +12317,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11871,7 +12339,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 325,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11892,7 +12361,8 @@
     "links": [],
     "avgVend": 800,
     "avgWhobuy": 200,
-    "npcSellPrice": 341,
+    "sellValue": 275,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11921,7 +12391,8 @@
     "links": [],
     "avgVend": 30000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11943,7 +12414,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -11975,7 +12447,8 @@
     "links": [],
     "avgVend": 4800,
     "avgWhobuy": 4500,
-    "npcSellPrice": 4300,
+    "sellValue": 3500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12010,7 +12483,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1263,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12032,7 +12506,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12070,7 +12545,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 267,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12097,7 +12573,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12123,7 +12600,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12144,7 +12622,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 353,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12171,7 +12650,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12198,7 +12678,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12219,7 +12700,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12245,7 +12727,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12266,7 +12749,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 350,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12303,7 +12787,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12311,7 +12796,7 @@
   {
     "id": "scatleton-memory",
     "name": "Scatleton Memory",
-    "itemId": null,
+    "itemId": 25408,
     "itemType": "Misc",
     "actions": [
       "Vend"
@@ -12331,7 +12816,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12352,7 +12838,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 80,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12374,7 +12861,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 307,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12396,7 +12884,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 62,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12427,7 +12916,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 410,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12451,7 +12941,8 @@
     "links": [],
     "avgVend": 1300,
     "avgWhobuy": 900,
-    "npcSellPrice": null,
+    "sellValue": 403,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12472,7 +12963,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 125,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12501,7 +12993,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 7,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12540,7 +13033,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 233,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12568,7 +13062,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12592,7 +13087,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 8,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12613,7 +13109,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 139,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12634,7 +13131,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 115,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12655,7 +13153,8 @@
     "links": [],
     "avgVend": 700,
     "avgWhobuy": null,
-    "npcSellPrice": 310,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12684,7 +13183,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12716,7 +13216,8 @@
     "links": [],
     "avgVend": 25000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12737,7 +13238,8 @@
     "links": [],
     "avgVend": 125000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12758,7 +13260,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 6000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12779,7 +13282,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 150,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12812,7 +13316,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12833,7 +13338,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 23,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -12854,7 +13360,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 116,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12881,7 +13388,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 850,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12919,7 +13427,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 522,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12938,7 +13447,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12969,7 +13479,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 353,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -12995,7 +13506,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13016,28 +13528,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "smokie-doll",
-    "name": "Smokie Doll",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Vend"
-    ],
-    "categories": [
-      "Dungeon Quest"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13058,7 +13550,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 32,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13079,7 +13572,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 41,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13115,7 +13609,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13142,7 +13637,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 200,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13183,7 +13679,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 140,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13212,7 +13709,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 600,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13241,7 +13739,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13268,7 +13767,8 @@
     "links": [],
     "avgVend": 1500,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 70,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13289,7 +13789,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 421,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13311,7 +13812,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 200,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13339,7 +13841,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 224,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13360,7 +13863,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13383,7 +13887,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 70,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13405,33 +13910,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "spiritual-bandage",
-    "name": "Spiritual Bandage",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Vend"
-    ],
-    "categories": [
-      "Pet"
-    ],
-    "uses": [
-      {
-        "for": "Ancient Mummy Pet Evolution",
-        "qty": 3
-      }
-    ],
-    "notes": "Mummy Taming Item",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 350,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13453,7 +13933,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13481,7 +13962,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 212,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13502,7 +13984,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13531,7 +14014,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13564,7 +14048,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 132,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13585,7 +14070,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13612,7 +14098,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 2250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13633,7 +14120,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13689,7 +14177,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13716,7 +14205,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13739,7 +14229,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13761,7 +14252,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 23,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13792,7 +14284,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 35,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13813,7 +14306,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 175,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13834,7 +14328,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13855,7 +14350,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 7200,
+    "sellValue": 9750,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13876,7 +14372,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 84,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13900,7 +14397,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 92,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13926,7 +14424,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 215,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13947,7 +14446,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 316,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13973,7 +14473,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -13995,7 +14496,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 100,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -14014,7 +14516,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14041,7 +14544,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -14062,7 +14566,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14083,7 +14588,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14104,7 +14610,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14125,7 +14632,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14154,7 +14662,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14175,7 +14684,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -14196,7 +14706,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 350,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14204,7 +14715,7 @@
   {
     "id": "sweets-festival-coin",
     "name": "Sweets Festival Coin",
-    "itemId": null,
+    "itemId": 25290,
     "itemType": "Misc",
     "actions": [
       "Keep",
@@ -14224,7 +14735,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -14245,7 +14757,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14271,7 +14784,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 2709,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14292,7 +14806,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 370,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14313,7 +14828,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14340,7 +14856,8 @@
     "links": [],
     "avgVend": 2000,
     "avgWhobuy": null,
-    "npcSellPrice": 494,
+    "sellValue": 399,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14359,7 +14876,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14396,7 +14914,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -14418,7 +14937,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 110,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14439,7 +14959,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 35,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14472,7 +14993,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -14493,7 +15015,8 @@
     "links": [],
     "avgVend": 90000,
     "avgWhobuy": null,
-    "npcSellPrice": 592,
+    "sellValue": 478,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14514,7 +15037,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 149,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14548,7 +15072,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 750,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14569,7 +15094,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14596,7 +15122,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 264,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14617,7 +15144,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 17,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14645,28 +15173,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "torn-paper-piece",
-    "name": "Torn Paper Piece",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "NPC"
-    ],
-    "categories": [
-      "Uncategorized"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14693,7 +15201,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 206,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14730,7 +15239,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 250,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14751,7 +15261,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 333,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14772,7 +15283,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14793,7 +15305,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14814,7 +15327,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 6,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -14843,7 +15357,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14870,7 +15385,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 30,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14899,7 +15415,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 1500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14920,7 +15437,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 340,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14955,7 +15473,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -14981,7 +15500,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 512,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15002,7 +15522,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15030,7 +15551,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 100000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15052,7 +15574,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 74,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15073,7 +15596,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15094,7 +15618,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15124,7 +15649,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15154,7 +15680,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15176,7 +15703,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 6000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15197,7 +15725,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15224,7 +15753,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15258,7 +15788,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15284,7 +15815,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 7500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15322,7 +15854,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15352,7 +15885,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 60,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15373,7 +15907,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 530,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15394,7 +15929,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 600,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15415,7 +15951,8 @@
     "links": [],
     "avgVend": 25000,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15434,7 +15971,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15462,7 +16000,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15481,7 +16020,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": null,
+    "sellValue": 765,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15509,7 +16049,8 @@
     "links": [],
     "avgVend": 5000,
     "avgWhobuy": null,
-    "npcSellPrice": 455,
+    "sellValue": 367,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15530,7 +16071,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 620,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15563,7 +16105,8 @@
     "links": [],
     "avgVend": 350,
     "avgWhobuy": null,
-    "npcSellPrice": 322,
+    "sellValue": 260,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15585,7 +16128,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 104,
+    "sellValue": 84,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15608,7 +16152,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 300,
+    "sellValue": 242,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15635,7 +16180,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 7500,
+    "sellValue": 27500,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15666,7 +16212,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15687,7 +16234,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 35,
+    "sellValue": 29,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15715,7 +16263,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 290,
+    "sellValue": 234,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15747,7 +16296,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 421,
+    "sellValue": 340,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15768,7 +16318,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 121,
+    "sellValue": 26,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15789,7 +16340,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 587,
+    "sellValue": 474,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15810,7 +16362,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 31,
+    "sellValue": 25,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15831,7 +16384,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 365,
+    "sellValue": 295,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15853,7 +16407,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 478,
+    "sellValue": 386,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15879,7 +16434,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 421,
+    "sellValue": 340,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15912,7 +16468,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15934,7 +16491,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 111,
+    "sellValue": 90,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15963,7 +16521,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -15990,7 +16549,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 62,
+    "sellValue": 50,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16021,7 +16581,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 549,
+    "sellValue": 443,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16044,7 +16605,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 372,
+    "sellValue": 300,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16078,7 +16640,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 24,
+    "sellValue": 20,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16101,7 +16664,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 111,
+    "sellValue": 275,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16123,7 +16687,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 620,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16144,7 +16709,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 620,
+    "sellValue": 500,
+    "sellSource": "hercules",
     "npcBuyable": "npc-only",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16167,7 +16733,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 3100,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16196,7 +16763,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 2480,
+    "sellValue": 2000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16218,7 +16786,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 3100,
+    "sellValue": 2500,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16247,7 +16816,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16281,7 +16851,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 3720,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16302,7 +16873,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 297,
+    "sellValue": 240,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16323,7 +16895,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16345,7 +16918,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 132,
+    "sellValue": 132,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16374,7 +16948,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 12,
+    "sellValue": 10,
+    "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -16395,7 +16970,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "npcSellPrice": 3720,
+    "sellValue": 3000,
+    "sellSource": "hercules",
     "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
