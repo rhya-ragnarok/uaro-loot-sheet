@@ -151,7 +151,7 @@
       "Vend"
     ],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -234,7 +234,6 @@
       "Whobuy"
     ],
     "categories": [
-      "Skills",
       "Cooking",
       "Brewing",
       "Official Hat Quest",
@@ -253,6 +252,21 @@
       {
         "for": "Beer Hat",
         "qty": 50
+      },
+      {
+        "for": "Bottle Grenade",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Glistening Coat",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Anodyne",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -451,6 +465,11 @@
       {
         "for": "Ph.D Hat",
         "qty": 1
+      },
+      {
+        "for": "Aloevera",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -526,9 +545,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Two-Handed Axe",
+        "qty": 1,
+        "note": "Smith Axe"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -898,7 +923,7 @@
       "Skills"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Raises the chance of forging a weapon. Not used up.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -1028,12 +1053,18 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Skills"
     ],
     "uses": [
       {
         "for": "Pisces Crown",
         "qty": 70
+      },
+      {
+        "for": "Trident",
+        "qty": 5,
+        "note": "Smith Spear"
       }
     ],
     "notes": "",
@@ -1564,8 +1595,14 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
-    "notes": "Create Deadly Poison",
+    "uses": [
+      {
+        "for": "Poison Bottle",
+        "qty": 1,
+        "note": "Create Deadly Poison"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -1705,7 +1742,7 @@
       "Vend"
     ],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -1929,8 +1966,14 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
-    "notes": "Create Elemental Converter",
+    "uses": [
+      {
+        "for": "Elemental Converter",
+        "qty": 1,
+        "note": "Create Elemental Converter"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -2067,9 +2110,71 @@
     ],
     "categories": [
       "Skills",
-      "Job Quest"
+      "Job Quest",
+      "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Safety Wall",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Warp Portal",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Resurrection",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Sanctuary",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Magnus Exorcismus",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Fire Pillar",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Magnetic Earth",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Basilica",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Ganbantein",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Gravitation Field",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Coldproof Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Thunderproof Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "Wizard Job Quest, Blacksmith Job Quest",
     "links": [],
     "avgVend": null,
@@ -2125,6 +2230,11 @@
       {
         "for": "Blue Moon Loli Ruri Pet Evolution",
         "qty": 50
+      },
+      {
+        "for": "Blue Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -2146,9 +2256,16 @@
       "Keep"
     ],
     "categories": [
-      "Cooking"
+      "Cooking",
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Aid Potion",
+        "qty": 1,
+        "note": "each cast"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -2719,7 +2836,8 @@
     ],
     "categories": [
       "Skills",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Brewing"
     ],
     "uses": [
       {
@@ -2729,9 +2847,19 @@
       {
         "for": "Hahoe Mask",
         "qty": 100
+      },
+      {
+        "for": "Condensed Red Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Poison Bottle",
+        "qty": 1,
+        "note": "Create Deadly Poison"
       }
     ],
-    "notes": "Create Deadly Poison",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -3205,7 +3333,7 @@
       "Vend"
     ],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -3415,7 +3543,8 @@
     ],
     "categories": [
       "Cooking",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -3425,6 +3554,11 @@
       {
         "for": "Headset",
         "qty": 1
+      },
+      {
+        "for": "Steel",
+        "qty": 1,
+        "note": "Steel Tempering"
       }
     ],
     "notes": "",
@@ -3492,8 +3626,14 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
-    "notes": "Professor skill",
+    "uses": [
+      {
+        "for": "Fiber Lock",
+        "qty": 1,
+        "note": "each cast"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -3788,7 +3928,8 @@
       "Keep"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -3802,6 +3943,11 @@
       {
         "for": "Magistrate Hat [1]",
         "qty": 5
+      },
+      {
+        "for": "Claymore",
+        "qty": 1,
+        "note": "Smith Two-handed Sword"
       }
     ],
     "notes": "",
@@ -3879,7 +4025,18 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Endow Tsunami",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Mystic Frozen",
+        "qty": 10,
+        "note": "Enchanted Stone Craft"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -3899,7 +4056,7 @@
       "NPC"
     ],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -4053,7 +4210,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -4063,6 +4221,11 @@
       {
         "for": "Ear Muffs",
         "qty": 1
+      },
+      {
+        "for": "Flamberge",
+        "qty": 1,
+        "note": "Smith Sword"
       }
     ],
     "notes": "",
@@ -4603,7 +4766,13 @@
     "categories": [
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Marine Sphere Bottle",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -5387,7 +5556,6 @@
       "Keep"
     ],
     "categories": [
-      "Skills",
       "Official Hat Quest"
     ],
     "uses": [
@@ -5426,7 +5594,58 @@
       "Skills",
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Holy Water",
+        "qty": 1,
+        "note": "Aqua Benedicta"
+      },
+      {
+        "for": "Poison Bottle",
+        "qty": 1,
+        "note": "Create Deadly Poison"
+      },
+      {
+        "for": "Bottle Grenade",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Acid Bottle",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Plant Bottle",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Marine Sphere Bottle",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Glistening Coat",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Anodyne",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Aloevera",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Alcohol",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -5509,7 +5728,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -5523,6 +5743,11 @@
       {
         "for": "Antlers",
         "qty": 20
+      },
+      {
+        "for": "Lance",
+        "qty": 2,
+        "note": "Smith Spear"
       }
     ],
     "notes": "",
@@ -5651,6 +5876,11 @@
       {
         "for": "Necktie",
         "qty": 100
+      },
+      {
+        "for": "Bottle Grenade",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -6117,7 +6347,6 @@
       "Whobuy"
     ],
     "categories": [
-      "Skills",
       "Server Hat Quest",
       "uaRO"
     ],
@@ -6493,7 +6722,13 @@
       "uaRO",
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Fireproof Potion",
+        "qty": 2,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -6623,9 +6858,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Tsurugi",
+        "qty": 1,
+        "note": "Smith Sword"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7264,7 +7505,7 @@
       "Whobuy"
     ],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -7428,7 +7669,18 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Endow Quake",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Great Nature",
+        "qty": 10,
+        "note": "Enchanted Stone Craft"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7857,9 +8109,20 @@
       "Whobuy"
     ],
     "categories": [
-      "Uncategorized"
+      "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Glistening Coat",
+        "qty": 1,
+        "note": "Prepare Potion"
+      },
+      {
+        "for": "Coldproof Potion",
+        "qty": 3,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7955,7 +8218,8 @@
       "Pet",
       "uaRO",
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -7973,6 +8237,11 @@
       {
         "for": "Orc Hero Helm",
         "qty": 100
+      },
+      {
+        "for": "Stunner",
+        "qty": 1,
+        "note": "Smith Mace"
       }
     ],
     "notes": "",
@@ -8096,6 +8365,16 @@
       {
         "for": "Statue Of Baby Angel",
         "qty": 1
+      },
+      {
+        "for": "Aspersio",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Basilica",
+        "qty": 1,
+        "note": "each cast"
       }
     ],
     "notes": "",
@@ -8142,7 +8421,8 @@
       "Pet",
       "Pet Evolution",
       "uaRO",
-      "Cooking"
+      "Cooking",
+      "Brewing"
     ],
     "uses": [
       {
@@ -8152,6 +8432,11 @@
       {
         "for": "Aliot Pet Evolution",
         "qty": 100
+      },
+      {
+        "for": "Aloevera",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -8197,8 +8482,14 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
-    "notes": "Create Elemental Converter",
+    "uses": [
+      {
+        "for": "Elemental Converter",
+        "qty": 3,
+        "note": "Create Elemental Converter"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -8343,9 +8634,16 @@
       "NPC"
     ],
     "categories": [
-      "Pet"
+      "Pet",
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Katana",
+        "qty": 15,
+        "note": "Smith Two-handed Sword"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 390,
@@ -8616,7 +8914,13 @@
       "Pet",
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Acid Bottle",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -8730,7 +9034,8 @@
       "Keep"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -8740,6 +9045,86 @@
       {
         "for": "Opera Masque",
         "qty": 20
+      },
+      {
+        "for": "Sword",
+        "qty": 2,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Falchion",
+        "qty": 30,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Blade",
+        "qty": 45,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Knife",
+        "qty": 1,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Cutter",
+        "qty": 25,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Main Gauche",
+        "qty": 50,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Katana",
+        "qty": 35,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Axe",
+        "qty": 10,
+        "note": "Smith Axe"
+      },
+      {
+        "for": "Battle Axe",
+        "qty": 110,
+        "note": "Smith Axe"
+      },
+      {
+        "for": "Club",
+        "qty": 3,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Mace",
+        "qty": 30,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Waghnak",
+        "qty": 160,
+        "note": "Smith Knucklebrace"
+      },
+      {
+        "for": "Javelin",
+        "qty": 3,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Spear",
+        "qty": 35,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Pike",
+        "qty": 70,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Steel",
+        "qty": 5,
+        "note": "Steel Tempering"
       }
     ],
     "notes": "",
@@ -8762,7 +9147,7 @@
       "Skills"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used up to forge level 1 weapons.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -8781,9 +9166,16 @@
       "NPC"
     ],
     "categories": [
-      "Pet"
+      "Pet",
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Iron",
+        "qty": 1,
+        "note": "Iron Tempering"
+      }
+    ],
     "notes": "Steel Chonchon Pet Food",
     "links": [],
     "avgVend": null,
@@ -8939,7 +9331,8 @@
       "Pet",
       "uaRO",
       "Official Hat Quest",
-      "Dungeon Quest"
+      "Dungeon Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -8958,6 +9351,11 @@
       {
         "for": "Mr. Smile",
         "qty": 10
+      },
+      {
+        "for": "Knife",
+        "qty": 10,
+        "note": "Smith Dagger"
       }
     ],
     "notes": "",
@@ -9073,8 +9471,14 @@
       "Skills",
       "Other Quest"
     ],
-    "uses": [],
-    "notes": "Create Deadly Poison",
+    "uses": [
+      {
+        "for": "Poison Bottle",
+        "qty": 1,
+        "note": "Create Deadly Poison"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -9231,6 +9635,11 @@
       {
         "for": "Vanilmirth Hat",
         "qty": 300
+      },
+      {
+        "for": "Earthproof Potion",
+        "qty": 2,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -9802,6 +10211,11 @@
       {
         "for": "Bride's Corolla",
         "qty": 1000
+      },
+      {
+        "for": "Plant Bottle",
+        "qty": 2,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -10145,6 +10559,11 @@
       {
         "for": "Ph.D Hat",
         "qty": 1
+      },
+      {
+        "for": "Anodyne",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -10231,7 +10650,7 @@
       "Skills"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Used up to make Iron, Steel and elemental stones (Iron Tempering, Steel Tempering, Enchanted Stone Craft).",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -10332,7 +10751,13 @@
     "categories": [
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Condensed Yellow Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10466,7 +10891,13 @@
     "categories": [
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Thunderproof Potion",
+        "qty": 3,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10651,7 +11082,6 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skills",
       "Official Hat Quest"
     ],
     "uses": [
@@ -10680,12 +11110,18 @@
     ],
     "categories": [
       "Cooking",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
         "for": "Decorative Mushroom",
         "qty": 300
+      },
+      {
+        "for": "Plant Cultivation",
+        "qty": 1,
+        "note": "each cast"
       }
     ],
     "notes": "",
@@ -10708,7 +11144,6 @@
       "Whobuy"
     ],
     "categories": [
-      "Skills",
       "Server Hat Quest",
       "uaRO"
     ],
@@ -11327,12 +11762,23 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Skills"
     ],
     "uses": [
       {
         "for": "Aliot Pet Evolution",
         "qty": 10
+      },
+      {
+        "for": "Saber",
+        "qty": 1,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Finger",
+        "qty": 10,
+        "note": "Smith Knucklebrace"
       }
     ],
     "notes": "",
@@ -11598,9 +12044,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Buster",
+        "qty": 30,
+        "note": "Smith Axe"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -11686,7 +12138,8 @@
     ],
     "categories": [
       "Brewing",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
@@ -11696,6 +12149,91 @@
       {
         "for": "Headset",
         "qty": 1
+      },
+      {
+        "for": "Saber",
+        "qty": 8,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Haedonggum",
+        "qty": 8,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Tsurugi",
+        "qty": 8,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Flamberge",
+        "qty": 16,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Gladius",
+        "qty": 4,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Damascus",
+        "qty": 4,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Two-Handed Sword",
+        "qty": 12,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Broad Sword",
+        "qty": 12,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Claymore",
+        "qty": 16,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Buster",
+        "qty": 4,
+        "note": "Smith Axe"
+      },
+      {
+        "for": "Two-Handed Axe",
+        "qty": 8,
+        "note": "Smith Axe"
+      },
+      {
+        "for": "Fist",
+        "qty": 4,
+        "note": "Smith Knucklebrace"
+      },
+      {
+        "for": "Claw",
+        "qty": 8,
+        "note": "Smith Knucklebrace"
+      },
+      {
+        "for": "Finger",
+        "qty": 4,
+        "note": "Smith Knucklebrace"
+      },
+      {
+        "for": "Trident",
+        "qty": 8,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Halberd",
+        "qty": 12,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Lance",
+        "qty": 12,
+        "note": "Smith Spear"
       }
     ],
     "notes": "",
@@ -11862,12 +12400,18 @@
       "NPC"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Skills"
     ],
     "uses": [
       {
         "for": "Bunny Band",
         "qty": 1
+      },
+      {
+        "for": "Waghnak",
+        "qty": 1,
+        "note": "Smith Knucklebrace"
       }
     ],
     "notes": "",
@@ -11985,7 +12529,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -12068,7 +12612,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -12339,6 +12883,16 @@
       {
         "for": "Spore Hat",
         "qty": 850
+      },
+      {
+        "for": "Poison Bottle",
+        "qty": 1,
+        "note": "Create Deadly Poison"
+      },
+      {
+        "for": "Alcohol",
+        "qty": 5,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -12904,7 +13458,7 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -13087,8 +13641,14 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
-    "notes": "Create Elemental Converter",
+    "uses": [
+      {
+        "for": "Elemental Converter",
+        "qty": 3,
+        "note": "Create Elemental Converter"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -13177,6 +13737,16 @@
       {
         "for": "Fire Golem Pet Evolution",
         "qty": 50
+      },
+      {
+        "for": "Endow Blaze",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Flame Heart",
+        "qty": 10,
+        "note": "Enchanted Stone Craft"
       }
     ],
     "notes": "",
@@ -13260,9 +13830,41 @@
     "categories": [
       "Pet",
       "Skills",
-      "Job Quest"
+      "Job Quest",
+      "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Stone Curse",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Venom Dust",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Venom Splasher",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Scribble",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Basilica",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Fireproof Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "Wizard Job Quest",
     "links": [],
     "avgVend": null,
@@ -13285,7 +13887,13 @@
       "Pet",
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Red Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 62,
@@ -13712,7 +14320,6 @@
       "Keep"
     ],
     "categories": [
-      "Skills",
       "Server Hat Quest",
       "uaRO"
     ],
@@ -13846,7 +14453,7 @@
       "Keep"
     ],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -13868,7 +14475,7 @@
       "Keep"
     ],
     "categories": [
-      "Skills"
+      "Uncategorized"
     ],
     "uses": [],
     "notes": "",
@@ -13891,7 +14498,6 @@
       "Whobuy"
     ],
     "categories": [
-      "Skills",
       "Server Hat Quest",
       "uaRO"
     ],
@@ -14245,9 +14851,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Gladius",
+        "qty": 1,
+        "note": "Smith Dagger"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -14399,9 +15011,16 @@
       "NPC"
     ],
     "categories": [
-      "Pet"
+      "Pet",
+      "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blue Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -14447,8 +15066,14 @@
       "Skills",
       "Cooking"
     ],
-    "uses": [],
-    "notes": "Create Elemental Converter, +10 AGI Food",
+    "uses": [
+      {
+        "for": "Elemental Converter",
+        "qty": 3,
+        "note": "Create Elemental Converter"
+      }
+    ],
+    "notes": "+10 AGI Food",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -14532,9 +15157,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sword Mace",
+        "qty": 20,
+        "note": "Smith Mace"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15172,8 +15803,14 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
-    "notes": "Create Elemental Converter",
+    "uses": [
+      {
+        "for": "Elemental Converter",
+        "qty": 3,
+        "note": "Create Elemental Converter"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -15771,9 +16408,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Star Crumb",
+        "qty": 10,
+        "note": "Enchanted Stone Craft"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15833,6 +16476,166 @@
       {
         "for": "Welding Mask",
         "qty": 50
+      },
+      {
+        "for": "Rapier",
+        "qty": 20,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Scimitar",
+        "qty": 35,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Ring Pommel Saber",
+        "qty": 40,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Saber",
+        "qty": 5,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Haedonggum",
+        "qty": 10,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Tsurugi",
+        "qty": 15,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Dirk",
+        "qty": 17,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Dagger",
+        "qty": 30,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Stiletto",
+        "qty": 40,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Gladius",
+        "qty": 40,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Damascus",
+        "qty": 60,
+        "note": "Smith Dagger"
+      },
+      {
+        "for": "Slayer",
+        "qty": 25,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Bastard Sword",
+        "qty": 45,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Two-Handed Sword",
+        "qty": 10,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Broad Sword",
+        "qty": 20,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Claymore",
+        "qty": 20,
+        "note": "Smith Two-handed Sword"
+      },
+      {
+        "for": "Hammer",
+        "qty": 30,
+        "note": "Smith Axe"
+      },
+      {
+        "for": "Buster",
+        "qty": 20,
+        "note": "Smith Axe"
+      },
+      {
+        "for": "Two-Handed Axe",
+        "qty": 10,
+        "note": "Smith Axe"
+      },
+      {
+        "for": "Smasher",
+        "qty": 20,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Flail",
+        "qty": 33,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Chain",
+        "qty": 45,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Morning Star",
+        "qty": 85,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Sword Mace",
+        "qty": 100,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Stunner",
+        "qty": 120,
+        "note": "Smith Mace"
+      },
+      {
+        "for": "Knuckle Dusters",
+        "qty": 50,
+        "note": "Smith Knucklebrace"
+      },
+      {
+        "for": "Studded Knuckles",
+        "qty": 65,
+        "note": "Smith Knucklebrace"
+      },
+      {
+        "for": "Guisarme",
+        "qty": 25,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Glaive",
+        "qty": 40,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Partizan",
+        "qty": 55,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Trident",
+        "qty": 10,
+        "note": "Smith Spear"
+      },
+      {
+        "for": "Halberd",
+        "qty": 10,
+        "note": "Smith Spear"
       }
     ],
     "notes": "",
@@ -15906,9 +16709,21 @@
       "Vend"
     ],
     "categories": [
-      "Brewing"
+      "Brewing",
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Plant Cultivation",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Alcohol",
+        "qty": 5,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -16657,7 +17472,13 @@
     "categories": [
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Marine Sphere Bottle",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -16868,9 +17689,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blade",
+        "qty": 25,
+        "note": "Smith Sword"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -16892,12 +17719,23 @@
     ],
     "categories": [
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Skills"
     ],
     "uses": [
       {
         "for": "Moonlight Flower Hat",
         "qty": 250
+      },
+      {
+        "for": "Haedonggum",
+        "qty": 1,
+        "note": "Smith Sword"
+      },
+      {
+        "for": "Claw",
+        "qty": 10,
+        "note": "Smith Knucklebrace"
       }
     ],
     "notes": "",
@@ -17186,7 +18024,6 @@
       "Vend"
     ],
     "categories": [
-      "Skills",
       "Server Hat Quest",
       "uaRO"
     ],
@@ -17353,8 +18190,14 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
-    "notes": "Create Deadly Poison",
+    "uses": [
+      {
+        "for": "Poison Bottle",
+        "qty": 1,
+        "note": "Create Deadly Poison"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -17680,6 +18523,11 @@
       {
         "for": "Angeling Pet Evolution",
         "qty": 50
+      },
+      {
+        "for": "White Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -17723,9 +18571,22 @@
       "Keep"
     ],
     "categories": [
-      "Pet"
+      "Pet",
+      "Skills",
+      "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Aid Potion",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Condensed White Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -17867,7 +18728,18 @@
     "categories": [
       "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Endow Tornado",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Rough Wind",
+        "qty": 10,
+        "note": "Enchanted Stone Craft"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -17948,7 +18820,13 @@
       "Brewing",
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Condensed White Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "Used for creating Slim Potions",
     "links": [],
     "avgVend": null,
@@ -18028,9 +18906,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ring Pommel Saber",
+        "qty": 50,
+        "note": "Smith Sword"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -18408,9 +19292,56 @@
     ],
     "categories": [
       "Skills",
-      "Job Quest"
+      "Job Quest",
+      "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Volcano",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Deluge",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Whirlwind",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Magnetic Earth",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Dispell",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Hocus-pocus",
+        "qty": 2,
+        "note": "each cast"
+      },
+      {
+        "for": "Basilica",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Ganbantein",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Earthproof Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "Wizard Job Quest",
     "links": [],
     "avgVend": null,
@@ -18444,6 +19375,11 @@
       {
         "for": "Metaller Pet Evolution",
         "qty": 200
+      },
+      {
+        "for": "Yellow Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -18467,12 +19403,24 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Skills",
+      "Brewing"
     ],
     "uses": [
       {
         "for": "Angeling Pet Evolution",
         "qty": 20
+      },
+      {
+        "for": "Aid Potion",
+        "qty": 1,
+        "note": "each cast"
+      },
+      {
+        "for": "Condensed Yellow Potion",
+        "qty": 1,
+        "note": "Prepare Potion"
       }
     ],
     "notes": "",
@@ -18758,7 +19706,13 @@
     "categories": [
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Glistening Coat",
+        "qty": 1,
+        "note": "Prepare Potion"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -18812,9 +19766,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Skills"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Damascus",
+        "qty": 1,
+        "note": "Smith Dagger"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
