@@ -366,6 +366,46 @@
         "for": "Anodyne",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Morroc Fruit Wine",
+        "qty": 2,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Mastela Fruit Wine",
+        "qty": 2,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Red Mushroom Wine",
+        "qty": 1,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 5,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 2,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 2,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 5,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -569,6 +609,11 @@
         "for": "Aloevera",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Lucky Soup",
+        "qty": 1,
+        "note": "Cooking Lv 6"
       }
     ],
     "notes": "",
@@ -593,7 +638,43 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Green Salad",
+        "qty": 3,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Steamed Alligator with Vegetable",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Sumptuous Feast",
+        "qty": 5,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Bearfoot Special",
+        "qty": 2,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Royal Family Tea",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 10,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 5,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -623,6 +704,26 @@
       {
         "for": "Earth Deleter Pet Evolution",
         "qty": 150
+      },
+      {
+        "for": "Incredibly Spicy Curry",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 2,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 2,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 2,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -675,7 +776,18 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Soul Haunted Bread",
+        "qty": 5,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Immortal Stew",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -714,6 +826,11 @@
       {
         "for": "Fish in Mouth",
         "qty": 350
+      },
+      {
+        "for": "Steamed Ancient Lips",
+        "qty": 10,
+        "note": "Cooking Lv 4"
       }
     ],
     "notes": "",
@@ -864,7 +981,13 @@
       "Cooking",
       "Pet"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -916,7 +1039,18 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 2,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Immortal Stew",
+        "qty": 2,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -940,12 +1074,18 @@
     "categories": [
       "Repeatable Quest",
       "uaRO",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Cooking"
     ],
     "uses": [
       {
         "for": "Blue Hairband",
         "qty": 300
+      },
+      {
+        "for": "Steamed Alligator with Vegetable",
+        "qty": 10,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -1074,6 +1214,11 @@
       {
         "for": "Eggring Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 10,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -1254,6 +1399,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "ascending-dragon-soup",
+    "name": "Ascending Dragon Soup",
+    "itemId": 12084,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+9 VIT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 40000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "assassin-mask",
     "name": "Assassin Mask",
     "itemId": 5054,
@@ -1282,6 +1449,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "assorted-shish-kebob",
+    "name": "Assorted Shish Kebob",
+    "itemId": 12097,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+7 LUK for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 20000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "authoritative-badge",
     "name": "Authoritative Badge",
     "itemId": 662,
@@ -1299,6 +1488,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 725,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "awfully-bitter-bracer",
+    "name": "Awfully Bitter Bracer",
+    "itemId": 12081,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+6 VIT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -1346,8 +1557,14 @@
       "uaRO",
       "Cooking"
     ],
-    "uses": [],
-    "notes": "+10 DEX Food",
+    "uses": [
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": 780,
     "avgWhobuy": 580,
@@ -1391,7 +1608,28 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lutie Cold Noodle",
+        "qty": 3,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Lutie Lady's Pancake",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Giant Burito",
+        "qty": 2,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Strawberry Flavored Rice Ball",
+        "qty": 5,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -1477,6 +1715,35 @@
     "sellValue": 200,
     "sellSource": "hercules",
     "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "bao",
+    "name": "Bao",
+    "itemId": 553,
+    "itemType": "Consumable",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Spicy Fried Bao",
+        "qty": 20,
+        "note": "Cooking Lv 5"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 0,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -1649,12 +1916,40 @@
       "Dungeon Quest",
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Bearfoot Special",
+        "qty": 20,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 87,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "bearfoot-special",
+    "name": "Bearfoot Special",
+    "itemId": 12073,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+8 STR for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 30000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -1926,8 +2221,19 @@
       "Pet",
       "Cooking"
     ],
-    "uses": [],
-    "notes": "+10 AGI Food, Poporing Taming Item",
+    "uses": [
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 3,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Immortal Stew",
+        "qty": 2,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "Poporing Taming Item",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -2154,6 +2460,28 @@
     "sellValue": 2000,
     "sellSource": "hercules",
     "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "blood-flavored-soda",
+    "name": "Blood Flavored Soda",
+    "itemId": 12099,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+9 LUK for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 40000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -2394,7 +2722,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Brewing"
+      "Brewing",
+      "Cooking"
     ],
     "uses": [
       {
@@ -2409,6 +2738,11 @@
         "for": "Blue Potion",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 10,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -2438,6 +2772,21 @@
         "for": "Aid Potion",
         "qty": 1,
         "note": "each cast"
+      },
+      {
+        "for": "Mastela Fruit Wine",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 2,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 2,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -2736,7 +3085,23 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Cream Sandwich",
+        "qty": 5,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Soul Haunted Bread",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -2852,9 +3217,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Awfully Bitter Bracer",
+        "qty": 20,
+        "note": "Cooking Lv 6"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -2888,6 +3259,35 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 3000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "bug-leg",
+    "name": "Bug Leg",
+    "itemId": 1042,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Fried Scorpion Tails",
+        "qty": 10,
+        "note": "Cooking Lv 5"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 215,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -3236,7 +3636,33 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lutie Cold Noodle",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Lutie Lady's Pancake",
+        "qty": 3,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Steamed Alligator with Vegetable",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Bearfoot Special",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Incredibly Spicy Curry",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -3386,6 +3812,26 @@
       {
         "for": "Crunch Toast",
         "qty": 50
+      },
+      {
+        "for": "Cream Sandwich",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Peach Cake",
+        "qty": 10,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Tendon Satay",
+        "qty": 10,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -3393,6 +3839,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 1400,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "chile-shrimp-gratin",
+    "name": "Chile Shrimp Gratin",
+    "itemId": 12086,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+6 AGI for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -3602,7 +4070,13 @@
       "Cooking",
       "Dungeon Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Assorted Shish Kebob",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -3732,7 +4206,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Cooking"
     ],
     "uses": [
       {
@@ -3742,6 +4217,11 @@
       {
         "for": "Mr. Smile",
         "qty": 10
+      },
+      {
+        "for": "Lucky Soup",
+        "qty": 10,
+        "note": "Cooking Lv 6"
       }
     ],
     "notes": "",
@@ -3803,6 +4283,16 @@
         "for": "Steel",
         "qty": 1,
         "note": "Steel Tempering"
+      },
+      {
+        "for": "Whole Roast",
+        "qty": 2,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Tendon Satay",
+        "qty": 2,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -3898,8 +4388,14 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
-    "notes": "+10 DEX Food",
+    "uses": [
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 3,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -4076,6 +4572,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "cooked-nine-tails-tails",
+    "name": "Cooked Nine Tail's Tails",
+    "itemId": 12100,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+10 LUK for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "cookie-bat",
     "name": "Cookie Bat",
     "itemId": 11605,
@@ -4115,7 +4633,18 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lutie Lady's Pancake",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Fried Scorpion Tails",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -4291,6 +4820,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 5,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "cream-sandwich",
+    "name": "Cream Sandwich",
+    "itemId": 12064,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+4 DEX for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -5277,6 +5828,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "dragon-breath-cocktail",
+    "name": "Dragon Breath Cocktail",
+    "itemId": 12080,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+10 INT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "dragon-canine",
     "name": "Dragon Canine",
     "itemId": 1035,
@@ -5347,7 +5920,13 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 10,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 890,
@@ -5368,7 +5947,13 @@
       "Cooking",
       "Dungeon Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 20,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 1300,
@@ -5629,7 +6214,23 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Red Mushroom Wine",
+        "qty": 3,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Awfully Bitter Bracer",
+        "qty": 1,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Assorted Shish Kebob",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -6795,6 +7396,11 @@
       {
         "for": "Grand Peco Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 1,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "Peco Peco Taming Item",
@@ -6906,7 +7512,18 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Giant Burito",
+        "qty": 20,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Strawberry Flavored Rice Ball",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 380,
@@ -7017,7 +7634,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Cooking"
     ],
     "uses": [
       {
@@ -7027,6 +7645,11 @@
       {
         "for": "Blue Fish",
         "qty": 1
+      },
+      {
+        "for": "Sumptuous Feast",
+        "qty": 10,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -7324,7 +7947,8 @@
       "Pet",
       "uaRO",
       "Official Hat Quest",
-      "Server Hat Quest"
+      "Server Hat Quest",
+      "Cooking"
     ],
     "uses": [
       {
@@ -7350,6 +7974,11 @@
       {
         "for": "Bunny Band",
         "qty": 1
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 2,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -7475,12 +8104,23 @@
     "categories": [
       "Pet",
       "Server Hat Quest",
-      "uaRO"
+      "uaRO",
+      "Cooking"
     ],
     "uses": [
       {
         "for": "Fish Head Hat",
         "qty": 300
+      },
+      {
+        "for": "Steamed Ancient Lips",
+        "qty": 5,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Sumptuous Feast",
+        "qty": 2,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -7512,6 +8152,28 @@
     "sellValue": 500,
     "sellSource": "hercules",
     "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "fried-scorpion-tails",
+    "name": "Fried Scorpion Tails",
+    "itemId": 12070,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+5 LUK for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -7796,6 +8458,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "giant-burito",
+    "name": "Giant Burito",
+    "itemId": 12083,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+8 VIT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 30000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "giant-butterfly-wing",
     "name": "Giant Butterfly Wing",
     "itemId": 7168,
@@ -7849,9 +8533,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Assorted Shish Kebob",
+        "qty": 5,
+        "note": "Cooking Lv 7"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -8421,7 +9111,13 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Morroc Fruit Wine",
+        "qty": 5,
+        "note": "Cooking Lv 4"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -8444,7 +9140,18 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Red Mushroom Wine",
+        "qty": 3,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 5,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -8613,6 +9320,21 @@
       {
         "for": "Aliza Pet Evolution",
         "qty": 200
+      },
+      {
+        "for": "Herb Marinade Beef",
+        "qty": 3,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Spicy Fried Bao",
+        "qty": 20,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Tendon Satay",
+        "qty": 30,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -8716,10 +9438,10 @@
       "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Cooking"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "+5 DEX for 20 minutes.",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -9206,7 +9928,8 @@
       "Whobuy"
     ],
     "categories": [
-      "Brewing"
+      "Brewing",
+      "Cooking"
     ],
     "uses": [
       {
@@ -9218,6 +9941,11 @@
         "for": "Coldproof Potion",
         "qty": 3,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Immortal Stew",
+        "qty": 10,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -9225,6 +9953,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 132,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "heavenly-fruit-juice",
+    "name": "Heavenly Fruit Juice",
+    "itemId": 12094,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+9 DEX for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 40000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -9296,6 +10046,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 250,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "herb-marinade-beef",
+    "name": "Herb Marinade Beef",
+    "itemId": 12044,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+4 STR for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -9391,7 +10163,38 @@
       "Cooking",
       "Dungeon Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Green Salad",
+        "qty": 2,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Steamed Bat Wing in Pumpkin",
+        "qty": 10,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Special Royal Jelly Herbal Tea",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Bearfoot Special",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Royal Family Tea",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Incredibly Spicy Curry",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 900,
@@ -9534,6 +10337,26 @@
         "for": "Aloevera",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Lutie Lady's Pancake",
+        "qty": 2,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Shiny Marinade Beef",
+        "qty": 2,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Awfully Bitter Bracer",
+        "qty": 2,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Special Royal Jelly Herbal Tea",
+        "qty": 2,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -9792,6 +10615,16 @@
       {
         "for": "Wild Rose Pet Evolution",
         "qty": 500
+      },
+      {
+        "for": "Green Salad",
+        "qty": 6,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Fried Scorpion Tails",
+        "qty": 10,
+        "note": "Cooking Lv 5"
       }
     ],
     "notes": "",
@@ -9799,6 +10632,28 @@
     "avgVend": 650,
     "avgWhobuy": 300,
     "sellValue": 305,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "hwergelmirs-tonic",
+    "name": "Hwergelmir's Tonic",
+    "itemId": 12095,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+10 DEX for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -9897,8 +10752,19 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
-    "notes": "+10 DEX Food",
+    "uses": [
+      {
+        "for": "Lutie Cold Noodle",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -10100,9 +10966,14 @@
         "for": "Grand Cross",
         "qty": 1,
         "note": "Level 4 weapon quest"
+      },
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 1,
+        "note": "Cooking Lv 10"
       }
     ],
-    "notes": "+10 DEX Food",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -10131,6 +11002,11 @@
         "for": "Acid Bottle",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Immortal Stew",
+        "qty": 20,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -10138,6 +11014,50 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 187,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "immortal-stew",
+    "name": "Immortal Stew",
+    "itemId": 12085,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+10 VIT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "incredibly-spicy-curry",
+    "name": "Incredibly Spicy Curry",
+    "itemId": 12088,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+8 AGI for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 30000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -10445,6 +11365,11 @@
       {
         "for": "Bard Job Quest",
         "qty": 1
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 2,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -10497,7 +11422,38 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lutie Cold Noodle",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Steamed Bat Wing in Pumpkin",
+        "qty": 20,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Steamed Alligator with Vegetable",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Bearfoot Special",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Incredibly Spicy Curry",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Giant Burito",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10910,8 +11866,34 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
-    "notes": "+10 INT Food",
+    "uses": [
+      {
+        "for": "Morroc Fruit Wine",
+        "qty": 4,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Herb Marinade Beef",
+        "qty": 1,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Mastela Fruit Wine",
+        "qty": 2,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Chile Shrimp Gratin",
+        "qty": 20,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 5,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": 700,
     "avgWhobuy": 160,
@@ -10949,6 +11931,165 @@
     "verificationNotes": ""
   },
   {
+    "id": "level-10-cookbook",
+    "name": "Level 10 Cookbook",
+    "itemId": 7481,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Steamed Tongue",
+        "qty": 1,
+        "note": "Cooking Lv 10, recipe book, not used up"
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 1,
+        "note": "Cooking Lv 10, recipe book, not used up"
+      },
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 1,
+        "note": "Cooking Lv 10, recipe book, not used up"
+      },
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 1,
+        "note": "Cooking Lv 10, recipe book, not used up"
+      },
+      {
+        "for": "Immortal Stew",
+        "qty": 1,
+        "note": "Cooking Lv 10, recipe book, not used up"
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 1,
+        "note": "Cooking Lv 10, recipe book, not used up"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "level-4-cookbook",
+    "name": "Level 4 Cookbook",
+    "itemId": 7475,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Morroc Fruit Wine",
+        "qty": 1,
+        "note": "Cooking Lv 4, recipe book, not used up"
+      },
+      {
+        "for": "Seasoned Jellyfish",
+        "qty": 1,
+        "note": "Cooking Lv 4, recipe book, not used up"
+      },
+      {
+        "for": "Herb Marinade Beef",
+        "qty": 1,
+        "note": "Cooking Lv 4, recipe book, not used up"
+      },
+      {
+        "for": "Cream Sandwich",
+        "qty": 1,
+        "note": "Cooking Lv 4, recipe book, not used up"
+      },
+      {
+        "for": "Lutie Cold Noodle",
+        "qty": 1,
+        "note": "Cooking Lv 4, recipe book, not used up"
+      },
+      {
+        "for": "Steamed Ancient Lips",
+        "qty": 1,
+        "note": "Cooking Lv 4, recipe book, not used up"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "level-5-cookbook",
+    "name": "Level 5 Cookbook",
+    "itemId": 7476,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Mastela Fruit Wine",
+        "qty": 1,
+        "note": "Cooking Lv 5, recipe book, not used up"
+      },
+      {
+        "for": "Lutie Lady's Pancake",
+        "qty": 1,
+        "note": "Cooking Lv 5, recipe book, not used up"
+      },
+      {
+        "for": "Green Salad",
+        "qty": 1,
+        "note": "Cooking Lv 5, recipe book, not used up"
+      },
+      {
+        "for": "Steamed Bat Wing in Pumpkin",
+        "qty": 1,
+        "note": "Cooking Lv 5, recipe book, not used up"
+      },
+      {
+        "for": "Spicy Fried Bao",
+        "qty": 1,
+        "note": "Cooking Lv 5, recipe book, not used up"
+      },
+      {
+        "for": "Fried Scorpion Tails",
+        "qty": 1,
+        "note": "Cooking Lv 5, recipe book, not used up"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "level-5-fire-wall-scroll",
     "name": "Level 5 Fire Wall Scroll",
     "itemId": 699,
@@ -10965,6 +12106,218 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 1000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "level-6-cookbook",
+    "name": "Level 6 Cookbook",
+    "itemId": 7477,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Shiny Marinade Beef",
+        "qty": 1,
+        "note": "Cooking Lv 6, recipe book, not used up"
+      },
+      {
+        "for": "Red Mushroom Wine",
+        "qty": 1,
+        "note": "Cooking Lv 6, recipe book, not used up"
+      },
+      {
+        "for": "Peach Cake",
+        "qty": 1,
+        "note": "Cooking Lv 6, recipe book, not used up"
+      },
+      {
+        "for": "Chile Shrimp Gratin",
+        "qty": 1,
+        "note": "Cooking Lv 6, recipe book, not used up"
+      },
+      {
+        "for": "Awfully Bitter Bracer",
+        "qty": 1,
+        "note": "Cooking Lv 6, recipe book, not used up"
+      },
+      {
+        "for": "Lucky Soup",
+        "qty": 1,
+        "note": "Cooking Lv 6, recipe book, not used up"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "level-7-cookbook",
+    "name": "Level 7 Cookbook",
+    "itemId": 7478,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Whole Roast",
+        "qty": 1,
+        "note": "Cooking Lv 7, recipe book, not used up"
+      },
+      {
+        "for": "Special Royal Jelly Herbal Tea",
+        "qty": 1,
+        "note": "Cooking Lv 7, recipe book, not used up"
+      },
+      {
+        "for": "Soul Haunted Bread",
+        "qty": 1,
+        "note": "Cooking Lv 7, recipe book, not used up"
+      },
+      {
+        "for": "Steamed Alligator with Vegetable",
+        "qty": 1,
+        "note": "Cooking Lv 7, recipe book, not used up"
+      },
+      {
+        "for": "Sumptuous Feast",
+        "qty": 1,
+        "note": "Cooking Lv 7, recipe book, not used up"
+      },
+      {
+        "for": "Assorted Shish Kebob",
+        "qty": 1,
+        "note": "Cooking Lv 7, recipe book, not used up"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "level-8-cookbook",
+    "name": "Level 8 Cookbook",
+    "itemId": 7479,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Bearfoot Special",
+        "qty": 1,
+        "note": "Cooking Lv 8, recipe book, not used up"
+      },
+      {
+        "for": "Royal Family Tea",
+        "qty": 1,
+        "note": "Cooking Lv 8, recipe book, not used up"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 1,
+        "note": "Cooking Lv 8, recipe book, not used up"
+      },
+      {
+        "for": "Incredibly Spicy Curry",
+        "qty": 1,
+        "note": "Cooking Lv 8, recipe book, not used up"
+      },
+      {
+        "for": "Giant Burito",
+        "qty": 1,
+        "note": "Cooking Lv 8, recipe book, not used up"
+      },
+      {
+        "for": "Strawberry Flavored Rice Ball",
+        "qty": 1,
+        "note": "Cooking Lv 8, recipe book, not used up"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "level-9-cookbook",
+    "name": "Level 9 Cookbook",
+    "itemId": 7480,
+    "itemType": "Misc",
+    "actions": [
+      "Keep"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Tendon Satay",
+        "qty": 1,
+        "note": "Cooking Lv 9, recipe book, not used up"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 1,
+        "note": "Cooking Lv 9, recipe book, not used up"
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 1,
+        "note": "Cooking Lv 9, recipe book, not used up"
+      },
+      {
+        "for": "Special Meat Stew",
+        "qty": 1,
+        "note": "Cooking Lv 9, recipe book, not used up"
+      },
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 1,
+        "note": "Cooking Lv 9, recipe book, not used up"
+      },
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 1,
+        "note": "Cooking Lv 9, recipe book, not used up"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -11045,6 +12398,35 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 1000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "live-coal",
+    "name": "Live Coal",
+    "itemId": 7098,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Whole Roast",
+        "qty": 1,
+        "note": "Cooking Lv 7"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 319,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -11151,6 +12533,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "lucky-soup",
+    "name": "Lucky Soup",
+    "itemId": 12096,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+6 LUK for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "lunatic-card",
     "name": "Lunatic Card",
     "itemId": 4006,
@@ -11175,6 +12579,50 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "lutie-cold-noodle",
+    "name": "Lutie Cold Noodle",
+    "itemId": 12059,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+4 AGI for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "lutie-ladys-pancake",
+    "name": "Lutie Lady's Pancake",
+    "itemId": 12045,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+5 STR for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -11395,6 +12843,11 @@
       {
         "for": "Hahoe Mask",
         "qty": 100
+      },
+      {
+        "for": "Sumptuous Feast",
+        "qty": 10,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -11452,7 +12905,23 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Awfully Bitter Bracer",
+        "qty": 10,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -11684,6 +13153,21 @@
       {
         "for": "Grand Peco Pet Evolution",
         "qty": 10
+      },
+      {
+        "for": "Mastela Fruit Wine",
+        "qty": 4,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Shiny Marinade Beef",
+        "qty": 1,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Soul Haunted Bread",
+        "qty": 5,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -11693,6 +13177,28 @@
     "sellValue": 4250,
     "sellSource": "hercules",
     "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "mastela-fruit-wine",
+    "name": "Mastela Fruit Wine",
+    "itemId": 12050,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+5 INT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -11748,6 +13254,51 @@
       {
         "for": "Savage Pet Evolution",
         "qty": 100
+      },
+      {
+        "for": "Herb Marinade Beef",
+        "qty": 5,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Cream Sandwich",
+        "qty": 1,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Shiny Marinade Beef",
+        "qty": 10,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Whole Roast",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Assorted Shish Kebob",
+        "qty": 5,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 5,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Incredibly Spicy Curry",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Giant Burito",
+        "qty": 20,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Special Meat Stew",
+        "qty": 10,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -11817,8 +13368,14 @@
       "Cooking",
       "Pet"
     ],
-    "uses": [],
-    "notes": "+10 VIT Food, Mummy Pet Food",
+    "uses": [
+      {
+        "for": "Immortal Stew",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "Mummy Pet Food",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -11839,7 +13396,8 @@
     ],
     "categories": [
       "Brewing",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Cooking"
     ],
     "uses": [
       {
@@ -11850,6 +13408,11 @@
         "for": "Anodyne",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Soul Haunted Bread",
+        "qty": 5,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -11913,6 +13476,16 @@
       {
         "for": "Crunch Toast",
         "qty": 50
+      },
+      {
+        "for": "Cream Sandwich",
+        "qty": 15,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Peach Cake",
+        "qty": 10,
+        "note": "Cooking Lv 6"
       }
     ],
     "notes": "",
@@ -12196,6 +13769,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "morroc-fruit-wine",
+    "name": "Morroc Fruit Wine",
+    "itemId": 12049,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+4 INT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "moth-dust",
     "name": "Moth Dust",
     "itemId": 1057,
@@ -12463,6 +14058,16 @@
         "for": "Plant Cultivation",
         "qty": 1,
         "note": "each cast"
+      },
+      {
+        "for": "Red Mushroom Wine",
+        "qty": 20,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Awfully Bitter Bracer",
+        "qty": 20,
+        "note": "Cooking Lv 6"
       }
     ],
     "notes": "",
@@ -12712,6 +14317,11 @@
       {
         "for": "Shafka",
         "qty": 20
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 10,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -12957,6 +14567,16 @@
       {
         "for": "Eggring Pet Evolution",
         "qty": 10
+      },
+      {
+        "for": "Seasoned Jellyfish",
+        "qty": 1,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Fried Scorpion Tails",
+        "qty": 2,
+        "note": "Cooking Lv 5"
       }
     ],
     "notes": "",
@@ -13203,7 +14823,23 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Morroc Fruit Wine",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 10,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 10,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -13250,9 +14886,16 @@
       "Vend"
     ],
     "categories": [
-      "Pet"
+      "Pet",
+      "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Peach Cake",
+        "qty": 5,
+        "note": "Cooking Lv 6"
+      }
+    ],
     "notes": "Drops Taming Item",
     "links": [],
     "avgVend": null,
@@ -13745,6 +15388,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "peach-cake",
+    "name": "Peach Cake",
+    "itemId": 12091,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+6 DEX for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "peaked-hat",
     "name": "Peaked Hat",
     "itemId": 6021,
@@ -13956,7 +15621,8 @@
     "categories": [
       "Pet",
       "Pet Evolution",
-      "uaRO"
+      "uaRO",
+      "Cooking"
     ],
     "uses": [
       {
@@ -13966,6 +15632,11 @@
       {
         "for": "Grand Peco Pet Evolution",
         "qty": 10
+      },
+      {
+        "for": "Sumptuous Feast",
+        "qty": 10,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -14140,6 +15811,11 @@
       {
         "for": "Cake Hat",
         "qty": 20
+      },
+      {
+        "for": "Peach Cake",
+        "qty": 10,
+        "note": "Cooking Lv 6"
       }
     ],
     "notes": "",
@@ -14687,7 +16363,28 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Steamed Bat Wing in Pumpkin",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Tendon Satay",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -14707,9 +16404,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lutie Lady's Pancake",
+        "qty": 10,
+        "note": "Cooking Lv 5"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -14762,9 +16465,24 @@
       {
         "for": "Tropical Fruit Hat",
         "qty": 250
+      },
+      {
+        "for": "Royal Family Tea",
+        "qty": 4,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 5,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 2,
+        "note": "Cooking Lv 10"
       }
     ],
-    "notes": "+10 DEX Food",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -15132,6 +16850,11 @@
       {
         "for": "Smokie Leaf",
         "qty": 600
+      },
+      {
+        "for": "Steamed Ancient Lips",
+        "qty": 10,
+        "note": "Cooking Lv 4"
       }
     ],
     "notes": "",
@@ -15156,7 +16879,13 @@
       "Pet",
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Giant Burito",
+        "qty": 5,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "Lunatic Taming Item",
     "links": [],
     "avgVend": null,
@@ -15308,7 +17037,13 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Chile Shrimp Gratin",
+        "qty": 20,
+        "note": "Cooking Lv 6"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15422,13 +17157,29 @@
     ],
     "categories": [
       "Pet",
-      "Brewing"
+      "Brewing",
+      "Cooking"
     ],
     "uses": [
       {
         "for": "Red Potion",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Herb Marinade Beef",
+        "qty": 3,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Steamed Bat Wing in Pumpkin",
+        "qty": 10,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Special Meat Stew",
+        "qty": 5,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -15463,6 +17214,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 330,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "red-mushroom-wine",
+    "name": "Red Mushroom Wine",
+    "itemId": 12076,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+6 INT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -15563,7 +17336,38 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Spicy Fried Bao",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Red Mushroom Wine",
+        "qty": 1,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Strawberry Flavored Rice Ball",
+        "qty": 2,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15641,7 +17445,13 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lucky Soup",
+        "qty": 5,
+        "note": "Cooking Lv 6"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -16166,6 +17976,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "royal-family-tea",
+    "name": "Royal Family Tea",
+    "itemId": 12078,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+8 INT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 30000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "royal-jelly",
     "name": "Royal Jelly",
     "itemId": 526,
@@ -16193,9 +18025,64 @@
       {
         "for": "Giant Hornet Pet Evolution",
         "qty": 200
+      },
+      {
+        "for": "Special Royal Jelly Herbal Tea",
+        "qty": 4,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Royal Family Tea",
+        "qty": 6,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 2,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 4,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Special Meat Stew",
+        "qty": 5,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 6,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Blood Flavored Soda",
+        "qty": 6,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 5,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 5,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 4,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 10,
+        "note": "Cooking Lv 10"
       }
     ],
-    "notes": "+10 DEX Food",
+    "notes": "",
     "links": [],
     "avgVend": 4800,
     "avgWhobuy": 4500,
@@ -16567,7 +18454,33 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Bearfoot Special",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Giant Burito",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Strawberry Flavored Rice Ball",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Special Meat Stew",
+        "qty": 4,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -16575,6 +18488,35 @@
     "sellValue": 350,
     "sellSource": "hercules",
     "npcBuyable": "npc-only",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "scale-shell",
+    "name": "Scale Shell",
+    "itemId": 936,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Assorted Shish Kebob",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 233,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -16691,6 +18633,35 @@
     "verificationNotes": ""
   },
   {
+    "id": "scorpion-claw",
+    "name": "Scorpion Claw",
+    "itemId": 7125,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 20,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 353,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "scorpion-nipper",
     "name": "Scorpion Nipper",
     "itemId": 1046,
@@ -16703,7 +18674,7 @@
       "Cooking"
     ],
     "uses": [],
-    "notes": "+10 AGI Food",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -16730,9 +18701,19 @@
         "for": "Elemental Converter (Fire)",
         "qty": 3,
         "note": "Create Elemental Converter"
+      },
+      {
+        "for": "Fried Scorpion Tails",
+        "qty": 20,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 20,
+        "note": "Cooking Lv 10"
       }
     ],
-    "notes": "+10 AGI Food",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -16777,6 +18758,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 410,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "seasoned-jellyfish",
+    "name": "Seasoned Jellyfish",
+    "itemId": 12054,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+4 VIT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -16854,7 +18857,18 @@
       "uaRO",
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Green Salad",
+        "qty": 10,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "Green Salad",
     "links": [],
     "avgVend": 1300,
@@ -16951,6 +18965,11 @@
       {
         "for": "Ayam [1]",
         "qty": 300
+      },
+      {
+        "for": "Shiny Marinade Beef",
+        "qty": 20,
+        "note": "Cooking Lv 6"
       }
     ],
     "notes": "",
@@ -16998,6 +19017,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "shiny-marinade-beef",
+    "name": "Shiny Marinade Beef",
+    "itemId": 12071,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+6 STR for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 10000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "shoot",
     "name": "Shoot",
     "itemId": 711,
@@ -17011,7 +19052,13 @@
       "Cooking",
       "Brewing"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Special Meat Stew",
+        "qty": 20,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -17075,9 +19122,15 @@
       "Vend"
     ],
     "categories": [
-      "Uncategorized"
+      "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Chile Shrimp Gratin",
+        "qty": 20,
+        "note": "Cooking Lv 6"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 700,
@@ -17243,7 +19296,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Cooking"
     ],
     "uses": [
       {
@@ -17253,6 +19307,11 @@
       {
         "for": "Metaller Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 1,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -17612,6 +19671,16 @@
       {
         "for": "Cowboy Hat",
         "qty": 108
+      },
+      {
+        "for": "Seasoned Jellyfish",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Assorted Shish Kebob",
+        "qty": 10,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -17804,7 +19873,13 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Peach Cake",
+        "qty": 20,
+        "note": "Cooking Lv 6"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -17871,6 +19946,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "soul-haunted-bread",
+    "name": "Soul Haunted Bread",
+    "itemId": 12092,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+7 DEX for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 20000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "spawn",
     "name": "Spawn",
     "itemId": 908,
@@ -17894,6 +19991,94 @@
     "verificationNotes": ""
   },
   {
+    "id": "special-meat-stew",
+    "name": "Special Meat Stew",
+    "itemId": 12089,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+9 AGI for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 40000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "special-royal-jelly-herbal-tea",
+    "name": "Special Royal Jelly Herbal Tea",
+    "itemId": 12077,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+7 INT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 20000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "special-toast",
+    "name": "Special Toast",
+    "itemId": 12093,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+8 DEX for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 30000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "spicy-fried-bao",
+    "name": "Spicy Fried Bao",
+    "itemId": 12055,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+5 VIT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "spicy-sauce",
     "name": "Spicy Sauce",
     "itemId": 7455,
@@ -17905,7 +20090,58 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Lutie Cold Noodle",
+        "qty": 1,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Spicy Fried Bao",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Whole Roast",
+        "qty": 1,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Incredibly Spicy Curry",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Tendon Satay",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Immortal Stew",
+        "qty": 2,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -18054,6 +20290,16 @@
       {
         "for": "Bride Mask",
         "qty": 100
+      },
+      {
+        "for": "Seasoned Jellyfish",
+        "qty": 20,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Tendon Satay",
+        "qty": 10,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -18139,6 +20385,116 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 750,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "steamed-alligator-with-vegetable",
+    "name": "Steamed Alligator with Vegetable",
+    "itemId": 12087,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+7 AGI for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 20000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "steamed-ancient-lips",
+    "name": "Steamed Ancient Lips",
+    "itemId": 12069,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+4 LUK for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "steamed-bat-wing-in-pumpkin",
+    "name": "Steamed Bat Wing in Pumpkin",
+    "itemId": 12060,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+5 AGI for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "steamed-desert-scorpions",
+    "name": "Steamed Desert Scorpions",
+    "itemId": 12090,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+10 AGI for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "steamed-tongue",
+    "name": "Steamed Tongue",
+    "itemId": 12075,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+10 STR for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -18768,12 +21124,55 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Morroc Fruit Wine",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Strawberry Flavored Rice Ball",
+        "qty": 10,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 10,
+        "note": "Cooking Lv 9"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 100,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "strawberry-flavored-rice-ball",
+    "name": "Strawberry Flavored Rice Ball",
+    "itemId": 12098,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+8 LUK for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 30000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -18822,6 +21221,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 10,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "sumptuous-feast",
+    "name": "Sumptuous Feast",
+    "itemId": 12082,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+7 VIT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 20000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -19011,7 +21432,53 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Herb Marinade Beef",
+        "qty": 1,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Cream Sandwich",
+        "qty": 1,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Steamed Ancient Lips",
+        "qty": 2,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Green Salad",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Peach Cake",
+        "qty": 1,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Chile Shrimp Gratin",
+        "qty": 1,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Soul Haunted Bread",
+        "qty": 1,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Sumptuous Feast",
+        "qty": 1,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Special Toast",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -19262,13 +21729,19 @@
       "Whobuy"
     ],
     "categories": [
-      "Brewing"
+      "Brewing",
+      "Cooking"
     ],
     "uses": [
       {
         "for": "Marine Sphere Bottle",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Tendon Satay",
+        "qty": 40,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -19276,6 +21749,28 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 110,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "tendon-satay",
+    "name": "Tendon Satay",
+    "itemId": 12074,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+9 STR for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 40000,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
@@ -19290,9 +21785,15 @@
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Seasoned Jellyfish",
+        "qty": 30,
+        "note": "Cooking Lv 4"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -19460,9 +21961,19 @@
       {
         "for": "Spore Hat",
         "qty": 1
+      },
+      {
+        "for": "Lucky Soup",
+        "qty": 5,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 20,
+        "note": "Cooking Lv 10"
       }
     ],
-    "notes": "+10 STR Food",
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -19819,6 +22330,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "tristan-xii",
+    "name": "Tristan XII",
+    "itemId": 12079,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+9 INT for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 40000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "tropical-banana",
     "name": "Tropical Banana",
     "itemId": 634,
@@ -19836,6 +22369,11 @@
       {
         "for": "Choco Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 1,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "Yoyo Taming Item",
@@ -19868,6 +22406,11 @@
       {
         "for": "Stop Post",
         "qty": 50
+      },
+      {
+        "for": "Whole Roast",
+        "qty": 15,
+        "note": "Cooking Lv 7"
       }
     ],
     "notes": "",
@@ -19991,6 +22534,16 @@
       {
         "for": "Mastering Pet Evolution",
         "qty": 3
+      },
+      {
+        "for": "Soul Haunted Bread",
+        "qty": 2,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Heavenly Fruit Juice",
+        "qty": 5,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "Poring Taming Item",
@@ -20419,7 +22972,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Brewing"
+      "Brewing",
+      "Cooking"
     ],
     "uses": [
       {
@@ -20430,6 +22984,31 @@
         "for": "White Potion",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Seasoned Jellyfish",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Steamed Ancient Lips",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Whole Roast",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Special Royal Jelly Herbal Tea",
+        "qty": 5,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Special Meat Stew",
+        "qty": 10,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -20496,6 +23075,28 @@
     "sellValue": 600,
     "sellSource": "hercules",
     "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "whole-roast",
+    "name": "Whole Roast",
+    "itemId": 12072,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Cooking"
+    ],
+    "uses": [],
+    "notes": "+7 STR for 20 minutes.",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 20000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -20732,7 +23333,13 @@
       "Cooking",
       "Job Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Steamed Bat Wing in Pumpkin",
+        "qty": 20,
+        "note": "Cooking Lv 5"
+      }
+    ],
     "notes": "Knight Job Quest",
     "links": [],
     "avgVend": null,
@@ -20761,6 +23368,11 @@
         "for": "Condensed White Potion",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Lucky Soup",
+        "qty": 10,
+        "note": "Cooking Lv 6"
       }
     ],
     "notes": "Used for creating Slim Potions",
@@ -21301,7 +23913,8 @@
       "Pet Evolution",
       "Pet",
       "uaRO",
-      "Brewing"
+      "Brewing",
+      "Cooking"
     ],
     "uses": [
       {
@@ -21316,6 +23929,36 @@
         "for": "Yellow Potion",
         "qty": 1,
         "note": "Prepare Potion"
+      },
+      {
+        "for": "Herb Marinade Beef",
+        "qty": 2,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Cream Sandwich",
+        "qty": 10,
+        "note": "Cooking Lv 4"
+      },
+      {
+        "for": "Spicy Fried Bao",
+        "qty": 10,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Shiny Marinade Beef",
+        "qty": 1,
+        "note": "Cooking Lv 6"
+      },
+      {
+        "for": "Steamed Alligator with Vegetable",
+        "qty": 10,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Special Meat Stew",
+        "qty": 5,
+        "note": "Cooking Lv 9"
       }
     ],
     "notes": "",
@@ -21381,8 +24024,49 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
-    "notes": "+10 DEX Food",
+    "uses": [
+      {
+        "for": "Mastela Fruit Wine",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Green Salad",
+        "qty": 1,
+        "note": "Cooking Lv 5"
+      },
+      {
+        "for": "Special Royal Jelly Herbal Tea",
+        "qty": 1,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Steamed Alligator with Vegetable",
+        "qty": 1,
+        "note": "Cooking Lv 7"
+      },
+      {
+        "for": "Royal Family Tea",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Strawberry Flavored Rice Ball",
+        "qty": 1,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 1,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -21427,8 +24111,19 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
-    "notes": "+10 DEX Food",
+    "uses": [
+      {
+        "for": "Dragon Breath Cocktail",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Hwergelmir's Tonic",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      }
+    ],
+    "notes": "",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -21456,6 +24151,36 @@
       {
         "for": "Mastering Pet Evolution",
         "qty": 10
+      },
+      {
+        "for": "Royal Family Tea",
+        "qty": 3,
+        "note": "Cooking Lv 8"
+      },
+      {
+        "for": "Tristan XII",
+        "qty": 10,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Ascending Dragon Soup",
+        "qty": 3,
+        "note": "Cooking Lv 9"
+      },
+      {
+        "for": "Steamed Tongue",
+        "qty": 10,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Steamed Desert Scorpions",
+        "qty": 3,
+        "note": "Cooking Lv 10"
+      },
+      {
+        "for": "Cooked Nine Tail's Tails",
+        "qty": 4,
+        "note": "Cooking Lv 10"
       }
     ],
     "notes": "",
@@ -21480,7 +24205,13 @@
     "categories": [
       "Cooking"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Immortal Stew",
+        "qty": 1,
+        "note": "Cooking Lv 10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
