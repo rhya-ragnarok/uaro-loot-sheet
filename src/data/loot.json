@@ -3140,29 +3140,6 @@
     "verificationNotes": ""
   },
   {
-    "id": "clock-hands",
-    "name": "Clock Hands",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Keep",
-      "NPC"
-    ],
-    "categories": [
-      "Official Hat Quest"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "sellValue": null,
-    "sellSource": null,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
     "id": "clover",
     "name": "Clover",
     "itemId": 705,
@@ -3902,6 +3879,28 @@
     "sellValue": 211,
     "sellSource": "hercules",
     "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "darkgreen-dyestuffs",
+    "name": "Darkgreen Dyestuffs",
+    "itemId": 979,
+    "itemType": "Misc",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "Uncategorized"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 4000,
+    "sellSource": "hercules",
+    "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -4927,8 +4926,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": 7500,
-    "sellValue": null,
-    "sellSource": null,
+    "sellValue": 0,
+    "sellSource": "manual",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -5960,28 +5959,6 @@
     "verificationNotes": ""
   },
   {
-    "id": "ghost-coffin",
-    "name": "Ghost Coffin",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Vend"
-    ],
-    "categories": [
-      "Pet"
-    ],
-    "uses": [],
-    "notes": "Whisper Taming Item",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "sellValue": null,
-    "sellSource": null,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
     "id": "ghoul-card",
     "name": "Ghoul Card",
     "itemId": 4110,
@@ -6595,28 +6572,6 @@
     "avgWhobuy": null,
     "sellValue": 443,
     "sellSource": "hercules",
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "green-dyestuffs",
-    "name": "Green Dyestuffs",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "NPC"
-    ],
-    "categories": [
-      "Uncategorized"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "sellValue": null,
-    "sellSource": null,
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -9255,6 +9210,33 @@
     "verificationNotes": ""
   },
   {
+    "id": "miracle-bandage",
+    "name": "Miracle Bandage",
+    "itemId": 23256,
+    "itemType": "Misc",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Pet"
+    ],
+    "uses": [
+      {
+        "for": "Ancient Mummy Pet Evolution",
+        "qty": 3
+      }
+    ],
+    "notes": "Mummy Taming Item",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 5,
+    "sellSource": "rathena-renewal",
+    "npcBuyable": null,
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "mixture",
     "name": "Mixture",
     "itemId": 974,
@@ -11550,6 +11532,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "raccoon-doll",
+    "name": "Raccoon Doll",
+    "itemId": 754,
+    "itemType": "Misc",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "Dungeon Quest"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 2500,
+    "sellSource": "hercules",
+    "npcBuyable": null,
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "raccoon-leaf",
     "name": "Raccoon Leaf",
     "itemId": 945,
@@ -12792,7 +12796,7 @@
   {
     "id": "scatleton-memory",
     "name": "Scatleton Memory",
-    "itemId": null,
+    "itemId": 25408,
     "itemType": "Misc",
     "actions": [
       "Vend"
@@ -12812,8 +12816,8 @@
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
-    "sellValue": null,
-    "sellSource": null,
+    "sellValue": 0,
+    "sellSource": "rathena-renewal",
     "npcBuyable": "no",
     "lastVerified": null,
     "verificationNotes": ""
@@ -13531,28 +13535,6 @@
     "verificationNotes": ""
   },
   {
-    "id": "smokie-doll",
-    "name": "Smokie Doll",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Vend"
-    ],
-    "categories": [
-      "Dungeon Quest"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "sellValue": null,
-    "sellSource": null,
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
     "id": "snails-shell",
     "name": "Snail's Shell",
     "itemId": 946,
@@ -13930,33 +13912,6 @@
     "avgWhobuy": null,
     "sellValue": 350,
     "sellSource": "hercules",
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "spiritual-bandage",
-    "name": "Spiritual Bandage",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Vend"
-    ],
-    "categories": [
-      "Pet"
-    ],
-    "uses": [
-      {
-        "for": "Ancient Mummy Pet Evolution",
-        "qty": 3
-      }
-    ],
-    "notes": "Mummy Taming Item",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "sellValue": null,
-    "sellSource": null,
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
@@ -15220,28 +15175,6 @@
     "avgWhobuy": null,
     "sellValue": 3000,
     "sellSource": "hercules",
-    "npcBuyable": null,
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
-    "id": "torn-paper-piece",
-    "name": "Torn Paper Piece",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "NPC"
-    ],
-    "categories": [
-      "Uncategorized"
-    ],
-    "uses": [],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "sellValue": null,
-    "sellSource": null,
     "npcBuyable": null,
     "lastVerified": null,
     "verificationNotes": ""
