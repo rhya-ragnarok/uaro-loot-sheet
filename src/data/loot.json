@@ -48,13 +48,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 14000,
+    "avgWhobuy": 0,
     "sellValue": 12500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "3carat-diamond",
@@ -97,6 +97,9 @@
       "Vend"
     ],
     "categories": [
+      "Pet Evolution",
+      "Pet",
+      "uaRO",
       "Card"
     ],
     "uses": [
@@ -111,13 +114,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 5500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "acid-bottle",
@@ -145,13 +148,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 9000,
+    "avgWhobuy": 0,
     "sellValue": 100,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "acorn",
@@ -193,28 +196,30 @@
     "name": "Adventurer's Suit [1]",
     "itemId": 2306,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 10000,
     "avgWhobuy": null,
     "sellValue": 500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "afro",
     "name": "Afro",
     "itemId": 10033,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "NPC"
+      "Junk"
     ],
     "categories": [
       "Pet"
@@ -222,13 +227,13 @@
     "uses": [],
     "notes": "Stone Shooter Pet accessory",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "agate",
@@ -236,6 +241,7 @@
     "itemId": 7291,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -280,13 +286,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 90000,
+    "avgWhobuy": 0,
     "sellValue": 1500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "agav-card",
@@ -294,6 +300,7 @@
     "itemId": 4409,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -310,13 +317,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 1300000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "airship-part",
@@ -340,33 +347,35 @@
     ],
     "notes": "Gremlin Taming Item",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 275000,
+    "avgWhobuy": 0,
     "sellValue": 5,
     "sellSource": "rathena-renewal",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "alca-bringer-0",
     "name": "Alca Bringer [0]",
     "itemId": 1191,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 33333333,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "rathena-renewal",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "alcohol",
@@ -374,8 +383,8 @@
     "itemId": 970,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking",
@@ -455,13 +464,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 7500,
+    "avgWhobuy": 3500,
     "sellValue": 200,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "@whobuy price in game; Vend price from a player shop"
   },
   {
     "id": "alice-card",
@@ -469,6 +478,7 @@
     "itemId": 4253,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -485,13 +495,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 16000000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "alices-apron",
@@ -533,13 +543,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 2000,
+    "avgWhobuy": 0,
     "sellValue": 1212,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "alicel-card",
@@ -547,6 +557,7 @@
     "itemId": 4401,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -563,13 +574,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 4500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "aliot-card",
@@ -577,6 +588,7 @@
     "itemId": 4402,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -593,13 +605,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 11000000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "aliza-card",
@@ -607,6 +619,7 @@
     "itemId": 4400,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -623,13 +636,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 7000000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "alligator-card",
@@ -645,13 +658,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 250000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "aloe",
@@ -659,8 +672,8 @@
     "itemId": 704,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking",
@@ -685,13 +698,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 20000,
+    "avgWhobuy": 0,
     "sellValue": 250,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "aloe-leaflet",
@@ -699,8 +712,8 @@
     "itemId": 521,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking"
@@ -744,13 +757,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 1200,
+    "avgWhobuy": 700,
     "sellValue": 180,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "aloevera",
@@ -758,8 +771,8 @@
     "itemId": 606,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking",
@@ -795,13 +808,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 25000,
+    "avgWhobuy": 18000,
     "sellValue": 750,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "amethyst",
@@ -809,7 +822,8 @@
     "itemId": 719,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Skills"
@@ -823,13 +837,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 12000,
+    "avgWhobuy": 0,
     "sellValue": 3000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "amulet",
@@ -837,8 +851,8 @@
     "itemId": 609,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking"
@@ -857,13 +871,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 3500,
+    "avgWhobuy": 0,
     "sellValue": 50,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "@whobuy price in game"
   },
   {
     "id": "ancient-lips",
@@ -871,8 +885,8 @@
     "itemId": 1054,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking",
@@ -902,13 +916,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 2000,
+    "avgWhobuy": 500,
     "sellValue": 500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "ancient-mimic-card",
@@ -924,13 +938,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 750000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "ancient-mummy-card",
@@ -938,6 +952,7 @@
     "itemId": 4248,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -954,13 +969,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 900000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "ancient-tooth",
@@ -968,8 +983,8 @@
     "itemId": 1053,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Official Hat Quest",
@@ -983,13 +998,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 950,
+    "avgWhobuy": 0,
     "sellValue": 274,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "andre-card",
@@ -1005,13 +1020,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "andre-egg-card",
@@ -1027,13 +1042,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "angel-wing-0",
@@ -1041,7 +1056,8 @@
     "itemId": 2254,
     "itemType": "Equipment",
     "actions": [
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Official Hat Quest",
@@ -1064,13 +1080,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 600000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "angel-wing-ears-0",
@@ -1093,73 +1109,79 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 2500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "angels-reincarnation-1",
     "name": "Angel's Reincarnation [1]",
     "itemId": 2420,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 60000,
     "avgWhobuy": null,
     "sellValue": 5000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "angelic-ring-0",
     "name": "Angelic Ring [0]",
     "itemId": 2743,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 1500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "angled-glasses-0",
     "name": "Angled Glasses [0]",
     "itemId": 2276,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 75000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "animal-gore",
@@ -1167,8 +1189,8 @@
     "itemId": 702,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking",
@@ -1183,13 +1205,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 700,
+    "avgWhobuy": 0,
     "sellValue": 225,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "animal-skin",
@@ -1226,8 +1248,8 @@
     "itemId": 605,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Cooking"
@@ -1246,13 +1268,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 4500,
+    "avgWhobuy": 1600,
     "sellValue": 1000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "anolian-skin",
@@ -1260,9 +1282,8 @@
     "itemId": 7003,
     "itemType": "Misc",
     "actions": [
-      "Whobuy",
-      "Vend",
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Repeatable Quest",
@@ -1288,13 +1309,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 1500,
+    "avgWhobuy": 1200,
     "sellValue": 484,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "anopheles-card",
@@ -1310,13 +1331,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 1750000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "ant-jaw",
@@ -1332,13 +1353,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 116,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "antelope-horn",
@@ -1346,6 +1367,7 @@
     "itemId": 7106,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -1379,40 +1401,44 @@
     "name": "Antelope Skin",
     "itemId": 7107,
     "itemType": "Misc",
-    "actions": [],
+    "actions": [
+      "NPC"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 378,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "antler-helm",
     "name": "Antler Helm",
     "itemId": 6322,
     "itemType": "Misc",
-    "actions": [],
+    "actions": [
+      "NPC"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 400,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "anvil",
@@ -1420,8 +1446,7 @@
     "itemId": 986,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "NPC"
     ],
     "categories": [
       "Skills"
@@ -1429,13 +1454,13 @@
     "uses": [],
     "notes": "Raises the chance of forging a weapon. Not used up.",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 15000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "apple",
@@ -1472,8 +1497,8 @@
     "itemId": 531,
     "itemType": "Consumable",
     "actions": [
-      "NPC",
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Pet",
@@ -1499,13 +1524,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 900,
+    "avgWhobuy": 0,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "apple-of-archer-0",
@@ -1576,13 +1601,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 350000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "aquamarine",
@@ -1611,13 +1636,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 50000,
+    "avgWhobuy": 35000,
     "sellValue": 3000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "@whobuy price in game"
   },
   {
     "id": "armeyer-dinze-card",
@@ -1633,13 +1658,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "armlet-of-obedience",
@@ -1647,6 +1672,7 @@
     "itemId": 639,
     "itemType": "Consumable",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -1660,33 +1686,35 @@
     ],
     "notes": "Isis Taming Item",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 20000,
+    "avgWhobuy": 0,
     "sellValue": 9000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "armor-of-naga-1",
     "name": "Armor of Naga [1]",
     "itemId": 2389,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 1600000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "armor-piece-of-dullahan",
@@ -1702,13 +1730,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 395,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "arrow",
@@ -1743,20 +1771,22 @@
     "name": "Arrow of Shadow",
     "itemId": 1767,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "NPC"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 1,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "ascending-dragon-soup",
@@ -1764,7 +1794,7 @@
     "itemId": 12084,
     "itemType": "Consumable",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Cooking"
@@ -1772,13 +1802,13 @@
     "uses": [],
     "notes": "+9 VIT for 20 minutes",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 40000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "assassin-mask",
@@ -1786,7 +1816,8 @@
     "itemId": 5054,
     "itemType": "Equipment",
     "actions": [
-      "Vend"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Server Hat Quest",
@@ -1800,33 +1831,35 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "assassin-mask-0",
     "name": "Assassin Mask [0]",
     "itemId": 5096,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "assaulter-card",
@@ -1842,13 +1875,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 1000000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "assorted-seafood",
@@ -1856,7 +1889,7 @@
     "itemId": 12052,
     "itemType": "Consumable",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Cooking"
@@ -1864,13 +1897,13 @@
     "uses": [],
     "notes": "+2 VIT for 20 minutes",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 2000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "assorted-shish-kebob",
@@ -1878,7 +1911,7 @@
     "itemId": 12097,
     "itemType": "Consumable",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Cooking"
@@ -1886,13 +1919,13 @@
     "uses": [],
     "notes": "+7 LUK for 20 minutes",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 20000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "authoritative-badge",
@@ -1900,8 +1933,7 @@
     "itemId": 662,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Vend"
     ],
     "categories": [
       "Uncategorized"
@@ -1909,13 +1941,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 4500,
+    "avgWhobuy": 3200,
     "sellValue": 725,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "autumn-red-tea",
@@ -1923,7 +1955,7 @@
     "itemId": 12047,
     "itemType": "Consumable",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Cooking"
@@ -1931,13 +1963,13 @@
     "uses": [],
     "notes": "+2 INT for 20 minutes",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 2000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "awfully-bitter-bracer",
@@ -1945,7 +1977,7 @@
     "itemId": 12081,
     "itemType": "Consumable",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Cooking"
@@ -1953,13 +1985,13 @@
     "uses": [],
     "notes": "+6 VIT for 20 minutes",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 10000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "axe-4",
@@ -1968,7 +2000,7 @@
     "itemType": "Equipment",
     "actions": [
       "Keep",
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Official Hat Quest"
@@ -1981,13 +2013,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 250,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bacillus",
@@ -2029,15 +2061,15 @@
     "id": "backpack",
     "name": "Backpack",
     "itemId": 10013,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "NPC"
+      "Junk"
     ],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Poring, Drops, Poporing Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -2107,7 +2139,6 @@
     "itemId": 513,
     "itemType": "Consumable",
     "actions": [
-      "Keep",
       "NPC"
     ],
     "categories": [
@@ -2135,40 +2166,44 @@
     "name": "Banana Hat [0]",
     "itemId": 5116,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 100000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "banana-juice",
     "name": "Banana Juice",
     "itemId": 532,
     "itemType": "Consumable",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Pet"
     ],
     "uses": [],
     "notes": "Yoyo Pet food",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 500,
+    "avgWhobuy": 0,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "bandana-0",
@@ -2176,6 +2211,7 @@
     "itemId": 2211,
     "itemType": "Equipment",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -2231,13 +2267,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 400,
+    "avgWhobuy": 350,
     "sellValue": 0,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "baphomet-doll",
@@ -2245,6 +2281,7 @@
     "itemId": 750,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -2259,12 +2296,12 @@
     "notes": "",
     "links": [],
     "avgVend": 16000,
-    "avgWhobuy": null,
+    "avgWhobuy": 0,
     "sellValue": 9000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "@whobuy price in game"
   },
   {
     "id": "baphomet-jr-card",
@@ -2272,6 +2309,7 @@
     "itemId": 4129,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -2292,35 +2330,35 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 500000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bark-shorts",
     "name": "Bark Shorts",
     "itemId": 10017,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "NPC"
+      "Junk"
     ],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Spore, Poison Spore Pet accessory",
     "links": [],
-    "avgVend": null,
+    "avgVend": 2500,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "bat-cage",
@@ -2344,13 +2382,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 700,
+    "avgWhobuy": 0,
     "sellValue": 440,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "battered-kettle",
@@ -2366,75 +2404,79 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 128,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "battered-pot",
     "name": "Battered Pot",
     "itemId": 10010,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Peco Peco Pet accessory",
     "links": [],
-    "avgVend": null,
+    "avgVend": 75000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "battle-axe-4",
     "name": "Battle Axe [4]",
     "itemId": 1352,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 20000,
     "avgWhobuy": null,
     "sellValue": 2700,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "battle-fork-4",
     "name": "Battle Fork [4]",
     "itemId": 1485,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 20000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bears-footskin",
@@ -2442,7 +2484,8 @@
     "itemId": 948,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Dungeon Quest",
@@ -2457,13 +2500,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 1000,
+    "avgWhobuy": 800,
     "sellValue": 87,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "bearfoot-special",
@@ -2479,35 +2522,35 @@
     "uses": [],
     "notes": "+8 STR for 20 minutes",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 55000,
+    "avgWhobuy": 0,
     "sellValue": 30000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "beautiful-badges",
     "name": "Beautiful Badges",
     "itemId": 10028,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "NPC"
+      "Junk"
     ],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Goblin Leader Pet accessory",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bee-sting",
@@ -2515,8 +2558,8 @@
     "itemId": 939,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Skills"
@@ -2530,13 +2573,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 1400,
+    "avgWhobuy": 650,
     "sellValue": 16,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "beehive-box",
@@ -2552,13 +2595,13 @@
     "uses": [],
     "notes": "Hornet Taming Item",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 24000,
+    "avgWhobuy": 0,
     "sellValue": 0,
     "sellSource": "rathena-renewal",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "beret-0",
@@ -2592,20 +2635,22 @@
     "name": "Berserk Guitar [0]",
     "itemId": 1920,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "NPC"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "berserk-potion",
@@ -2669,6 +2714,7 @@
     "itemId": 2244,
     "itemType": "Equipment",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -2682,13 +2728,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 25000,
     "avgWhobuy": null,
     "sellValue": 7500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bill-of-birds",
@@ -2724,20 +2770,22 @@
     "name": "Binoculars [0]",
     "itemId": 2296,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 400000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "biotite",
@@ -2745,7 +2793,8 @@
     "itemId": 7297,
     "itemType": "Misc",
     "actions": [
-      "Vend"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Other Quest"
@@ -2779,33 +2828,35 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 1500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "biretta-1",
     "name": "Biretta [1]",
     "itemId": 2217,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 20000,
     "avgWhobuy": null,
     "sellValue": 4500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bitter-herb",
@@ -2813,6 +2864,7 @@
     "itemId": 621,
     "itemType": "Consumable",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -2833,13 +2885,13 @@
     ],
     "notes": "Poporing Taming Item",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 15000,
+    "avgWhobuy": 2000,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "black-bear-skin",
@@ -2861,55 +2913,57 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 192,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "black-butterfly-mask",
     "name": "Black Butterfly Mask",
     "itemId": 10037,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "Vend"
+      "Junk"
     ],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "Sucubus Pet accessory",
+    "notes": "Succubus Pet accessory",
     "links": [],
-    "avgVend": null,
+    "avgVend": 0,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "black-cat-0",
     "name": "Black Cat [0]",
     "itemId": 2747,
     "itemType": "Equipment",
-    "actions": [],
+    "actions": [
+      "Vend"
+    ],
     "categories": [
       "Uncategorized"
     ],
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 75000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "black-cat-doll",
@@ -2918,8 +2972,7 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend",
-      "Whobuy"
+      "Vend"
     ],
     "categories": [
       "Pet Evolution",
@@ -2943,13 +2996,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 4000,
+    "avgWhobuy": 3500,
     "sellValue": 720,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "black-dyestuffs",
@@ -2997,13 +3050,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 14000,
+    "avgWhobuy": 0,
     "sellValue": 4000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "black-ladle",
@@ -3033,6 +3086,7 @@
     "itemId": 7023,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -3052,13 +3106,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 350000,
+    "avgWhobuy": 0,
     "sellValue": 6000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "blank-scroll",
@@ -3117,13 +3171,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 300000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "blood-flavored-soda",
@@ -3131,7 +3185,7 @@
     "itemId": 12099,
     "itemType": "Consumable",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Cooking"
@@ -3139,13 +3193,13 @@
     "uses": [],
     "notes": "+9 LUK for 20 minutes",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 40000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "bloody-page",
@@ -3153,8 +3207,8 @@
     "itemId": 7449,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "NPC"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Pet Evolution",
@@ -3169,13 +3223,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 900,
+    "avgWhobuy": 0,
     "sellValue": 340,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "bloody-rune",
@@ -3213,13 +3267,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 700000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "blue-bijou",
@@ -3227,7 +3281,8 @@
     "itemId": 7446,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Official Hat Quest"
@@ -3244,13 +3299,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 750,
+    "avgWhobuy": 0,
     "sellValue": 443,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "blue-feather",
@@ -3278,13 +3333,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 125000,
+    "avgWhobuy": 113000,
     "sellValue": 704,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "blue-gemstone",
@@ -3292,7 +3347,8 @@
     "itemId": 717,
     "itemType": "Misc",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Skills",
@@ -3385,13 +3441,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 0,
+    "avgWhobuy": 0,
     "sellValue": 171,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "blue-herb",
@@ -3399,8 +3455,8 @@
     "itemId": 510,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
-      "Whobuy"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Pet Evolution",
@@ -3436,13 +3492,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 3000,
+    "avgWhobuy": 2700,
     "sellValue": 30,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "blue-potion",
@@ -3450,7 +3506,8 @@
     "itemId": 505,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Cooking",
@@ -3531,13 +3588,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 2000000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bomb-wick-0",
@@ -4731,7 +4788,6 @@
     "itemId": 534,
     "itemType": "Consumable",
     "actions": [
-      "Keep",
       "NPC"
     ],
     "categories": [
@@ -5040,7 +5096,6 @@
     "itemId": 736,
     "itemType": "Misc",
     "actions": [
-      "Keep",
       "NPC"
     ],
     "categories": [
@@ -8288,7 +8343,8 @@
       "Vend"
     ],
     "categories": [
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Card"
     ],
     "uses": [
       {
@@ -9148,7 +9204,6 @@
     "itemId": 35661,
     "itemType": "Misc",
     "actions": [
-      "Whobuy",
       "Vend"
     ],
     "categories": [
@@ -9400,7 +9455,7 @@
     "id": "fashionable-glasses",
     "name": "Fashionable Glasses",
     "itemId": 10024,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "NPC"
     ],
@@ -11756,7 +11811,7 @@
     "id": "golden-bell",
     "name": "Golden Bell",
     "itemId": 10016,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "Keep",
       "Vend"
@@ -11771,7 +11826,7 @@
         "qty": 1
       }
     ],
-    "notes": "",
+    "notes": "Sohee Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -11785,13 +11840,13 @@
     "id": "golden-earring",
     "name": "Golden Earring",
     "itemId": 10022,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Civil Servant Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12020,13 +12075,13 @@
     "id": "grave-keepers-sword",
     "name": "Grave Keeper's Sword",
     "itemId": 10020,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Bongun Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12294,13 +12349,13 @@
     "id": "green-jewel-bag",
     "name": "Green Jewel Bag",
     "itemId": 10023,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Leaf Cat Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12314,7 +12369,7 @@
     "id": "green-lace",
     "name": "Green Lace",
     "itemId": 10015,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "Keep"
     ],
@@ -12328,7 +12383,7 @@
         "qty": 1
       }
     ],
-    "notes": "",
+    "notes": "Savage Babe Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -12554,13 +12609,13 @@
     "id": "hairband-of-stars",
     "name": "Hairband of Stars",
     "itemId": 10025,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Marionette Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -13677,13 +13732,13 @@
     "id": "horn-barrier",
     "name": "Horn Barrier",
     "itemId": 10038,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Imp Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -13719,13 +13774,13 @@
     "id": "horn-of-hell",
     "name": "Horn of Hell",
     "itemId": 10036,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Nightmare Terror Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -14960,7 +15015,7 @@
     "id": "jade-trinket",
     "name": "Jade Trinket",
     "itemId": 10029,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "NPC"
     ],
@@ -16665,7 +16720,8 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Card"
     ],
     "uses": [
       {
@@ -17358,13 +17414,13 @@
     "id": "masked-ball",
     "name": "Masked Ball",
     "itemId": 10034,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Incubus Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -18070,7 +18126,7 @@
     "id": "monkey-circlet",
     "name": "Monkey Circlet",
     "itemId": 10018,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "NPC"
     ],
@@ -18115,7 +18171,7 @@
     "id": "monster-oxygen-mask",
     "name": "Monster Oxygen Mask",
     "itemId": 10002,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "NPC"
     ],
@@ -18123,7 +18179,7 @@
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Chonchon, Steel Chonchon, Hunter Fly Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -19024,7 +19080,6 @@
     "itemId": 960,
     "itemType": "Misc",
     "actions": [
-      "Keep",
       "Vend"
     ],
     "categories": [
@@ -20088,7 +20143,7 @@
     "id": "pacifier",
     "name": "Pacifier",
     "itemId": 10004,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "Vend",
       "NPC"
@@ -20103,7 +20158,7 @@
         "qty": 1
       }
     ],
-    "notes": "",
+    "notes": "Deviruchi Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -20253,7 +20308,7 @@
     "itemId": 6021,
     "itemType": "Misc",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
       "Uncategorized"
@@ -20589,6 +20644,7 @@
     "itemId": 7290,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -21774,7 +21830,7 @@
     "id": "punisher",
     "name": "Punisher",
     "itemId": 10008,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "Vend",
       "Keep"
@@ -21790,7 +21846,7 @@
         "qty": 1
       }
     ],
-    "notes": "Keep 1",
+    "notes": "Munak Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -21978,13 +22034,13 @@
     "id": "queens-coronet",
     "name": "Queen's Coronet",
     "itemId": 10032,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Medusa Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -21998,7 +22054,7 @@
     "id": "queens-hair-ornament",
     "name": "Queen's Hair Ornament",
     "itemId": 10006,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "Vend"
     ],
@@ -22018,7 +22074,7 @@
         "qty": 1
       }
     ],
-    "notes": "",
+    "notes": "Isis Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -22468,7 +22524,8 @@
     "itemId": 507,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Pet",
@@ -22640,7 +22697,7 @@
     "id": "red-scarf",
     "name": "Red Scarf",
     "itemId": 10019,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
@@ -22942,13 +22999,13 @@
     "id": "ring-of-death",
     "name": "Ring of Death",
     "itemId": 10031,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Dullahan Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -23046,15 +23103,15 @@
     "id": "rocker-glasses",
     "name": "Rocker Glasses",
     "itemId": 10014,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "NPC"
+      "Junk"
     ],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Rocker Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -23416,8 +23473,8 @@
     "itemId": 739,
     "itemType": "Misc",
     "actions": [
-      "NPC",
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Server Hat Quest",
@@ -23431,13 +23488,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
+    "avgVend": 15000,
+    "avgWhobuy": 0,
     "sellValue": 5000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
     "id": "rough-elunium",
@@ -25049,7 +25106,7 @@
     "id": "silk-ribbon",
     "name": "Silk Ribbon",
     "itemId": 10007,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "Keep",
       "Vend"
@@ -25076,7 +25133,7 @@
         "qty": 1
       }
     ],
-    "notes": "",
+    "notes": "Lunatic Pet accessory",
     "links": [],
     "avgVend": 25000,
     "avgWhobuy": null,
@@ -25371,13 +25428,13 @@
     "id": "skull-helm",
     "name": "Skull Helm",
     "itemId": 10001,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Baphomet Jr. Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -25883,7 +25940,8 @@
     "itemId": 4100,
     "itemType": "Misc",
     "actions": [
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Pet Evolution",
@@ -26089,7 +26147,6 @@
     "itemId": 908,
     "itemType": "Misc",
     "actions": [
-      "Keep",
       "NPC"
     ],
     "categories": [
@@ -26407,7 +26464,7 @@
     "id": "spring",
     "name": "Spring",
     "itemId": 10035,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "NPC"
     ],
@@ -26415,7 +26472,7 @@
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Golem Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -27157,7 +27214,7 @@
     "id": "stellar-hairpin",
     "name": "Stellar Hairpin",
     "itemId": 10011,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "Keep",
       "Vend"
@@ -27166,7 +27223,7 @@
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Petite Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -27789,13 +27846,13 @@
     "id": "summer-fan",
     "name": "Summer Fan",
     "itemId": 10030,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Miyabi Doll Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -28107,6 +28164,8 @@
       "Whobuy"
     ],
     "categories": [
+      "Pet Evolution",
+      "Pet",
       "uaRO"
     ],
     "uses": [
@@ -28314,13 +28373,13 @@
     "id": "tassel-for-durumagi",
     "name": "Tassel for Durumagi",
     "itemId": 10026,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Shinobi Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -28358,7 +28417,8 @@
     "itemId": 4340,
     "itemType": "Misc",
     "actions": [
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Pet Evolution",
@@ -28646,7 +28706,7 @@
     "id": "tiny-egg-shell",
     "name": "Tiny Egg Shell",
     "itemId": 10012,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "NPC"
     ],
@@ -28654,7 +28714,7 @@
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Picky Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -28911,7 +28971,7 @@
     "id": "transparent-head-protector",
     "name": "Transparent Head Protector",
     "itemId": 10003,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
       "NPC"
     ],
@@ -28919,7 +28979,7 @@
       "Pet"
     ],
     "uses": [],
-    "notes": "",
+    "notes": "Baby Desert Wolf Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -30185,9 +30245,9 @@
     "id": "wig",
     "name": "Wig",
     "itemId": 10005,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [
-      "NPC"
+      "Vend"
     ],
     "categories": [
       "Pet"
@@ -30227,13 +30287,13 @@
     "id": "wild-flower",
     "name": "Wild Flower",
     "itemId": 10009,
-    "itemType": "Misc",
+    "itemType": "Equipment",
     "actions": [],
     "categories": [
       "Pet"
     ],
     "uses": [],
-    "notes": "Orc Warror pet accessory",
+    "notes": "Orc Warrior Pet accessory",
     "links": [],
     "avgVend": null,
     "avgWhobuy": null,
@@ -30254,7 +30314,8 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Card"
     ],
     "uses": [
       {
@@ -30941,7 +31002,8 @@
     "categories": [
       "Pet Evolution",
       "Pet",
-      "uaRO"
+      "uaRO",
+      "Card"
     ],
     "uses": [
       {
@@ -31543,7 +31605,6 @@
     "itemId": 942,
     "itemType": "Misc",
     "actions": [
-      "Keep",
       "Vend"
     ],
     "categories": [
