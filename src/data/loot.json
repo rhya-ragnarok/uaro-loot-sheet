@@ -1766,37 +1766,6 @@
     "verificationNotes": ""
   },
   {
-    "id": "blood-red",
-    "name": "Blood Red",
-    "itemId": null,
-    "itemType": "Misc",
-    "actions": [
-      "Vend",
-      "Whobuy"
-    ],
-    "categories": [
-      "Pet Evolution",
-      "Pet",
-      "uaRO",
-      "Skills"
-    ],
-    "uses": [
-      {
-        "for": "Fire Golem Pet Evolution",
-        "qty": 50
-      }
-    ],
-    "notes": "",
-    "links": [],
-    "avgVend": null,
-    "avgWhobuy": null,
-    "sellValue": 500,
-    "sellSource": "manual",
-    "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
-  },
-  {
     "id": "bloody-page",
     "name": "Bloody Page",
     "itemId": 7449,
@@ -11676,6 +11645,37 @@
     "avgVend": null,
     "avgWhobuy": null,
     "sellValue": 443,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "red-blood",
+    "name": "Red Blood",
+    "itemId": 990,
+    "itemType": "Misc",
+    "actions": [
+      "Vend",
+      "Whobuy"
+    ],
+    "categories": [
+      "Pet Evolution",
+      "Pet",
+      "uaRO",
+      "Skills"
+    ],
+    "uses": [
+      {
+        "for": "Fire Golem Pet Evolution",
+        "qty": 50
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 500,
     "sellSource": "hercules",
     "npcBuyable": "no",
     "lastVerified": null,
