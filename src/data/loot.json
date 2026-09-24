@@ -3412,8 +3412,8 @@
     "verificationNotes": ""
   },
   {
-    "id": "cotton-tufts",
-    "name": "Cotton Tufts",
+    "id": "cotton-wads",
+    "name": "Cotton Wads",
     "itemId": 25233,
     "itemType": "Misc",
     "actions": [
@@ -4893,13 +4893,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 8480,
     "avgWhobuy": 7500,
     "sellValue": 0,
     "sellSource": "manual",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "fabric",
@@ -6497,7 +6497,7 @@
     "itemId": 7821,
     "itemType": "Misc",
     "actions": [
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Pet"
@@ -6509,7 +6509,7 @@
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
-    "npcBuyable": "no",
+    "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -10617,13 +10617,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 3449,
     "avgWhobuy": null,
     "sellValue": 216,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "pearl",
@@ -10837,13 +10837,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 80000,
     "avgWhobuy": null,
     "sellValue": 1500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "piece-of-bamboo",
@@ -11780,13 +11780,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 62,
     "avgWhobuy": null,
     "sellValue": 9,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "red-muffler",
@@ -12216,13 +12216,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 380000,
     "avgWhobuy": null,
     "sellValue": 1500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "rotten-bandage",
@@ -15549,13 +15549,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 187000,
     "avgWhobuy": null,
     "sellValue": 100000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-24",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "venom-canine",
