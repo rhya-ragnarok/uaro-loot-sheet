@@ -7122,6 +7122,11 @@
       {
         "for": "Vanilmirth Hat",
         "qty": 20
+      },
+      {
+        "for": "Red Blood",
+        "qty": 1,
+        "note": "Utan Shaman in Umbala: 1 makes 6-10"
       }
     ],
     "notes": "",
@@ -8512,7 +8517,13 @@
     "categories": [
       "Uncategorized"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Green Live",
+        "qty": 1,
+        "note": "Utan Shaman in Umbala: 1 makes 6-10"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -12481,6 +12492,11 @@
       {
         "for": "Fish in Mouth",
         "qty": 50
+      },
+      {
+        "for": "Crystal Blue",
+        "qty": 1,
+        "note": "Utan Shaman in Umbala: 1 makes 6-10"
       }
     ],
     "notes": "",
@@ -16109,6 +16125,11 @@
       {
         "for": "Fish in Mouth",
         "qty": 50
+      },
+      {
+        "for": "Wind of Verdure",
+        "qty": 1,
+        "note": "Utan Shaman in Umbala: 1 makes 6-10"
       }
     ],
     "notes": "",
