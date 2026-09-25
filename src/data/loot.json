@@ -1544,6 +1544,7 @@
     "itemId": 2285,
     "itemType": "Equipment",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -5543,7 +5544,6 @@
     "itemId": 7752,
     "itemType": "Misc",
     "actions": [
-      "Keep",
       "Vend"
     ],
     "categories": [
@@ -6654,6 +6654,7 @@
     "itemId": 747,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -7168,7 +7169,8 @@
     "itemId": 6100,
     "itemType": "Misc",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Pet Evolution",
@@ -7551,6 +7553,7 @@
     "itemId": 4122,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -7838,7 +7841,6 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend",
       "NPC"
     ],
     "categories": [
@@ -7981,7 +7983,7 @@
     ],
     "uses": [
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 10
       }
     ],
@@ -8309,6 +8311,7 @@
     "itemId": 4659,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -9934,6 +9937,7 @@
     "itemId": 1023,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -11544,8 +11548,7 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend",
-      "Whobuy"
+      "Vend"
     ],
     "categories": [
       "Other Quest",
@@ -12080,6 +12083,7 @@
     "itemId": 4072,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -13655,6 +13659,7 @@
     "itemId": 4413,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -15110,6 +15115,7 @@
     "itemId": 4412,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -17484,7 +17490,7 @@
     ],
     "uses": [
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 10
       }
     ],
@@ -17712,6 +17718,7 @@
     "itemId": 522,
     "itemType": "Consumable",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -17813,7 +17820,8 @@
     "itemId": 517,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Pet Evolution",
@@ -18102,6 +18110,7 @@
     "itemId": 4057,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -18172,7 +18181,8 @@
     "itemId": 519,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Cooking",
@@ -20687,6 +20697,7 @@
     "itemId": 4031,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -20899,7 +20910,8 @@
     "itemId": 537,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Pet",
@@ -21922,7 +21934,7 @@
         "qty": 1000
       },
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 2000
       }
     ],
@@ -24059,7 +24071,7 @@
     "itemId": 526,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -25516,7 +25528,7 @@
         "qty": 1
       },
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 10
       }
     ],
@@ -30845,6 +30857,7 @@
     "itemId": 7340,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -32016,7 +32029,7 @@
     ],
     "uses": [
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 1
       }
     ],

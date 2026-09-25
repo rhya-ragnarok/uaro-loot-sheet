@@ -2,7 +2,23 @@
   "about": "What each \"Used For\" target is worth, for targets that aren't loot in the sheet (hats, pet evolutions, quests). The site uses these to suggest Keep: an item is worth keeping when the finished thing is worth more than all its parts sold. Targets that are items in the sheet use that item's own prices instead. A target with no value here counts as worth keeping, since it can't be bought, only made.",
   "items": [
     {
+      "for": "Aliza Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Ancient Mummy Pet Evolution",
+      "value": 5500000
+    },
+    {
+      "for": "Baby Pacifier",
+      "value": 0
+    },
+    {
       "for": "Bacsojin Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Blue Fish",
       "value": 0
     },
     {
@@ -14,8 +30,100 @@
       "value": 0
     },
     {
+      "for": "Cowboy Hat",
+      "value": 0
+    },
+    {
+      "for": "Crunch Toast",
+      "value": 0
+    },
+    {
+      "for": "Dark Randgris Helm",
+      "value": 0
+    },
+    {
+      "for": "Diabolic Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Earth Deleter Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Eggring Pet Evolution",
+      "value": 7000000
+    },
+    {
+      "for": "Fire Golem Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Gloom Under Night Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Grand Peco Pet Evolution",
+      "value": 2000000
+    },
+    {
+      "for": "Hair Brush",
+      "value": 0
+    },
+    {
       "for": "High Orc Pet Evolution",
       "value": 6000000
+    },
+    {
+      "for": "Hodremlin Pet Evolution",
+      "value": 37000000
+    },
+    {
+      "for": "Kiel D-01 Pet Evolution",
+      "value": 300000000
+    },
+    {
+      "for": "Mage Hat",
+      "value": 0
+    },
+    {
+      "for": "Metaller Pet Evolution",
+      "value": 5000000
+    },
+    {
+      "for": "Mine Hat",
+      "value": 0
+    },
+    {
+      "for": "Mistress Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Ph.D Hat",
+      "value": 0
+    },
+    {
+      "for": "Pisces Crown",
+      "value": 0
+    },
+    {
+      "for": "Rigid Nightmare Terror Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Satanic Bone Helm",
+      "value": 25000000
+    },
+    {
+      "for": "Savage Pet Evolution",
+      "value": 0
+    },
+    {
+      "for": "Teddybear Hat",
+      "value": 0
+    },
+    {
+      "for": "Well-Chewed Pencil",
+      "value": 7500000
     },
     {
       "for": "Yao Jun Pet Evolution (Hyegun)",
