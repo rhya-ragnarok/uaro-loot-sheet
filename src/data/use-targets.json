@@ -10,6 +10,10 @@
       "value": 5500000
     },
     {
+      "for": "Antique Smoking Pipe",
+      "value": 0
+    },
+    {
       "for": "Baby Pacifier",
       "value": 0
     },
@@ -47,7 +51,7 @@
     },
     {
       "for": "Earth Deleter Pet Evolution",
-      "value": 0
+      "value": 7000000
     },
     {
       "for": "Eggring Pet Evolution",
@@ -56,6 +60,10 @@
     {
       "for": "Fire Golem Pet Evolution",
       "value": 0
+    },
+    {
+      "for": "Gigantic Majestic Goat (DEF)",
+      "value": 65000000
     },
     {
       "for": "Gloom Under Night Pet Evolution",
@@ -103,6 +111,10 @@
     },
     {
       "for": "Pisces Crown",
+      "value": 0
+    },
+    {
+      "for": "Renown Detective's Cap [1]",
       "value": 0
     },
     {
