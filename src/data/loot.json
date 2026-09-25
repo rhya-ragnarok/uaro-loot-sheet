@@ -2367,6 +2367,32 @@
     "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
+    "id": "barren-trunk",
+    "name": "Barren Trunk",
+    "itemId": 1068,
+    "itemType": "Misc",
+    "actions": [],
+    "categories": [
+      "Job Quest"
+    ],
+    "uses": [
+      {
+        "for": "Archer Job Quest",
+        "qty": 13,
+        "note": "2 points each; 25 points needed, any mix of trunks"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 1,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "bat-cage",
     "name": "Bat Cage",
     "itemId": 7214,
@@ -3253,9 +3279,20 @@
       "Keep"
     ],
     "categories": [
-      "Not Reviewed"
+      "Official Hat Quest",
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Valkyrie Helm",
+        "qty": 1000
+      },
+      {
+        "for": "Episode 13 Quests",
+        "qty": 30,
+        "note": "Defaria"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 1500,
@@ -4116,9 +4153,15 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Gonryun Quests",
+        "qty": 5,
+        "note": "Blacksmith"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -5075,9 +5118,21 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest",
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      },
+      {
+        "for": "Zealotus Mask",
+        "qty": 1,
+        "note": "any whip; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -6682,9 +6737,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Episode 13 Quests",
+        "qty": 15,
+        "note": "Laphine Craftsman"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7047,9 +7108,28 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Job Quest",
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ninja Job Quest",
+        "qty": 5
+      },
+      {
+        "for": "Monk Job Quest",
+        "qty": 5
+      },
+      {
+        "for": "Old Blue Box Quest",
+        "qty": 50
+      },
+      {
+        "for": "Hugel Quests",
+        "qty": 5,
+        "note": "Dono"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7549,9 +7629,14 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Wedding",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9044,9 +9129,20 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Gunslinger Weapon Quests",
+        "qty": 10,
+        "note": "Garrison"
+      },
+      {
+        "for": "Einbroch Quests",
+        "qty": 10,
+        "note": "Cavitar"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9386,9 +9482,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Pet"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Monster Tamer Quests",
+        "qty": 1,
+        "note": "Monster Tamer in Alberta"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9708,9 +9810,20 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Nameless Island Quest",
+        "qty": 20,
+        "note": "Wola"
+      },
+      {
+        "for": "Juno Quests",
+        "qty": 5,
+        "note": "Bain and Bajin"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9730,9 +9843,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Job Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Archer Job Quest",
+        "qty": 5,
+        "note": "5 points each; 25 points needed, any mix of trunks"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9750,9 +9869,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Gunslinger Weapon Quests",
+        "qty": 1,
+        "note": "Vanessa"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -9790,9 +9915,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10041,9 +10172,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Einbroch Quests",
+        "qty": 1,
+        "note": "Calla"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10150,9 +10287,15 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Doomed Swords Quest",
+        "qty": 2,
+        "note": "1 in part 1, 1 in part 3"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10218,9 +10361,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -11327,9 +11476,21 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Pet",
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Monster Tamer Quests",
+        "qty": 1,
+        "note": "Munak's Grandma"
+      },
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -11900,9 +12061,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Nameless Island Quest",
+        "qty": 4,
+        "note": "Rogue Guild Agent, 1 then 3"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -12557,9 +12724,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ninja Equipment Quests",
+        "qty": 1,
+        "note": "Boshuu"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -12955,9 +13128,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ninja Equipment Quests",
+        "qty": 20,
+        "note": "Tetsu"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -13210,9 +13389,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -13702,9 +13887,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Louyang Quests",
+        "qty": 5,
+        "note": "Doctor"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -13834,9 +14025,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Episode 13 Quests",
+        "qty": 35,
+        "note": "30 for a Worker, 5 for the Frozen Tree"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -13969,9 +14166,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Nameless Island Quest",
+        "qty": 4,
+        "note": "Rogue Guild Agent, 1 then 3"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -14341,9 +14544,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Zealotus Mask",
+        "qty": 1,
+        "note": "any whip; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -14657,9 +14866,15 @@
       "Vend"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 500000,
@@ -15305,9 +15520,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -15553,9 +15774,15 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Louyang Quests",
+        "qty": 1,
+        "note": "Gunpowder Expert"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -18894,9 +19121,20 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Job Quest",
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Assassin Job Quest",
+        "qty": 1
+      },
+      {
+        "for": "Doomed Swords Quest",
+        "qty": 4,
+        "note": "3 in part 1, 1 in part 3"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -18914,9 +19152,18 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Job Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Hunter Job Quest",
+        "qty": 1
+      },
+      {
+        "for": "Sage Job Quest",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -19879,9 +20126,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Gunslinger Weapon Quests",
+        "qty": 1000,
+        "note": "Lab Director"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -20382,9 +20635,15 @@
       "Vend"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Episode 13 Quests",
+        "qty": 5,
+        "note": "Hansenne"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 3449,
@@ -20775,9 +21034,20 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Job Quest",
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Ninja Job Quest",
+        "qty": 1
+      },
+      {
+        "for": "Juno Quests",
+        "qty": 1,
+        "note": "Sage Esklah"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -22009,9 +22279,19 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1
+      },
+      {
+        "for": "Alberta Quests",
+        "qty": 1,
+        "note": "Elin"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -22549,9 +22829,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Zealotus Mask",
+        "qty": 1,
+        "note": "any whip; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -22875,9 +23161,15 @@
       "Vend"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Episode 13 Quests",
+        "qty": 20,
+        "note": "Manuk Engineer"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": 1200,
@@ -23186,9 +23478,19 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1
+      },
+      {
+        "for": "Alberta Quests",
+        "qty": 1,
+        "note": "Elin"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -23366,9 +23668,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Zealotus Mask",
+        "qty": 1,
+        "note": "any whip; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -23605,13 +23913,23 @@
       "Keep"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
     "uses": [
       {
         "for": "Elunium",
         "qty": 5,
         "note": "refiner NPC"
+      },
+      {
+        "for": "Comodo Quests",
+        "qty": 1,
+        "note": "Meteurengut"
+      },
+      {
+        "for": "Juno Quests",
+        "qty": 3,
+        "note": "Bain and Bajin"
       }
     ],
     "notes": "",
@@ -23633,13 +23951,23 @@
       "Keep"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
     "uses": [
       {
         "for": "Oridecon",
         "qty": 5,
         "note": "refiner NPC"
+      },
+      {
+        "for": "Gonryun Quests",
+        "qty": 2,
+        "note": "Blacksmith"
+      },
+      {
+        "for": "Juno Quests",
+        "qty": 3,
+        "note": "Bain and Bajin"
       }
     ],
     "notes": "",
@@ -24242,7 +24570,7 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
     "uses": [
       {
@@ -25427,9 +25755,20 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Gunslinger Weapon Quests",
+        "qty": 1000,
+        "note": "Lab Director"
+      },
+      {
+        "for": "Ninja Equipment Quests",
+        "qty": 500,
+        "note": "Craftsman Kaibara"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -25447,9 +25786,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Official Hat Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Zealotus Mask",
+        "qty": 1,
+        "note": "any whip; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -25823,9 +26168,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Comodo Quests",
+        "qty": 2,
+        "note": "Zaka"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -26193,9 +26544,15 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Job Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Archer Job Quest",
+        "qty": 9,
+        "note": "3 points each; 25 points needed, any mix of trunks"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -26470,9 +26827,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -27874,9 +28237,15 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Episode 13 Quests",
+        "qty": 21,
+        "note": "20 for Diego, 1 for the Monster Scholar"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -27936,9 +28305,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -28342,9 +28717,14 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Job Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Rogue Job Quest",
+        "qty": 5
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -29323,7 +29703,8 @@
     ],
     "categories": [
       "Cooking",
-      "Official Hat Quest"
+      "Official Hat Quest",
+      "Job Quest"
     ],
     "uses": [
       {
@@ -29338,6 +29719,11 @@
         "for": "Whole Roast",
         "qty": 15,
         "note": "+7 STR food"
+      },
+      {
+        "for": "Archer Job Quest",
+        "qty": 25,
+        "note": "1 point each; 25 points needed, any mix of trunks"
       }
     ],
     "notes": "",
@@ -30895,9 +31281,14 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Job Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Monk Job Quest",
+        "qty": 10
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -30939,9 +31330,14 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Job Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Wizard Job Quest",
+        "qty": 1
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -31743,9 +32139,34 @@
       "NPC"
     ],
     "categories": [
-      "Not Reviewed"
+      "Job Quest",
+      "Pet",
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Gunslinger Job Quest",
+        "qty": 3
+      },
+      {
+        "for": "Monk Job Quest",
+        "qty": 5
+      },
+      {
+        "for": "Monster Tamer Quests",
+        "qty": 2,
+        "note": "Monster Tamer in Aldebaran"
+      },
+      {
+        "for": "Einbroch Quests",
+        "qty": 10,
+        "note": "Cavitar"
+      },
+      {
+        "for": "Nameless Island Quest",
+        "qty": 2
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -31892,9 +32313,15 @@
     "itemType": "Equipment",
     "actions": [],
     "categories": [
-      "Not Reviewed"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Sign Quest",
+        "qty": 1,
+        "note": "a weapon strong enough to break the seal; not used up"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
