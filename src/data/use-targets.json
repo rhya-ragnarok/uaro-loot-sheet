@@ -10,12 +10,20 @@
       "value": 0
     },
     {
+      "for": "Choco Pet Evolution",
+      "value": 0
+    },
+    {
       "for": "High Orc Pet Evolution",
       "value": 6000000
     },
     {
       "for": "Yao Jun Pet Evolution (Hyegun)",
       "value": 18000000
+    },
+    {
+      "for": "Zealotus Mask",
+      "value": 0
     }
   ]
 }
