@@ -409,17 +409,17 @@
       {
         "for": "Bottle Grenade",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Glistening Coat",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Anodyne",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Morroc Fruit Wine",
@@ -688,7 +688,7 @@
       {
         "for": "Aloevera",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Lucky Soup",
@@ -1468,6 +1468,7 @@
     "itemId": 512,
     "itemType": "Consumable",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -1479,6 +1480,11 @@
         "for": "Fruit Mix",
         "qty": 5,
         "note": "+3 DEX food"
+      },
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 100,
+        "note": "one of its possible requests"
       }
     ],
     "notes": "",
@@ -3064,12 +3070,19 @@
     "itemId": 737,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 20,
+        "note": "one of its possible requests"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -3409,12 +3422,12 @@
       {
         "for": "Coldproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Thunderproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "Wizard Job Quest, Blacksmith Job Quest",
@@ -3477,7 +3490,7 @@
       {
         "for": "Blue Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Autumn Red Tea",
@@ -4166,16 +4179,23 @@
     "itemId": 7188,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
-      "Cooking"
+      "Cooking",
+      "Other Quest"
     ],
     "uses": [
       {
         "for": "Awfully Bitter Bracer",
         "qty": 20,
         "note": "+6 VIT food"
+      },
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 16,
+        "note": "one of its possible requests"
       }
     ],
     "notes": "",
@@ -4541,7 +4561,7 @@
       {
         "for": "Condensed Red Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Poison Bottle",
@@ -7410,7 +7430,7 @@
       {
         "for": "Marine Sphere Bottle",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -8861,42 +8881,42 @@
       {
         "for": "Bottle Grenade",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Acid Bottle",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Plant Bottle",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Marine Sphere Bottle",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Glistening Coat",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Anodyne",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Aloevera",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Alcohol",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -8925,42 +8945,42 @@
       {
         "for": "Red Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Yellow Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "White Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Blue Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Fireproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Coldproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Earthproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Thunderproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -8989,22 +9009,22 @@
       {
         "for": "Condensed Red Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Condensed Yellow Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Condensed White Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Alcohol",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -9324,7 +9344,7 @@
       {
         "for": "Bottle Grenade",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -10078,12 +10098,19 @@
     "itemId": 7326,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 26,
+        "note": "one of its possible requests"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -10599,7 +10626,7 @@
       {
         "for": "Fireproof Potion",
         "qty": 2,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Lemly Repeatable Quest",
@@ -10859,12 +10886,20 @@
     "itemId": 910,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
-      "Brewing"
+      "Brewing",
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 40,
+        "note": "one of its possible requests"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -11489,7 +11524,7 @@
       {
         "for": "Embryo",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -13079,12 +13114,12 @@
       {
         "for": "Glistening Coat",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Coldproof Potion",
         "qty": 3,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Immortal Stew",
@@ -13566,7 +13601,7 @@
       {
         "for": "Aloevera",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Honey Grape Juice",
@@ -14483,7 +14518,7 @@
       {
         "for": "Acid Bottle",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Immortal Stew",
@@ -15476,7 +15511,7 @@
       {
         "for": "Earthproof Potion",
         "qty": 2,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -17139,7 +17174,7 @@
       {
         "for": "Plant Bottle",
         "qty": 2,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -17699,6 +17734,35 @@
     "verificationNotes": ""
   },
   {
+    "id": "melon",
+    "name": "Melon",
+    "itemId": 6264,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "NPC"
+    ],
+    "categories": [
+      "Other Quest"
+    ],
+    "uses": [
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 2,
+        "note": "one of its possible requests"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
+    "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "memento",
     "name": "Memento",
     "itemId": 934,
@@ -17749,7 +17813,7 @@
       {
         "for": "Anodyne",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Soul Haunted Bread",
@@ -18109,7 +18173,7 @@
       {
         "for": "Condensed Yellow Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -18250,7 +18314,7 @@
       {
         "for": "Embryo",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -18400,7 +18464,7 @@
       {
         "for": "Thunderproof Potion",
         "qty": 3,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -18778,12 +18842,19 @@
     "itemId": 6023,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
-      "Uncategorized"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 5,
+        "note": "one of its possible requests"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -20969,6 +21040,35 @@
     "verificationNotes": ""
   },
   {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "itemId": 6265,
+    "itemType": "Misc",
+    "actions": [
+      "Keep",
+      "NPC"
+    ],
+    "categories": [
+      "Other Quest"
+    ],
+    "uses": [
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 2,
+        "note": "one of its possible requests"
+      }
+    ],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "sellValue": 50,
+    "sellSource": "hercules",
+    "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "pinguicula-corsage-1",
     "name": "Pinguicula Corsage [1]",
     "itemId": 2745,
@@ -21196,7 +21296,7 @@
       {
         "for": "Alcohol",
         "qty": 5,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -22505,7 +22605,7 @@
       {
         "for": "Fireproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "Wizard Job Quest",
@@ -22536,7 +22636,7 @@
       {
         "for": "Red Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Autumn Red Tea",
@@ -22641,7 +22741,7 @@
       {
         "for": "Condensed Red Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Grape Juice Herbal Tea",
@@ -24420,17 +24520,24 @@
     "itemId": 911,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
       "Pet",
-      "Brewing"
+      "Brewing",
+      "Other Quest"
     ],
     "uses": [
       {
         "for": "Blue Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
+      },
+      {
+        "for": "El Dicastes Daily Quest",
+        "qty": 20,
+        "note": "one of its possible requests"
       }
     ],
     "notes": "",
@@ -24676,7 +24783,7 @@
       {
         "for": "Embryo",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -27255,7 +27362,7 @@
       {
         "for": "Alcohol",
         "qty": 5,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -28489,7 +28596,7 @@
       {
         "for": "Marine Sphere Bottle",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Tendon Satay",
@@ -30077,7 +30184,7 @@
       {
         "for": "White Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Honey Herbal Tea",
@@ -30164,7 +30271,7 @@
       {
         "for": "Condensed White Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
@@ -30569,7 +30676,7 @@
       {
         "for": "Condensed White Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Lucky Soup",
@@ -31143,7 +31250,7 @@
       {
         "for": "Earthproof Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "Wizard Job Quest",
@@ -31184,7 +31291,7 @@
       {
         "for": "Yellow Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Seasoned Sticky Webfoot",
@@ -31266,7 +31373,7 @@
       {
         "for": "Condensed Yellow Potion",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       },
       {
         "for": "Steamed Crab Nippers",
@@ -31707,7 +31814,7 @@
       {
         "for": "Glistening Coat",
         "qty": 1,
-        "note": "Prepare Potion"
+        "note": "Pharmacy"
       }
     ],
     "notes": "",
