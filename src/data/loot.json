@@ -3241,6 +3241,28 @@
     "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
+    "id": "bloody-branch",
+    "name": "Bloody Branch",
+    "itemId": 12103,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "No Use"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 3400000,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
+  },
+  {
     "id": "bloody-page",
     "name": "Bloody Page",
     "itemId": 7449,
@@ -4908,6 +4930,7 @@
     "itemId": 2617,
     "itemType": "Equipment",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -4922,13 +4945,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 140000,
     "avgWhobuy": null,
     "sellValue": 1,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "cello-3",
@@ -7614,13 +7637,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 275000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "diamond-ring-0",
@@ -21680,6 +21703,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "poring-box",
+    "name": "Poring Box",
+    "itemId": 12109,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "No Use"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 195000,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
+  },
+  {
     "id": "poring-card",
     "name": "Poring Card",
     "itemId": 4001,
@@ -23745,8 +23790,8 @@
     "itemId": 7293,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Server Hat Quest",
@@ -23796,12 +23841,12 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": 380000,
+    "avgVend": 230000,
     "avgWhobuy": null,
     "sellValue": 1500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": "2026-09-24",
+    "lastVerified": "2026-09-25",
     "verificationNotes": "Vend price from a player shop"
   },
   {
@@ -30032,7 +30077,7 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Server Hat Quest",
@@ -30046,12 +30091,12 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": 187000,
+    "avgVend": 140000,
     "avgWhobuy": null,
     "sellValue": 100000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": "2026-09-24",
+    "lastVerified": "2026-09-25",
     "verificationNotes": "Vend price from a player shop"
   },
   {
