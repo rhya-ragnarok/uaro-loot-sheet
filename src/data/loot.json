@@ -1544,6 +1544,7 @@
     "itemId": 2285,
     "itemType": "Equipment",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -2398,7 +2399,6 @@
     "itemId": 7214,
     "itemType": "Misc",
     "actions": [
-      "Keep",
       "Vend"
     ],
     "categories": [
@@ -3239,6 +3239,28 @@
     "npcBuyable": "no",
     "lastVerified": "2026-09-24",
     "verificationNotes": "Vend price from a player shop; @whobuy price in game"
+  },
+  {
+    "id": "bloody-branch",
+    "name": "Bloody Branch",
+    "itemId": 12103,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "No Use"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 3400000,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "bloody-page",
@@ -4908,6 +4930,7 @@
     "itemId": 2617,
     "itemType": "Equipment",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -4922,13 +4945,13 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 140000,
     "avgWhobuy": null,
     "sellValue": 1,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "cello-3",
@@ -5544,7 +5567,6 @@
     "itemId": 7752,
     "itemType": "Misc",
     "actions": [
-      "Keep",
       "Vend"
     ],
     "categories": [
@@ -6655,6 +6677,7 @@
     "itemId": 747,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -7169,7 +7192,8 @@
     "itemId": 6100,
     "itemType": "Misc",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Pet Evolution",
@@ -7552,6 +7576,7 @@
     "itemId": 4122,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -7612,13 +7637,13 @@
     "uses": [],
     "notes": "",
     "links": [],
-    "avgVend": null,
+    "avgVend": 275000,
     "avgWhobuy": null,
     "sellValue": 10,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
   },
   {
     "id": "diamond-ring-0",
@@ -7629,14 +7654,9 @@
       "NPC"
     ],
     "categories": [
-      "Other Quest"
+      "No Use"
     ],
-    "uses": [
-      {
-        "for": "Wedding",
-        "qty": 1
-      }
-    ],
+    "uses": [],
     "notes": "",
     "links": [],
     "avgVend": null,
@@ -7844,7 +7864,6 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend",
       "NPC"
     ],
     "categories": [
@@ -7987,7 +8006,7 @@
     ],
     "uses": [
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 10
       }
     ],
@@ -8315,6 +8334,7 @@
     "itemId": 4659,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -9940,6 +9960,7 @@
     "itemId": 1023,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -11550,8 +11571,7 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend",
-      "Whobuy"
+      "Vend"
     ],
     "categories": [
       "Other Quest",
@@ -12086,6 +12106,7 @@
     "itemId": 4072,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -13661,6 +13682,7 @@
     "itemId": 4413,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -15116,6 +15138,7 @@
     "itemId": 4412,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -17490,7 +17513,7 @@
     ],
     "uses": [
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 10
       }
     ],
@@ -17718,6 +17741,7 @@
     "itemId": 522,
     "itemType": "Consumable",
     "actions": [
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -17819,7 +17843,8 @@
     "itemId": 517,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Pet Evolution",
@@ -18108,6 +18133,7 @@
     "itemId": 4057,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -18178,7 +18204,8 @@
     "itemId": 519,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Cooking",
@@ -20693,6 +20720,7 @@
     "itemId": 4031,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -20905,7 +20933,8 @@
     "itemId": 537,
     "itemType": "Consumable",
     "actions": [
-      "Keep"
+      "Keep",
+      "NPC"
     ],
     "categories": [
       "Pet",
@@ -21674,6 +21703,28 @@
     "verificationNotes": ""
   },
   {
+    "id": "poring-box",
+    "name": "Poring Box",
+    "itemId": 12109,
+    "itemType": "Consumable",
+    "actions": [
+      "Vend"
+    ],
+    "categories": [
+      "No Use"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": 195000,
+    "avgWhobuy": null,
+    "sellValue": 5000,
+    "sellSource": "hercules",
+    "npcBuyable": "no",
+    "lastVerified": "2026-09-25",
+    "verificationNotes": "Vend price from a player shop"
+  },
+  {
     "id": "poring-card",
     "name": "Poring Card",
     "itemId": 4001,
@@ -21702,8 +21753,7 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend",
-      "Whobuy"
+      "Vend"
     ],
     "categories": [
       "Server Hat Quest",
@@ -21929,7 +21979,7 @@
         "qty": 1000
       },
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 2000
       }
     ],
@@ -23740,8 +23790,8 @@
     "itemId": 7293,
     "itemType": "Misc",
     "actions": [
-      "Vend",
-      "Keep"
+      "Keep",
+      "Vend"
     ],
     "categories": [
       "Server Hat Quest",
@@ -23791,12 +23841,12 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": 380000,
+    "avgVend": 230000,
     "avgWhobuy": null,
     "sellValue": 1500,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": "2026-09-24",
+    "lastVerified": "2026-09-25",
     "verificationNotes": "Vend price from a player shop"
   },
   {
@@ -24066,7 +24116,7 @@
     "itemId": 526,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
+      "Keep",
       "NPC"
     ],
     "categories": [
@@ -25523,7 +25573,7 @@
         "qty": 1
       },
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 10
       }
     ],
@@ -30027,7 +30077,7 @@
     "itemType": "Misc",
     "actions": [
       "Keep",
-      "Vend"
+      "NPC"
     ],
     "categories": [
       "Server Hat Quest",
@@ -30041,12 +30091,12 @@
     ],
     "notes": "",
     "links": [],
-    "avgVend": 187000,
+    "avgVend": 140000,
     "avgWhobuy": null,
     "sellValue": 100000,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": "2026-09-24",
+    "lastVerified": "2026-09-25",
     "verificationNotes": "Vend price from a player shop"
   },
   {
@@ -30852,6 +30902,7 @@
     "itemId": 7340,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
@@ -32023,7 +32074,7 @@
     ],
     "uses": [
       {
-        "for": "Misteress Pet Evolution",
+        "for": "Mistress Pet Evolution",
         "qty": 1
       }
     ],
@@ -32043,6 +32094,7 @@
     "itemId": 4051,
     "itemType": "Misc",
     "actions": [
+      "Keep",
       "Vend"
     ],
     "categories": [
