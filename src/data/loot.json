@@ -10005,7 +10005,8 @@
       "Pet",
       "uaRO",
       "Official Hat Quest",
-      "Cooking"
+      "Cooking",
+      "Other Quest"
     ],
     "uses": [
       {
@@ -10020,6 +10021,11 @@
         "for": "Sumptuous Feast",
         "qty": 10,
         "note": "+7 VIT food"
+      },
+      {
+        "for": "Cat Hand Contract Quest",
+        "qty": 20,
+        "note": "once per account, with 200 Delicious Fish and 550,000z"
       }
     ],
     "notes": "",
@@ -26113,9 +26119,15 @@
     "itemType": "Misc",
     "actions": [],
     "categories": [
-      "No Use"
+      "Other Quest"
     ],
-    "uses": [],
+    "uses": [
+      {
+        "for": "Frede's Request Quest",
+        "qty": 30,
+        "note": "Bouy"
+      }
+    ],
     "notes": "",
     "links": [],
     "avgVend": null,
