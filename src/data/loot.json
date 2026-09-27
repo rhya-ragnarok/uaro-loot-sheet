@@ -1979,6 +1979,28 @@
     "verificationNotes": "Vend price from a player shop; @whobuy price in game"
   },
   {
+    "id": "awakening-potion",
+    "name": "Awakening Potion",
+    "itemId": 656,
+    "sellValue": 750,
+    "sellSource": "hercules",
+    "itemType": "Consumable",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "No Use"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "npcBuyable": "yes",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
     "id": "awfully-bitter-bracer",
     "name": "Awfully Bitter Bracer",
     "itemId": 12081,
@@ -12668,6 +12690,28 @@
     "sellValue": 500,
     "sellSource": "hercules",
     "npcBuyable": "no",
+    "lastVerified": null,
+    "verificationNotes": ""
+  },
+  {
+    "id": "green-potion",
+    "name": "Green Potion",
+    "itemId": 506,
+    "sellValue": 20,
+    "sellSource": "hercules",
+    "itemType": "Consumable",
+    "actions": [
+      "NPC"
+    ],
+    "categories": [
+      "No Use"
+    ],
+    "uses": [],
+    "notes": "",
+    "links": [],
+    "avgVend": null,
+    "avgWhobuy": null,
+    "npcBuyable": "yes",
     "lastVerified": null,
     "verificationNotes": ""
   },
@@ -28229,7 +28273,7 @@
     "itemId": 578,
     "itemType": "Consumable",
     "actions": [
-      "Vend",
+      "Keep",
       "Whobuy"
     ],
     "categories": [
@@ -28265,12 +28309,12 @@
     "notes": "",
     "links": [],
     "avgVend": null,
-    "avgWhobuy": null,
+    "avgWhobuy": 1200,
     "sellValue": 100,
     "sellSource": "hercules",
     "npcBuyable": "no",
-    "lastVerified": null,
-    "verificationNotes": ""
+    "lastVerified": "2026-09-26",
+    "verificationNotes": "@whobuy price in game"
   },
   {
     "id": "strawberry-flavored-rice-ball",
